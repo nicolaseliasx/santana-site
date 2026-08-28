@@ -1,0 +1,17 @@
+# This repository is a curated refactoring baseline, not a full WordPress backup.
+# The original backup remains locally under site/ and is intentionally not tracked.
+site/*
+!site/themes/
+site/themes/*
+!site/themes/fitnesszone-2.6/
+!site/themes/fitnesszone-2.6/**
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Runtime data and logs
+*.log
+error_log
