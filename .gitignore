@@ -1,9 +1,5 @@
-# Legacy WordPress backup: keep only the already curated theme baseline tracked.
-site/*
-!site/themes/
-site/themes/*
-!site/themes/fitnesszone-2.6/
-!site/themes/fitnesszone-2.6/**
+# Never add the legacy WordPress installation or backups again.
+site/
 
 # Dependencies, builds and generated caches.
 node_modules/

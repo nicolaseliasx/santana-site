@@ -3,4 +3,4 @@ import BaseLayout from '@/layouts/BaseLayout.astro'; import ProductCard from '@/
 export function getStaticPaths() { return Array.from({length: Math.ceil(products.length / 24)}, (_, i) => ({ params: { page: String(i + 1) }, props: { page: i + 1 } })); }
 const { page } = Astro.props; const pageProducts = products.slice((page - 1) * 24, page * 24);
 ---
-<BaseLayout title={`Produtos — página ${page} | Santana Fitness`}><section class="section"><div class="container"><div class="section-heading"><h1 class="display">Produtos / {page}</h1><a href="/produtos/">Catálogo completo</a></div><div class="grid product-grid">{pageProducts.map((product) => <ProductCard product={product} />)}</div></div></section></BaseLayout>
+<BaseLayout title={`Produtos — página ${page}`}><section class="section"><div class="container"><div class="section-heading"><h1 class="display">Produtos / {page}</h1><a href="/produtos/">Catálogo completo</a></div><div class="grid product-grid">{pageProducts.map((product) => <ProductCard product={product} />)}</div></div></section></BaseLayout>
