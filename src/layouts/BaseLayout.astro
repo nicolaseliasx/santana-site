@@ -1,0 +1,11 @@
+---
+import Header from '@/components/layout/Header.astro';
+import Footer from '@/components/layout/Footer.astro';
+import '@/styles/global.css';
+interface Props { title?: string; description?: string; canonical?: string; image?: string; }
+const { title = 'Santana Fitness', description = 'Catálogo Santana Fitness.', canonical = 'https://santanafitness.com.br/', image = '/brand/logo.jpg' } = Astro.props;
+const absoluteImage = image.startsWith('http') ? image : new URL(image, 'https://santanafitness.com.br').toString();
+const structuredData = { '@context': 'https://schema.org', '@graph': [{ '@type': 'Organization', name: 'Santana Fitness', url: 'https://santanafitness.com.br/', email: 'santanafitness@santanafitness.com.br', logo: absoluteImage, contactPoint: { '@type': 'ContactPoint', telephone: '+55 48 99926-3333', contactType: 'sales', contactOption: 'TollFree', areaServed: 'BR', availableLanguage: 'pt-BR' } }, { '@type': 'WebSite', name: 'Santana Fitness', url: 'https://santanafitness.com.br/', inLanguage: 'pt-BR' }] };
+---
+<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width" /><meta name="theme-color" content="#e4bf00" /><meta name="description" content={description} /><meta property="og:title" content={title} /><meta property="og:description" content={description} /><meta property="og:type" content="website" /><meta property="og:url" content={canonical} /><meta property="og:image" content={absoluteImage} /><link rel="canonical" href={canonical} /><title>{title}</title><script is:inline type="application/ld+json" set:html={JSON.stringify(structuredData)}></script></head><body><a class="skip-link" href="#main">Pular para o conteúdo</a><Header /><main id="main"><slot /></main><Footer /></body></html>
+<style>.skip-link{position:fixed;z-index:99;top:1rem;left:1rem;padding:.75rem 1rem;background:var(--yellow);color:#151515;transform:translateY(-150%);transition:transform .2s}.skip-link:focus{transform:translateY(0)}</style>

@@ -1,0 +1,11 @@
+{
+  "source": "public sitemap",
+  "baselineCount": 363,
+  "sourceCount": 363,
+  "generatedCount": 363,
+  "categorylessCount": 363,
+  "missingImageCount": 0,
+  "warnings": [
+    "Categories and detailed fields remain source-verification work for products without public taxonomy metadata."
+  ]
+}

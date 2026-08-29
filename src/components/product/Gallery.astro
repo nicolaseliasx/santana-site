@@ -1,0 +1,9 @@
+---
+import type { ProductImage } from '@/domain/product';
+import { imageSource } from '@/domain/product';
+const { images } = Astro.props as { images: ProductImage[] };
+const primary = images.find((image) => imageSource(image));
+---
+<div class="gallery"><div class="gallery-main">{primary ? <img src={imageSource(primary)} alt={primary.alt} width={primary.width} height={primary.height} fetchpriority="high" /> : <span class="placeholder"><span>Imagem indisponível</span></span>}</div>{images.filter((item) => imageSource(item)).length > 1 && <div class="gallery-thumbs" aria-label="Outras vistas do equipamento">{images.filter((item) => imageSource(item)).map((item, index) => <button type="button" aria-label={`Ver imagem ${index + 1}`} data-gallery-src={imageSource(item)}><img src={imageSource(item)} alt="" width="90" height="70" loading="lazy" /></button>)}</div>}</div>
+<style>.gallery-main{display:grid;place-items:center;min-height:420px;padding:2rem;background:var(--surface-2);border:1px solid var(--border)}.gallery-main img{width:100%;height:420px;object-fit:contain}.gallery-thumbs{display:flex;gap:.5rem;margin-top:.5rem}.gallery-thumbs button{padding:.2rem;background:var(--surface);border:1px solid var(--border);cursor:pointer}.gallery-thumbs img{width:80px;height:60px;object-fit:contain}@media(max-width:620px){.gallery-main{min-height:280px}.gallery-main img{height:280px}}</style>
+<script is:inline>document.querySelectorAll('[data-gallery-src]').forEach((button) => button.addEventListener('click', () => { const main = document.querySelector('.gallery-main img'); const source = button.getAttribute('data-gallery-src'); if (main && source) { main.src = source; document.querySelectorAll('[data-gallery-src]').forEach((item) => item.removeAttribute('aria-current')); button.setAttribute('aria-current', 'true'); } }));</script>

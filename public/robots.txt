@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santanafitness.com.br/sitemap-index.xml

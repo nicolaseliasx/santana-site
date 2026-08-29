@@ -1,0 +1,7 @@
+:root {
+  color-scheme: light;
+  --bg: #f5f3ed; --surface: #fff; --surface-2: #ece9e0; --text: #151515; --muted: #5e5e58;
+  --border: #d7d2c5; --yellow: #e4bf00; --red: #c62828; --focus: #151515;
+  --radius-sm: 4px; --radius-md: 8px; --radius-lg: 12px;
+  --shadow: 0 12px 30px rgb(21 21 21 / 8%); --container: 1240px;
+}

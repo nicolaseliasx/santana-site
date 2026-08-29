@@ -1,0 +1,27 @@
+---
+const { categories = [] } = Astro.props as { categories: { slug: string; name: string }[] };
+---
+<div class="catalog-controls" data-catalog-controls>
+  <label for="catalog-search">Buscar equipamento<input id="catalog-search" type="search" placeholder="Nome ou referência" autocomplete="off" /></label>
+  <label for="catalog-category">Categoria<select id="catalog-category"><option value="">Todas as categorias</option>{categories.map((category) => <option value={category.slug}>{category.name}</option>)}</select></label>
+  <p id="catalog-status" class="muted" role="status" aria-live="polite"></p>
+  <div class="catalog-empty" hidden data-catalog-empty><h2>Nenhum equipamento encontrado</h2><p>Tente outro termo ou limpe os filtros</p><button type="button" class="button button-secondary" data-clear-filters>Limpar filtros</button></div>
+</div>
+<style>
+  .catalog-controls{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:end;gap:1rem;margin-bottom:2rem;padding:1rem;background:var(--surface-2);border:1px solid var(--border)}
+  .catalog-controls label{display:grid;gap:.35rem;font-weight:700;min-width:0}.catalog-controls input,.catalog-controls select{width:100%;min-height:44px;padding:.55rem .7rem;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--surface);color:var(--text);font-size:1rem}
+  .catalog-controls p{grid-column:1/-1;margin:0}.catalog-empty{grid-column:1/-1;text-align:center;padding:2rem 1rem;border-top:1px solid var(--border)}.catalog-empty h2{margin:0;font-size:1.5rem}.catalog-empty p{margin:.35rem 0 1rem}
+  @media(max-width:620px){.catalog-controls{grid-template-columns:1fr}.catalog-controls p,.catalog-empty{grid-column:auto}}
+</style>
+<script is:inline>
+  (() => {
+    const init = () => {
+      const root = document.querySelector('[data-catalog-root]'); const controls = document.querySelector('[data-catalog-controls]');
+      if (!root || !controls || controls.dataset.initialized) return; controls.dataset.initialized = 'true';
+      const search = controls.querySelector('#catalog-search'); const category = controls.querySelector('#catalog-category'); const status = controls.querySelector('#catalog-status'); const empty = controls.querySelector('[data-catalog-empty]'); const clear = controls.querySelector('[data-clear-filters]');
+      const items = [...root.querySelectorAll('[data-product]')]; const normalize = (value) => (value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+      const update = () => { const term = normalize(search.value.trim()); const selected = category.value; let shown = 0; items.forEach((item) => { const haystack = normalize(`${item.dataset.name || ''} ${item.dataset.code || ''}`); const matchesCategory = !selected || item.dataset.catalogGroup === selected || (item.dataset.category || '').split(' ').includes(selected); const match = (!term || haystack.includes(term)) && matchesCategory; item.hidden = !match; if (match) shown += 1; }); const active = Boolean(term || selected); status.textContent = active ? `${shown} equipamento${shown === 1 ? '' : 's'} encontrado${shown === 1 ? '' : 's'}` : `${items.length} equipamentos no catálogo`; empty.hidden = !active || shown > 0; };
+      search.addEventListener('input', update); category.addEventListener('change', update); clear.addEventListener('click', () => { search.value = ''; category.value = ''; update(); search.focus(); }); update();
+    }; if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, { once: true }); else init();
+  })();
+</script>

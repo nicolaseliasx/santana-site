@@ -1,0 +1,5 @@
+---
+import ProductCard from '@/components/catalog/ProductCard.astro';
+const { products } = Astro.props;
+---
+{products.length > 0 && <section class="section related container"><div class="section-heading"><h2 class="display">Você também pode conhecer</h2></div><div class="grid product-grid">{products.map((product: any) => <ProductCard product={product} />)}</div></section>}

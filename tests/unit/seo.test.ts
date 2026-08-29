@@ -1,0 +1,3 @@
+import { describe, expect, it } from 'vitest';
+import { absoluteUrl, seoFor } from '../../src/lib/seo';
+describe('SEO', () => { it('creates production canonical URLs', () => expect(absoluteUrl('/produtos/banco')).toBe('https://santanafitness.com.br/produtos/banco/')); it('returns canonical metadata', () => expect(seoFor('Produtos', 'Catálogo', '/produtos').canonical).toContain('https://santanafitness.com.br/')); });

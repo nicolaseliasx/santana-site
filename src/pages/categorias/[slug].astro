@@ -1,0 +1,6 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro'; import ProductCard from '@/components/catalog/ProductCard.astro'; import { catalogGroups, catalogGroupBySlug, productsByCatalogGroup } from '@/data/catalog';
+export function getStaticPaths() { return catalogGroups.map((group) => ({ params: { slug: group.slug } })); }
+const category = catalogGroupBySlug(Astro.params.slug!); if (!category) throw new Error('Categoria não encontrada'); const categoryProducts = productsByCatalogGroup(category.slug);
+---
+<BaseLayout title={`${category.name} | Santana Fitness`}><section class="section"><div class="container"><div class="page-heading"><a href="/categorias/" class="muted">← Todas as categorias</a><h1 class="display">{category.name}</h1><p class="muted">{category.description}</p></div><div class="grid product-grid">{categoryProducts.map((product) => <ProductCard product={product} />)}</div></div></section></BaseLayout>

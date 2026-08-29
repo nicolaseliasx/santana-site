@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "slug": "funcional-e-crosfit",
+      "name": "Funcional e Crosfit",
+      "productCount": 192
+    },
+    {
+      "slug": "suportes-e-bancos",
+      "name": "Suportes e Bancos",
+      "productCount": 36
+    },
+    {
+      "slug": "linha-equipamentos-movement-edge",
+      "name": "Equipamentos Movement EDGE+",
+      "productCount": 23
+    },
+    {
+      "slug": "linha-academia-de-pracas",
+      "name": "Linha Academia de Praças",
+      "productCount": 18
+    },
+    {
+      "slug": "barras-e-acessorios",
+      "name": "Barras e Acessórios",
+      "productCount": 16
+    },
+    {
+      "slug": "linha-tubolar-4pl-power-line",
+      "name": "Linha Tubolar 4PL Power Line",
+      "productCount": 14
+    },
+    {
+      "slug": "linha-condominios-e-residenciais",
+      "name": "Linha Condomínios e Residenciais",
+      "productCount": 11
+    },
+    {
+      "slug": "linha-cardio-pro",
+      "name": "Linha Cárdio Pro",
+      "productCount": 11
+    },
+    {
+      "slug": "linha-articulada-convergente",
+      "name": "Linha Articulada",
+      "productCount": 9
+    },
+    {
+      "slug": "climatizadores-komeco",
+      "name": "Climatizadores Komeco",
+      "productCount": 6
+    },
+    {
+      "slug": "linha-ventiladores-e-exaustores",
+      "name": "Linha Ventiladores e Exaustores",
+      "productCount": 3
+    },
+    {
+      "slug": "pisos-especiais-para-academias",
+      "name": "Pisos Especiais para Academias",
+      "productCount": 2
+    }
+  ],
+  "categorylessCount": 22,
+  "uncategorizedCount": 0
+}

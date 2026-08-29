@@ -1,0 +1,98 @@
+---
+import type { CatalogGroup } from '@/domain/catalog-group';
+const { group, index } = Astro.props as { group: CatalogGroup; index: number };
+---
+<a class="category-card" role="listitem" href={`/categorias/${group.slug}/`}>
+  <span class="category-index">{String(index + 1).padStart(2, '0')}</span>
+  <span class="category-card__content">
+    <strong class="category-name">{group.name}</strong>
+    <span class="category-description">{group.description}</span>
+    <span class="category-count">{group.productCount} {group.productCount === 1 ? 'equipamento' : 'equipamentos'}</span>
+  </span>
+  <span aria-hidden="true" class="category-arrow">→</span>
+</a>
+<style>
+  .category-card {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    gap: .75rem;
+    min-width: 0;
+    min-height: 168px;
+    padding: 1rem;
+    color: inherit;
+    text-decoration: none;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: transparent;
+    transform-origin: center;
+    transition:
+      transform .28s cubic-bezier(.22, 1, .36, 1),
+      border-color .2s ease,
+      box-shadow .28s cubic-bezier(.22, 1, .36, 1),
+      background-color .2s ease;
+  }
+  .category-card:hover,
+  .category-card:focus-visible {
+    z-index: 2;
+    transform: translateY(-6px) scale(1.025);
+    border-color: var(--text);
+    background: var(--surface);
+    box-shadow: 0 18px 38px rgb(21 21 21 / 16%);
+  }
+  .category-card:active { transform: translateY(-2px) scale(1.01); }
+  .category-index {
+    color: var(--red);
+    font: 700 .8rem/1 'Source Sans 3', Arial, sans-serif;
+  }
+  .category-card__content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: .4rem;
+    min-width: 0;
+  }
+  .category-name {
+    font-family: 'Barlow Condensed', Impact, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: .98;
+    letter-spacing: -.02em;
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+  }
+  .category-description {
+    color: var(--muted);
+    font-size: .95rem;
+    font-weight: 500;
+    line-height: 1.3;
+    overflow-wrap: anywhere;
+  }
+  .category-count {
+    margin-top: auto;
+    color: var(--muted);
+    font-size: .88rem;
+    font-weight: 600;
+  }
+  .category-arrow {
+    margin-left: auto;
+    color: var(--red);
+    font-size: 1.35rem;
+    font-weight: 700;
+    line-height: 1;
+    transition: transform .28s cubic-bezier(.22, 1, .36, 1);
+  }
+  .category-card:hover .category-arrow,
+  .category-card:focus-visible .category-arrow { transform: translate(7px, -5px); }
+  @media (max-width: 479px) {
+    .category-card { min-height: 136px; }
+    .category-card:active { transform: scale(.985); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .category-card,
+    .category-arrow { transition: none; }
+    .category-card:hover,
+    .category-card:focus-visible,
+    .category-card:active { transform: none; }
+  }
+</style>

@@ -1,38 +1,28 @@
-# Santana Site — refactoring baseline
+# Santana Fitness — catálogo estático
 
-This repository preserves the theme currently used by the Santana Fitness WordPress
-site as a small, reviewable starting point for a future rebuild/refactor.
+Catálogo Astro estático para os 363 equipamentos públicos da Santana Fitness. Não há CMS, banco/runtime, carrinho, checkout, contas ou formulário de contato.
 
-## Included
+## Desenvolvimento
 
-- `site/themes/fitnesszone-2.6/`: the active-looking legacy theme, **Fitness Zone
-  2.6** by DesignThemes.
+```bash
+npm install
+npm run dev
+npm run check
+npm test -- --run
+npm run build
+npm run test:e2e
+```
 
-## Intentionally excluded
+O E2E usa a imagem oficial Playwright correspondente à versão instalada. O resultado de `astro build` é publicado como arquivos estáticos em `dist/`.
 
-The local source came from a WordPress backup dated 2026-08-28. It also contains a
-database dump, duplicated extracted backup directories, plugin bundles, theme ZIPs
-and approximately 1.2 GB of WordPress uploads. These are not committed because they
-may contain personal data, credentials, licensed third-party code, and media assets,
-and are unsuitable for ordinary Git history.
+## Dados e mídia
 
-The original local backup is retained under `site/` and is ignored by Git except for
-the theme listed above.
+`src/data/catalog.generated.json` e as Content Collections são gerados a partir do sitemap e das páginas públicas do WordPress. A migração usa cache local ignorado em `.migration/`, preserva nomes/taxonomia/URLs legadas e produz os relatórios em `reports/`. Rode `npm run migrate:catalog` para atualizar conteúdo e `npm run migrate:images` para baixar/validar originais e gerar WebP/AVIF. Nunca adicione dumps, credenciais, cache HTML ou estado Docker ao Git.
 
-## Legacy WordPress dependencies observed
+Os originais ficam em `public/products/`, sem alteração visual; variantes têm hash de conteúdo e nunca excedem as dimensões originais. Imagens sem fonte recuperável permanecem como estado de ausência na interface.
 
-The backup contains the following plugin directories. Treat this as an inventory to
-validate against the live installation, not as a deployment manifest:
+## Rotas e manutenção
 
-`akismet`, `all-in-one-wp-migration`, `bbpress`, `buddypress`,
-`designthemes-core-features`, `envato-wordpress-toolkit`,
-`gallery-and-caption`, `hello-dolly`, `js_composer`, `mailchimp-for-wp`, `revslider`,
-`roses-like-this`, `s2member`, `timetable`, `unyson`, `updraftplus`, `wordpress-seo`,
-`wpglobus-for-wpbakery-visual-composer`, and `wpme-google-maps`.
+As rotas principais são `/`, `/produtos/`, `/produtos/pagina/:page/`, `/produtos/:slug/`, `/categorias/`, `/categorias/:slug/`, `/sobre/` e `/contato/`. Regras de `/dt_galleries/` e `/gallery_entries/` estão em `public/_redirects`; conteúdo removido recebe 410.
 
-## Next steps before a rebuild
-
-1. Confirm the active WordPress theme and plugins from the production admin.
-2. Export only the content and media that are approved for migration.
-3. Replace the legacy theme and page-builder/plugin coupling with a maintained stack.
-4. Rotate any production credentials that may have existed in the original backup.
+WhatsApp é centralizado em `src/lib/whatsapp/` e usa somente `+55 48 99926-3333`. Mensagens de produto sempre incluem nome, referência quando verificada e URL HTTPS de produção.

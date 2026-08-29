@@ -1,0 +1,35 @@
+{
+  "name": "santana-fitness-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "vitest",
+    "test:e2e": "docker run --rm --ipc=host -v \"$(pwd)\":/work -v \"$(pwd)/node_modules\":/work/node_modules -w /work mcr.microsoft.com/playwright:v1.62.1-noble npx playwright test",
+    "migrate:extract": "node scripts/migrate-live-catalog.mjs --extract-only",
+    "migrate:catalog": "node scripts/migrate-live-catalog.mjs",
+    "migrate:images": "node scripts/migrate-images.mjs",
+    "images:remove-background": "node scripts/images/remove-background.mjs",
+    "validate:catalog": "node scripts/validate-catalog.mjs",
+    "validate:images": "node scripts/validate-images.mjs",
+    "validate:redirects": "node scripts/validate-redirects.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.14.1",
+    "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@playwright/test": "^1.55.0",
+    "@tailwindcss/vite": "^4.1.13",
+    "axe-playwright": "^2.1.0",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
