@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA OCA 40 CM C/ PRESILHAS PAR da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 63.",
   "features": [],
   "specifications": [],
   "images": [

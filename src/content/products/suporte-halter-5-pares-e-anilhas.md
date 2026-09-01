@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE HALTER 5 PARES E ANILHAS da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 56.",
   "features": [],
   "specifications": [],
   "images": [

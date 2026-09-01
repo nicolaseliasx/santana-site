@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento TORRE HALTER EMBORRACHADO DO 1KG AO 10KG da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 22.",
   "features": [],
   "specifications": [],
   "images": [

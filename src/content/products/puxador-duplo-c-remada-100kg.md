@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento PUXADOR DUPLO C/ REMADA 100KG da linha Power Line (Tubular 4\").",
-  "description": "Produto listado na tabela LINHA POWER LINE MAR 26.ods, linha 52.",
   "features": [],
   "specifications": [],
   "images": [

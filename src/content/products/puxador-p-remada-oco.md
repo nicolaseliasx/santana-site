@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento PUXADOR P/ REMADA OCO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 42.",
   "features": [],
   "specifications": [],
   "images": [

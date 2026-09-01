@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento BANCO SIMPLES da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 41.",
   "features": [],
   "specifications": [],
   "images": [

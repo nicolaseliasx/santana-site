@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento PROTETOR DE BARRA EM EVA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 68.",
   "features": [],
   "specifications": [],
   "images": [

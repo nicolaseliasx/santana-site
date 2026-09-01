@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE P/ 20 COLCHONETES da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 70.",
   "features": [],
   "specifications": [],
   "images": [

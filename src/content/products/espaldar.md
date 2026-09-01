@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento ESPALDAR da linha Tubular 4\" (TB4PL).",
-  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 44.",
   "features": [],
   "specifications": [],
   "images": [

@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE BARRA FOGUETEIRO 4 BARRAS da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 33.",
   "features": [],
   "specifications": [],
   "images": [

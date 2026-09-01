@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRAMACIÇA CROMADA 2,00M da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 45.",
   "features": [],
   "specifications": [],
   "images": [],

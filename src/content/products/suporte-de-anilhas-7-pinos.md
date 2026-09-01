@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE DE ANILHAS 7 PINOS da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 72.",
   "features": [],
   "specifications": [],
   "images": [],

@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE ANILHAS 5 PONTAS da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 43.",
   "features": [],
   "specifications": [],
   "images": [

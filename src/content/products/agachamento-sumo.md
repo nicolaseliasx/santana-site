@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento AGACHAMENTO SUMO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 38.",
   "features": [],
   "specifications": [],
   "images": [

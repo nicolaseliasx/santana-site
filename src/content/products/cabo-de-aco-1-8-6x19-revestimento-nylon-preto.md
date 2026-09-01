@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento CABO DE AÇO 1/8 6X19 REVESTIMENTO NYLON PRETO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 73.",
   "features": [],
   "specifications": [],
   "images": [],

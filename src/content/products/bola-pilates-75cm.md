@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento BOLA PILATES 75CM da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 74.",
   "features": [],
   "specifications": [],
   "images": [

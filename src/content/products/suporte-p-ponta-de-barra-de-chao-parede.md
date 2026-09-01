@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE P/ PONTA DE BARRA DE CHÃO/PAREDE da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 74.",
   "features": [],
   "specifications": [],
   "images": [

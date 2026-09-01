@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento DUMBELL DE FERRO PINTADO KG da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 75.",
   "features": [],
   "specifications": [],
   "images": [

@@ -65,7 +65,6 @@ const products = dataset.map((record, index) => {
     priceFormatted: record.priceFormatted,
     categorySlugs: [record.categorySlug],
     summary: `Equipamento ${record.name} da linha ${record.line}.`,
-    description: `Produto listado na tabela ${record.sourceFile}, linha ${record.rowNumber}.`,
     features: [],
     specifications: [],
     images,

@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento STEP EVA 30x60x10cm da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 64.",
   "features": [],
   "specifications": [],
   "images": [

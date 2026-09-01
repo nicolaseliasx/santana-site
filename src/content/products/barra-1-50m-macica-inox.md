@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA 1,50M MACIÇA INOX da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 23.",
   "features": [],
   "specifications": [],
   "images": [],

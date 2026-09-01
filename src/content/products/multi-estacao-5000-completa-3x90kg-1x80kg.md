@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento MULTI ESTAÇÃO 5000 COMPLETA 3X90KG 1X80KG da linha Power Line (Tubular 4\").",
-  "description": "Produto listado na tabela LINHA POWER LINE MAR 26.ods, linha 47.",
   "features": [],
   "specifications": [],
   "images": [

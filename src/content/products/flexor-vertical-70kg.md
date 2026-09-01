@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento FLEXOR VERTICAL 70KG da linha Tubular 4\" (TB4PL).",
-  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 51.",
   "features": [],
   "specifications": [],
   "images": [],

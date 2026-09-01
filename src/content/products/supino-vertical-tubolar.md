@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento SUPINO VERTICAL TUBOLAR da linha Power Line (Tubular 4\").",
-  "description": "Produto listado na tabela LINHA POWER LINE MAR 26.ods, linha 57.",
   "features": [],
   "specifications": [],
   "images": [],

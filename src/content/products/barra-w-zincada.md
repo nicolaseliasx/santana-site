@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA W ZINCADA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 50.",
   "features": [],
   "specifications": [],
   "images": [

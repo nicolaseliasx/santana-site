@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento LEG 45 CARRINHO MODELO 2026 LEVE da linha Tubular 4\" (TB4PL).",
-  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 61.",
   "features": [],
   "specifications": [],
   "images": [

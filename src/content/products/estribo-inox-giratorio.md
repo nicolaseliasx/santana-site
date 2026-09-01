@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento ESTRIBO INOX GIRATORIO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 26.",
   "features": [],
   "specifications": [],
   "images": [

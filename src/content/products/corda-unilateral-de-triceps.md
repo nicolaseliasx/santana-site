@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento CORDA UNILATERAL DE TRÍCEPS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 51.",
   "features": [],
   "specifications": [],
   "images": [

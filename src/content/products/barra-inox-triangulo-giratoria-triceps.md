@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX TRIANGULO GIRATORIA TRICEPS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 28.",
   "features": [],
   "specifications": [],
   "images": [

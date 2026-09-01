@@ -32,8 +32,8 @@ export const products: Product[] = generated.map((raw, index) => {
     slug: raw.slug || `produto-${index + 1}`,
     name: raw.name || raw.slug || `Produto ${index + 1}`,
     code: raw.code,
-    price: raw.price || 0,
-    priceFormatted: raw.priceFormatted || '',
+    price: raw.price,
+    priceFormatted: raw.priceFormatted,
     categorySlugs: raw.categorySlugs || [],
     catalogGroupSlug,
     summary: raw.summary,
@@ -51,8 +51,11 @@ export const products: Product[] = generated.map((raw, index) => {
 export const catalogGroupMap: Record<string, CatalogGroup['slug']> = Object.fromEntries(products.map((product) => [product.slug, product.catalogGroupSlug]));
 const productIds = new Set(products.map((product) => product.id));
 const legacyIds = new Set(products.map((product) => product.legacyId));
-if (products.length !== 221 || Object.keys(catalogGroupMap).length !== products.length || productIds.size !== products.length || legacyIds.size !== products.length || products.some((product) => product.price <= 0 || !product.priceFormatted || !catalogGroupDefinitions.some((group) => group.slug === product.catalogGroupSlug))) {
-  throw new Error('Imported catalogue must contain 221 unique products with valid prices and groups');
+const formatPrice = (value: number) => new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(value);
+/** Absent price means "Sob consulta"; a present price must be positive and consistently formatted. */
+const hasValidPrice = (product: Product) => product.price == null ? product.priceFormatted == null : product.price > 0 && product.priceFormatted === formatPrice(product.price);
+if (products.length !== 247 || Object.keys(catalogGroupMap).length !== products.length || productIds.size !== products.length || legacyIds.size !== products.length || products.some((product) => !hasValidPrice(product) || !catalogGroupDefinitions.some((group) => group.slug === product.catalogGroupSlug))) {
+  throw new Error('Imported catalogue must contain 247 unique products with valid prices (or sob consulta) and groups');
 }
 
 export const allCategories: Category[] = categories.map((category) => ({ ...category, productCount: products.filter((product) => product.categorySlugs.includes(category.slug)).length }));

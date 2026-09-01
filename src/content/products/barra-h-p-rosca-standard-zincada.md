@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA H P/ ROSCA STANDARD ZINCADA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 39.",
   "features": [],
   "specifications": [],
   "images": [

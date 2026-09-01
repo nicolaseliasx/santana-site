@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA W PUXADOR 50CM GIRATÓRIO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 37.",
   "features": [],
   "specifications": [],
   "images": [

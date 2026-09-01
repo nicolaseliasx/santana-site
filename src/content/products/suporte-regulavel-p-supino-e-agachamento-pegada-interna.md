@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE REGULÁVEL P/ SUPINO E AGACHAMENTO PEGADA INTERNA da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 52.",
   "features": [],
   "specifications": [],
   "images": [

@@ -11,7 +11,6 @@
     "linha-articulada-convergente"
   ],
   "summary": "Equipamento SUPINO RETO ARTICULADO da linha Articulada.",
-  "description": "Produto listado na tabela LINHA ARTICULADA MAR 2026.xls, linha 19.",
   "features": [],
   "specifications": [],
   "images": [],

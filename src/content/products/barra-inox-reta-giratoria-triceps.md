@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX RETA GIRATORIA TRICEPS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 30.",
   "features": [],
   "specifications": [],
   "images": [

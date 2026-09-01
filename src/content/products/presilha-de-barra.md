@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento PRESILHA DE BARRA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 54.",
   "features": [],
   "specifications": [],
   "images": [

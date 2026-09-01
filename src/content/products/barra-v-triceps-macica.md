@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA V TRÍCEPS MACIÇA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 29.",
   "features": [],
   "specifications": [],
   "images": [

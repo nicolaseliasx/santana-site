@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento PAR DE BARRA C/ ROSCA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 60.",
   "features": [],
   "specifications": [],
   "images": [],

@@ -11,7 +11,6 @@
     "linha-articulada-convergente"
   ],
   "summary": "Equipamento LEG 90 da linha Articulada.",
-  "description": "Produto listado na tabela LINHA ARTICULADA MAR 2026.xls, linha 26.",
   "features": [],
   "specifications": [],
   "images": [],

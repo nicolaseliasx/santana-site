@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX OLIMPICA 2.00 C/ ROLAMENTOS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 19.",
   "features": [],
   "specifications": [],
   "images": [

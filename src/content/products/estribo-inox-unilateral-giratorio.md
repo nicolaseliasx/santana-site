@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento ESTRIBO INOX UNILATERAL GIRATÓRIO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 33.",
   "features": [],
   "specifications": [],
   "images": [

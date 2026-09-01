@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE CARRINHO 3 NÍVEIS CANELEIRAS da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 35.",
   "features": [],
   "specifications": [],
   "images": [

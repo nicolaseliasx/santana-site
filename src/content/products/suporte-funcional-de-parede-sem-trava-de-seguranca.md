@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE FUNCIONAL DE PAREDE SEM TRAVA DE SEGURANÇA da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 68.",
   "features": [],
   "specifications": [],
   "images": [

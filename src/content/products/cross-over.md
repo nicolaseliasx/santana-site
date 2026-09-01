@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento CROSS-OVER da linha Power Line (Tubular 4\").",
-  "description": "Produto listado na tabela LINHA POWER LINE MAR 26.ods, linha 29.",
   "features": [],
   "specifications": [],
   "images": [

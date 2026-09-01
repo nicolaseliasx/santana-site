@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento CROSSOVER DE MÃO PAR da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 72.",
   "features": [],
   "specifications": [],
   "images": [

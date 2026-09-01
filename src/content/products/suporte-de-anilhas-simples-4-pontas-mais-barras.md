@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE DE ANILHAS SIMPLES 4 PONTAS MAIS BARRAS da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 64.",
   "features": [],
   "specifications": [],
   "images": [

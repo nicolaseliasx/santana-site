@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento COLCHONETE EMBORRACHADO 90X50X3CM D60 da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 52.",
   "features": [],
   "specifications": [],
   "images": [

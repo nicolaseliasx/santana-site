@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento TORNOZELEIRA CROSSOVER EVA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 71.",
   "features": [],
   "specifications": [],
   "images": [

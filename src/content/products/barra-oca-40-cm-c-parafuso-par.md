@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA OCA 40 CM C/ PARAFUSO PAR da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 62.",
   "features": [],
   "specifications": [],
   "images": [

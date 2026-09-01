@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX V REMADA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 27.",
   "features": [],
   "specifications": [],
   "images": [

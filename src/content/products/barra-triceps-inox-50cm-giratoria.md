@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA TRÍCEPS INOX 50CM GIRATÓRIA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 31.",
   "features": [],
   "specifications": [],
   "images": [

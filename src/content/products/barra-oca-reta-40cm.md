@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA OCA RETA 40CM da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 41.",
   "features": [],
   "specifications": [],
   "images": [

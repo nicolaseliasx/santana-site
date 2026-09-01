@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX PUXADOR CURVA 1,20 MACIÇA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 21.",
   "features": [],
   "specifications": [],
   "images": [

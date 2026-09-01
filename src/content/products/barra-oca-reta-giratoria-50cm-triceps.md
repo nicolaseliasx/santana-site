@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA OCA RETA GIRATORIA 50CM TRICEPS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 32.",
   "features": [],
   "specifications": [],
   "images": [

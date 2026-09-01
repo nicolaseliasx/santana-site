@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento KIT PUXADORES ANATÔMICOS REVESTIDO COM SUPORTE DE PAREDE da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 59.",
   "features": [],
   "specifications": [],
   "images": [

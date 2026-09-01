@@ -11,7 +11,6 @@
     "linha-articulada-convergente"
   ],
   "summary": "Equipamento EXTENSOR SIMPLES ANILHAS da linha Articulada.",
-  "description": "Produto listado na tabela LINHA ARTICULADA MAR 2026.xls, linha 33.",
   "features": [],
   "specifications": [],
   "images": [

@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento SUPORTE SUPINO E AGACHAMENTO PEGADA EXTERNA da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 60.",
   "features": [],
   "specifications": [],
   "images": [

@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA HEXAGONAL da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 56.",
   "features": [],
   "specifications": [],
   "images": [

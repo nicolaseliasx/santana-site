@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA HEXAGONAL PEGADA EMBORRACHADA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 57.",
   "features": [],
   "specifications": [],
   "images": [

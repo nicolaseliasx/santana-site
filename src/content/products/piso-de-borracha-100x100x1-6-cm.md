@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento PISO DE BORRACHA 100X100X1,6 CM da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 65.",
   "features": [],
   "specifications": [],
   "images": [

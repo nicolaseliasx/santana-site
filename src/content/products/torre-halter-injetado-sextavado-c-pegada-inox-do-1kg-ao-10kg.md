@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento TORRE HALTER INJETADO SEXTAVADO C/ PEGADA INOX DO 1KG AO 10KG da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 21.",
   "features": [],
   "specifications": [],
   "images": [

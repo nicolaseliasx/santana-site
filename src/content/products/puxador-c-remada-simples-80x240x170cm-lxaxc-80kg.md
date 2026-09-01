@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento PUXADOR C/ REMADA SIMPLES (80X240X170CM LxAxC) 80KG da linha Tubular 4\" (TB4PL).",
-  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 81.",
   "features": [],
   "specifications": [],
   "images": [

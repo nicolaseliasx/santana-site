@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA H STANDARD INOX da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 36.",
   "features": [],
   "specifications": [],
   "images": [],

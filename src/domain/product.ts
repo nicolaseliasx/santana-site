@@ -1,4 +1,4 @@
-export type SourceKind = 'database' | 'public-page' | 'public-media' | 'derived';
+export type SourceKind = 'database' | 'public-page' | 'public-media' | 'derived' | 'legacy-page';
 export type SourceTrace = { kind: SourceKind; url?: string; identifier?: string; field?: string };
 export type ImageVariant = { src: string; width: number; height: number; bytes?: number; mime?: string };
 export type ProductImage = {
@@ -21,8 +21,9 @@ export type Product = {
   slug: string;
   name: string;
   code?: string;
-  price: number;
-  priceFormatted: string;
+  /** Absent price means "Sob consulta" (price on request). */
+  price?: number;
+  priceFormatted?: string;
   categorySlugs: string[];
   catalogGroupSlug: import('./catalog-group').CatalogGroupSlug;
   summary?: string;

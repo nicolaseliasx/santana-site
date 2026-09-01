@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA H P/ PUXADOR SIMPLES MACIÇA ZINCADA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 58.",
   "features": [],
   "specifications": [],
   "images": [

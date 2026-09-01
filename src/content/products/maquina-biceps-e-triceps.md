@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento MÁQUINA BÍCEPS E TRÍCEPS da linha Power Line (Tubular 4\").",
-  "description": "Produto listado na tabela LINHA POWER LINE MAR 26.ods, linha 59.",
   "features": [],
   "specifications": [],
   "images": [

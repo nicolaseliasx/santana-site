@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento MOSQUETÃO 08x80 inox da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 55.",
   "features": [],
   "specifications": [],
   "images": [

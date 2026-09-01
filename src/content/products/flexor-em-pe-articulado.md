@@ -11,7 +11,6 @@
     "linha-articulada-convergente"
   ],
   "summary": "Equipamento FLEXOR EM PÉ ARTICULADO da linha Articulada.",
-  "description": "Produto listado na tabela LINHA ARTICULADA MAR 2026.xls, linha 31.",
   "features": [],
   "specifications": [],
   "images": [

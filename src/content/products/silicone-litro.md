@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento SILICONE LITRO da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 76.",
   "features": [],
   "specifications": [],
   "images": [],

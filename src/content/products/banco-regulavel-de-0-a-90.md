@@ -11,7 +11,6 @@
     "linha-tubolar-4pl-power-line"
   ],
   "summary": "Equipamento BANCO REGULÁVEL DE 0 Á 90º da linha Tubular 4\" (TB4PL).",
-  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 26.",
   "features": [],
   "specifications": [],
   "images": [

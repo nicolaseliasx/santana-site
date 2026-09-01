@@ -11,7 +11,6 @@
     "funcional-e-crosfit"
   ],
   "summary": "Equipamento TORNOZELEIRA CROSSOVER COM ALÇA DE PÉ da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 69.",
   "features": [],
   "specifications": [],
   "images": [

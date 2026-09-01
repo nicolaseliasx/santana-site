@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA W MACIÇA INOX da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 22.",
   "features": [],
   "specifications": [],
   "images": [],

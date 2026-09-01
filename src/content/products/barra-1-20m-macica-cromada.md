@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA 1,20M MACIÇA CROMADA da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 48.",
   "features": [],
   "specifications": [],
   "images": [],

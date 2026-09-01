@@ -11,7 +11,6 @@
     "suportes-e-bancos"
   ],
   "summary": "Equipamento RACK DE PAREDE - AGACHAMENTO E BARRA FIXA da linha Bancos e Suportes.",
-  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 69.",
   "features": [],
   "specifications": [],
   "images": [

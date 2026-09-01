@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX H 1.10 P/ ROSCA C/ ROLAMENTOS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 35.",
   "features": [],
   "specifications": [],
   "images": [

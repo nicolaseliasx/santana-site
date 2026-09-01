@@ -11,7 +11,6 @@
     "linha-articulada-convergente"
   ],
   "summary": "Equipamento REMADA PONTA DE BARRA da linha Articulada.",
-  "description": "Produto listado na tabela LINHA ARTICULADA MAR 2026.xls, linha 28.",
   "features": [],
   "specifications": [],
   "images": [],

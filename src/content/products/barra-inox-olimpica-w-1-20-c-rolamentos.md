@@ -11,7 +11,6 @@
     "barras-e-acessorios"
   ],
   "summary": "Equipamento BARRA INOX OLIMPICA W 1.20 C/ ROLAMENTOS da linha Acessórios.",
-  "description": "Produto listado na tabela tabela acessórios.ods, linha 20.",
   "features": [],
   "specifications": [],
   "images": [
