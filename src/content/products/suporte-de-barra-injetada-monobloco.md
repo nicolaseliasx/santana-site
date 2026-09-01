@@ -1,38 +1,53 @@
 ---
 {
-  "id": "5658",
-  "legacyId": 5658,
+  "id": "157",
+  "legacyId": 157,
   "slug": "suporte-de-barra-injetada-monobloco",
   "name": "SUPORTE DE BARRA INJETADA MONOBLOCO",
+  "code": "SBIMB",
+  "price": 1200,
+  "priceFormatted": "R$ 1.200,00",
   "categorySlugs": [
     "suportes-e-bancos"
   ],
+  "summary": "Equipamento SUPORTE DE BARRA INJETADA MONOBLOCO da linha Bancos e Suportes.",
+  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 71.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "",
-      "localOriginal": "",
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image28.jpeg",
+      "localOriginal": "/products/suporte-de-barra-injetada-monobloco.jpg",
       "variants": {
-        "fallback": []
+        "fallback": [
+          {
+            "src": "/products/suporte-de-barra-injetada-monobloco.jpg",
+            "width": 689,
+            "height": 1024,
+            "bytes": 44415,
+            "mime": "image/jpeg"
+          }
+        ]
       },
-      "alt": "Equipamento SUPORTE DE BARRA INJETADA MONOBLOCO — imagem indisponível",
-      "width": 1,
-      "height": 1,
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "alt": "Equipamento SUPORTE DE BARRA INJETADA MONOBLOCO — vista principal",
+      "width": 689,
+      "height": 1024,
+      "hash": "1bc1de9d5507992d6e604a4e9ba3e2df0deb052f9cc5772d5003dfec1d758610",
       "isPrimary": true,
-      "src": ""
+      "src": "/products/suporte-de-barra-injetada-monobloco.jpg"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/suporte-de-barra-injetada-monobloco/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/suporte-de-barra-injetada-monobloco/",
-      "identifier": "dt_galleries:5658",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "TABELA SANTANA DE BANCOS SUPORTES.xlsx:71",
+      "field": "name/code/price/category"
+    },
+    {
+      "kind": "derived",
+      "identifier": "TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image28.jpeg",
+      "field": "image"
     }
   ],
   "featured": false

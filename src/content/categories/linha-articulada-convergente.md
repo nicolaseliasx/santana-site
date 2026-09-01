@@ -1,16 +1,16 @@
 ---
 {
-  "id": "9",
+  "id": "2",
   "slug": "linha-articulada-convergente",
-  "name": "Linha Articulada",
+  "name": "Articulada Convergente",
   "legacyUrls": [
     "/gallery_entries/linha-articulada-convergente/"
   ],
-  "productCount": 9,
+  "productCount": 18,
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/gallery_entries/linha-articulada-convergente/",
+      "kind": "derived",
+      "identifier": "reports/import-sheets.dataset.json:linha-articulada-convergente",
       "field": "name/productCount"
     }
   ]

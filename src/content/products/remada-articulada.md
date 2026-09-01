@@ -1,69 +1,53 @@
 ---
 {
-  "id": "4555",
-  "legacyId": 4555,
+  "id": "112",
+  "legacyId": 112,
   "slug": "remada-articulada",
   "name": "REMADA ARTICULADA",
+  "code": "AT 43",
+  "price": 7580,
+  "priceFormatted": "R$ 7.580,00",
   "categorySlugs": [
     "linha-articulada-convergente"
   ],
+  "summary": "Equipamento REMADA ARTICULADA da linha Articulada.",
+  "description": "Produto listado na tabela LINHA ARTICULADA MAR 2026.xls, linha 20.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "https://santanafitness.com.br/wp-content/uploads/2017/10/REMADA-ARTICULADA.png",
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip6:row19",
       "localOriginal": "/products/remada-articulada.png",
       "variants": {
         "fallback": [
           {
             "src": "/products/remada-articulada.png",
-            "width": 800,
-            "height": 800,
-            "bytes": 442428,
+            "width": 2048,
+            "height": 1726,
+            "bytes": 4239208,
             "mime": "image/png"
-          }
-        ],
-        "webp": [
-          {
-            "src": "/products/variants/remada-articulada-640-7b155eae77.webp",
-            "width": 640,
-            "height": 640,
-            "bytes": 32590,
-            "mime": "image/webp"
-          }
-        ],
-        "avif": [
-          {
-            "src": "/products/variants/remada-articulada-640-7b155eae77.avif",
-            "width": 640,
-            "height": 640,
-            "bytes": 44048,
-            "mime": "image/avif"
           }
         ]
       },
       "alt": "Equipamento REMADA ARTICULADA — vista principal",
-      "width": 800,
-      "height": 800,
-      "hash": "7b155eae77897d80694f6eb1cd302575f9bb8c3061475381a3292dcbfe2d6bfd",
+      "width": 2048,
+      "height": 1726,
+      "hash": "163c82b287e5d73815467deaf092fd232c9b8c0b5ebb9dbd52ec21b05fb06139",
       "isPrimary": true,
       "src": "/products/remada-articulada.png"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/remada-articulada/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/remada-articulada/",
-      "identifier": "dt_galleries:4555",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "LINHA ARTICULADA MAR 2026.xls:20",
+      "field": "name/code/price/category"
     },
     {
-      "kind": "public-media",
-      "url": "https://santanafitness.com.br/wp-content/uploads/2017/10/REMADA-ARTICULADA.png",
-      "field": "images"
+      "kind": "derived",
+      "identifier": "LINHA ARTICULADA MAR 2026.xls#escher:blip6:row19",
+      "field": "image"
     }
   ],
   "featured": false

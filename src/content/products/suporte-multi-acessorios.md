@@ -1,38 +1,53 @@
 ---
 {
-  "id": "5668",
-  "legacyId": 5668,
+  "id": "161",
+  "legacyId": 161,
   "slug": "suporte-multi-acessorios",
   "name": "SUPORTE MULTI ACESSÓRIOS",
+  "code": "SMA",
+  "price": 1180,
+  "priceFormatted": "R$ 1.180,00",
   "categorySlugs": [
     "suportes-e-bancos"
   ],
+  "summary": "Equipamento SUPORTE MULTI ACESSÓRIOS da linha Bancos e Suportes.",
+  "description": "Produto listado na tabela TABELA SANTANA DE BANCOS SUPORTES.xlsx, linha 75.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "",
-      "localOriginal": "",
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image30.png",
+      "localOriginal": "/products/suporte-multi-acessorios.png",
       "variants": {
-        "fallback": []
+        "fallback": [
+          {
+            "src": "/products/suporte-multi-acessorios.png",
+            "width": 2048,
+            "height": 2787,
+            "bytes": 3869403,
+            "mime": "image/png"
+          }
+        ]
       },
-      "alt": "Equipamento SUPORTE MULTI ACESSÓRIOS — imagem indisponível",
-      "width": 1,
-      "height": 1,
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "alt": "Equipamento SUPORTE MULTI ACESSÓRIOS — vista principal",
+      "width": 2048,
+      "height": 2787,
+      "hash": "7bda75b6b16792c10fdacb461aea38f0414eff054ca3467f1442b77dbf7b961d",
       "isPrimary": true,
-      "src": ""
+      "src": "/products/suporte-multi-acessorios.png"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/suporte-multi-acessorios/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/suporte-multi-acessorios/",
-      "identifier": "dt_galleries:5668",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "TABELA SANTANA DE BANCOS SUPORTES.xlsx:75",
+      "field": "name/code/price/category"
+    },
+    {
+      "kind": "derived",
+      "identifier": "TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image30.png",
+      "field": "image"
     }
   ],
   "featured": false

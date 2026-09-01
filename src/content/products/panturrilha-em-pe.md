@@ -1,69 +1,58 @@
 ---
 {
-  "id": "4439",
-  "legacyId": 4439,
+  "id": "59",
+  "legacyId": 59,
   "slug": "panturrilha-em-pe",
-  "name": "PANTURRILHA EM PÉ",
+  "name": "PANTURRILHA EM PE",
+  "code": "BC2730",
+  "price": 11975.04,
+  "priceFormatted": "R$ 11.975,04",
   "categorySlugs": [
     "linha-tubolar-4pl-power-line"
   ],
+  "summary": "Equipamento PANTURRILHA EM PE da linha Tubular 4\" (TB4PL).",
+  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 76.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "https://santanafitness.com.br/wp-content/uploads/2017/10/Panturrilha-em-Pé.png",
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000C30000010407D901A58.png",
       "localOriginal": "/products/panturrilha-em-pe.png",
       "variants": {
         "fallback": [
           {
             "src": "/products/panturrilha-em-pe.png",
-            "width": 800,
-            "height": 800,
-            "bytes": 326969,
+            "width": 3120,
+            "height": 4160,
+            "bytes": 7620693,
             "mime": "image/png"
-          }
-        ],
-        "webp": [
-          {
-            "src": "/products/variants/panturrilha-em-pe-640-4b38b34b21.webp",
-            "width": 640,
-            "height": 640,
-            "bytes": 37120,
-            "mime": "image/webp"
-          }
-        ],
-        "avif": [
-          {
-            "src": "/products/variants/panturrilha-em-pe-640-4b38b34b21.avif",
-            "width": 640,
-            "height": 640,
-            "bytes": 27711,
-            "mime": "image/avif"
           }
         ]
       },
-      "alt": "Equipamento PANTURRILHA EM PÉ — vista principal",
-      "width": 800,
-      "height": 800,
-      "hash": "4b38b34b21b77eec32dc9aed19d06e64090fda264a516c9e769e85b493ca1c72",
+      "alt": "Equipamento PANTURRILHA EM PE — vista principal",
+      "width": 3120,
+      "height": 4160,
+      "hash": "7753c05d327f151a34044c845c94f8bc3034281bf7797047537c3c494214871d",
       "isPrimary": true,
       "src": "/products/panturrilha-em-pe.png"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/panturrilha-em-pe/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/panturrilha-em-pe/",
-      "identifier": "dt_galleries:4439",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "TABELA TB4PL MAR 2026.ods:76",
+      "field": "name/code/price/category"
     },
     {
-      "kind": "public-media",
-      "url": "https://santanafitness.com.br/wp-content/uploads/2017/10/Panturrilha-em-Pé.png",
-      "field": "images"
+      "kind": "derived",
+      "identifier": "LINHA POWER LINE MAR 26.ods:49",
+      "field": "deduplicated merge"
+    },
+    {
+      "kind": "derived",
+      "identifier": "TABELA TB4PL MAR 2026.ods#Pictures/1000000100000C30000010407D901A58.png",
+      "field": "image"
     }
   ],
   "featured": false

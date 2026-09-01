@@ -1,0 +1,4645 @@
+[
+  {
+    "slug": "adutor-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000008F400000B32F6BD9251.png",
+      "localOriginal": "/products/adutor-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/adutor-80kg.png",
+            "width": 2292,
+            "height": 2866,
+            "bytes": 6082578,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ADUTOR 80KG — vista principal",
+      "width": 2292,
+      "height": 2866,
+      "hash": "5fad35b6e5fa6a33a0c51ae34e283e1c5ff11e1a42771137aaae8953005c1562",
+      "isPrimary": true,
+      "src": "/products/adutor-80kg.png"
+    }
+  },
+  {
+    "slug": "agachamento-squat",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000982000008DD2C589F5F.png",
+      "localOriginal": "/products/agachamento-squat.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/agachamento-squat.png",
+            "width": 2434,
+            "height": 2269,
+            "bytes": 6970120,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento AGACHAMENTO SQUAT — vista principal",
+      "width": 2434,
+      "height": 2269,
+      "hash": "74951702dd023bc23c2ba599e57386f217f669be0fc86da323b7002cd9298935",
+      "isPrimary": true,
+      "src": "/products/agachamento-squat.png"
+    }
+  },
+  {
+    "slug": "agachamento-sissy",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000003200000032054E68554.png",
+      "localOriginal": "/products/agachamento-sissy.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/agachamento-sissy.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 261186,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento AGACHAMENTO Sissy — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "ce0b31f303e89d7d69ba27eb06b9e9f37331189a758bc8de83d634a637079e51",
+      "isPrimary": true,
+      "src": "/products/agachamento-sissy.png"
+    }
+  },
+  {
+    "slug": "abdutor-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000008F400000B32F6BD9251.png",
+      "localOriginal": "/products/abdutor-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/abdutor-80kg.png",
+            "width": 2292,
+            "height": 2866,
+            "bytes": 6082578,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ABDUTOR 80KG — vista principal",
+      "width": 2292,
+      "height": 2866,
+      "hash": "5fad35b6e5fa6a33a0c51ae34e283e1c5ff11e1a42771137aaae8953005c1562",
+      "isPrimary": true,
+      "src": "/products/abdutor-80kg.png"
+    }
+  },
+  {
+    "slug": "adutor-abdutor-80x160x160cm-lxaxc-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000008F400000B32F6BD9251.png",
+      "localOriginal": "/products/adutor-abdutor-80x160x160cm-lxaxc-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/adutor-abdutor-80x160x160cm-lxaxc-80kg.png",
+            "width": 2292,
+            "height": 2866,
+            "bytes": 6082578,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ADUTOR/ABDUTOR (80X160X160CM LxAxC) 80KG — vista principal",
+      "width": 2292,
+      "height": 2866,
+      "hash": "5fad35b6e5fa6a33a0c51ae34e283e1c5ff11e1a42771137aaae8953005c1562",
+      "isPrimary": true,
+      "src": "/products/adutor-abdutor-80x160x160cm-lxaxc-80kg.png"
+    }
+  },
+  {
+    "slug": "banco-simples",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000000000500000003BB7E6B7726.jpg",
+      "localOriginal": "/products/banco-simples.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-simples.jpg",
+            "width": 1280,
+            "height": 955,
+            "bytes": 38818,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SIMPLES — vista principal",
+      "width": 1280,
+      "height": 955,
+      "hash": "e049f763dd4b98466c17ab7e14f8e8dbbabccf041d0062fdc609a7d8801f2727",
+      "isPrimary": true,
+      "src": "/products/banco-simples.jpg"
+    }
+  },
+  {
+    "slug": "banco-simples-90cm",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000000000500000004103F34DD15.jpg",
+      "localOriginal": "/products/banco-simples-90cm.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-simples-90cm.jpg",
+            "width": 1280,
+            "height": 1040,
+            "bytes": 69060,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SIMPLES 90CM — vista principal",
+      "width": 1280,
+      "height": 1040,
+      "hash": "3a997fdf805c0d8dc05767176712d9ed974805783c90f584568a20efb648b01f",
+      "isPrimary": true,
+      "src": "/products/banco-simples-90cm.jpg"
+    }
+  },
+  {
+    "slug": "banco-90",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000320000003206010C8F7.png",
+      "localOriginal": "/products/banco-90.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-90.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 177759,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO 90° — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "3fb9d15fda1dd092b74b92b503551c5261e42b918e1cb7b906eed21d6be0428e",
+      "isPrimary": true,
+      "src": "/products/banco-90.png"
+    }
+  },
+  {
+    "slug": "banco-regulavel-de-0-a-90",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000082A000005D062421503.png",
+      "localOriginal": "/products/banco-regulavel-de-0-a-90.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-regulavel-de-0-a-90.png",
+            "width": 2090,
+            "height": 1488,
+            "bytes": 3041335,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO REGULÁVEL DE 0 Á 90º — vista principal",
+      "width": 2090,
+      "height": 1488,
+      "hash": "0dd808e0b3a20682dd05ec661238a367ecf22d6229efdd88b0ed634c310aa521",
+      "isPrimary": true,
+      "src": "/products/banco-regulavel-de-0-a-90.png"
+    }
+  },
+  {
+    "slug": "banco-scott",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000032000000320E23D6B8B.png",
+      "localOriginal": "/products/banco-scott.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-scott.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 236035,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SCOTT — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "b22306def0818db712b7c7da706c95ed5569b8c9332571bad8e2d6f691a9c202",
+      "isPrimary": true,
+      "src": "/products/banco-scott.png"
+    }
+  },
+  {
+    "slug": "banco-supino-declinado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000320000003204F2465C1.png",
+      "localOriginal": "/products/banco-supino-declinado.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-supino-declinado.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 212790,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SUPINO DECLINADO — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "3b74dd724faa78a83d930bb51451dfd9bb1d9e09b4b64dc0319cd28c93536bc3",
+      "isPrimary": true,
+      "src": "/products/banco-supino-declinado.png"
+    }
+  },
+  {
+    "slug": "banco-supino-inclinado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000032000000320AEE91427.png",
+      "localOriginal": "/products/banco-supino-inclinado.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-supino-inclinado.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 224228,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SUPINO INCLINADO — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "f3947e0156c3e4fce6962336b7af7383af107f211e5f739be2ca5da5321158ec",
+      "isPrimary": true,
+      "src": "/products/banco-supino-inclinado.png"
+    }
+  },
+  {
+    "slug": "banco-para-desenvolvimento",
+    "status": "missing"
+  },
+  {
+    "slug": "banco-supino-regulavel",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000320000003204B66BE44.png",
+      "localOriginal": "/products/banco-supino-regulavel.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-supino-regulavel.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 344499,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SUPINO REGULÁVEL — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "d9c9a7268714e5a75c8298881e62960a7c3701e778d59c358e3300e9d334a1f0",
+      "isPrimary": true,
+      "src": "/products/banco-supino-regulavel.png"
+    }
+  },
+  {
+    "slug": "banco-supino-regulavel-3-polegadas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000004C40000050078434FB6.jpg",
+      "localOriginal": "/products/banco-supino-regulavel-3-polegadas.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-supino-regulavel-3-polegadas.jpg",
+            "width": 1220,
+            "height": 1280,
+            "bytes": 73565,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SUPINO REGULÁVEL 3 POLEGADAS — vista principal",
+      "width": 1220,
+      "height": 1280,
+      "hash": "7363d8682f84132e1e0439bf23bfb3367d6c1bf65341c071e4f75cee4594b60d",
+      "isPrimary": true,
+      "src": "/products/banco-supino-regulavel-3-polegadas.jpg"
+    }
+  },
+  {
+    "slug": "banco-supino-regulavel-residencial",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000004910000064040629EFB.jpg",
+      "localOriginal": "/products/banco-supino-regulavel-residencial.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-supino-regulavel-residencial.jpg",
+            "width": 1169,
+            "height": 1600,
+            "bytes": 116037,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SUPINO REGULÁVEL RESIDENCIAL — vista principal",
+      "width": 1169,
+      "height": 1600,
+      "hash": "a95d4fb2c9b887b5003631ea22c263b71c0e3c9814065e4e11b7e237b9464e63",
+      "isPrimary": true,
+      "src": "/products/banco-supino-regulavel-residencial.jpg"
+    }
+  },
+  {
+    "slug": "hack-agachamento-de-parede",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000000000472000005002E335729.jpg",
+      "localOriginal": "/products/hack-agachamento-de-parede.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/hack-agachamento-de-parede.jpg",
+            "width": 1138,
+            "height": 1280,
+            "bytes": 33839,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento HACK AGACHAMENTO DE PAREDE — vista principal",
+      "width": 1138,
+      "height": 1280,
+      "hash": "67d40016b52edf074bea3874e662abacdbf0fec896e46a5c6e2f799b9f84d3e7",
+      "isPrimary": true,
+      "src": "/products/hack-agachamento-de-parede.jpg"
+    }
+  },
+  {
+    "slug": "banco-supino-reto",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000003200000032040165EAA.png",
+      "localOriginal": "/products/banco-supino-reto.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-supino-reto.png",
+            "width": 800,
+            "height": 800,
+            "bytes": 198863,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SUPINO RETO — vista principal",
+      "width": 800,
+      "height": 800,
+      "hash": "47fd8d19c574f68fdf583a452ac659bc376d3e41f8790db8fce243efc1ec318b",
+      "isPrimary": true,
+      "src": "/products/banco-supino-reto.png"
+    }
+  },
+  {
+    "slug": "crossover-angular-2x80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000039300000500953FC013.jpg",
+      "localOriginal": "/products/crossover-angular-2x80kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crossover-angular-2x80kg.jpg",
+            "width": 915,
+            "height": 1280,
+            "bytes": 77221,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSSOVER ANGULAR 2X80KG — vista principal",
+      "width": 915,
+      "height": 1280,
+      "hash": "f987dbf12c0ea977a6dc16b9d825948c2613d5bbd92fe4ca2d03b912f9b1f7e6",
+      "isPrimary": true,
+      "src": "/products/crossover-angular-2x80kg.jpg"
+    }
+  },
+  {
+    "slug": "crossover-angular-simples",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000AAD00000E413726EF67.png",
+      "localOriginal": "/products/crossover-angular-simples.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crossover-angular-simples.png",
+            "width": 2733,
+            "height": 3649,
+            "bytes": 8660705,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSSOVER ANGULAR SIMPLES — vista principal",
+      "width": 2733,
+      "height": 3649,
+      "hash": "5a9da2067974f2981d168289bf2ccaa53b6923061333e9e2dd99693bec8bf995",
+      "isPrimary": true,
+      "src": "/products/crossover-angular-simples.png"
+    }
+  },
+  {
+    "slug": "crosmulti-2x70kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000093400000E4AE8159C22.png",
+      "localOriginal": "/products/crosmulti-2x70kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crosmulti-2x70kg.png",
+            "width": 2356,
+            "height": 3658,
+            "bytes": 7648835,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSMULTI 2X70KG — vista principal",
+      "width": 2356,
+      "height": 3658,
+      "hash": "59ea2aba2c979a40fc450f59ceea830be4e9d68af678214e00906b799c1a559e",
+      "isPrimary": true,
+      "src": "/products/crosmulti-2x70kg.png"
+    }
+  },
+  {
+    "slug": "crosmulti-multi-funcional-160x240x170cm-lxaxc",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000008F400000D646B819796.png",
+      "localOriginal": "/products/crosmulti-multi-funcional-160x240x170cm-lxaxc.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crosmulti-multi-funcional-160x240x170cm-lxaxc.png",
+            "width": 2292,
+            "height": 3428,
+            "bytes": 7433407,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSMULTI MULTI FUNCIONAL (160X240X170CM LxAxC) — vista principal",
+      "width": 2292,
+      "height": 3428,
+      "hash": "0f6cec4727c496f121805dd419bb1133ff4d6a8e5ce4c9427b04c693ec8e322a",
+      "isPrimary": true,
+      "src": "/products/crosmulti-multi-funcional-160x240x170cm-lxaxc.png"
+    }
+  },
+  {
+    "slug": "crosmulti-c-barra-atras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000005F600000853DFDBF977.png",
+      "localOriginal": "/products/crosmulti-c-barra-atras.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crosmulti-c-barra-atras.png",
+            "width": 1526,
+            "height": 2131,
+            "bytes": 1757256,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSMULTI C/ BARRA ATRÁS — vista principal",
+      "width": 1526,
+      "height": 2131,
+      "hash": "a432bf8aa92131425c2e3b1a32e0a2f3cb512c1f632877e441a8e3c43912218e",
+      "isPrimary": true,
+      "src": "/products/crosmulti-c-barra-atras.png"
+    }
+  },
+  {
+    "slug": "crosmulti-angular-2x80kg",
+    "status": "missing"
+  },
+  {
+    "slug": "cross-over-2x80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000B78000009D8B5C0D4EE.png",
+      "localOriginal": "/products/cross-over-2x80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/cross-over-2x80kg.png",
+            "width": 2936,
+            "height": 2520,
+            "bytes": 6584319,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSS-OVER 2X80KG — vista principal",
+      "width": 2936,
+      "height": 2520,
+      "hash": "4c45c31938357f960c3dc4bcc543b9d780b346d7fe86911475b8f0b6ade8396b",
+      "isPrimary": true,
+      "src": "/products/cross-over-2x80kg.png"
+    }
+  },
+  {
+    "slug": "elevacao-pelvica",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000A320000089E9FB1A394.png",
+      "localOriginal": "/products/elevacao-pelvica.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/elevacao-pelvica.png",
+            "width": 2610,
+            "height": 2206,
+            "bytes": 6077160,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ELEVAÇÃO PÉLVICA — vista principal",
+      "width": 2610,
+      "height": 2206,
+      "hash": "0bd50b26cdc574e3b907da4cafccdaf20125737c2ecb75c87df0ef07b5d48029",
+      "isPrimary": true,
+      "src": "/products/elevacao-pelvica.png"
+    }
+  },
+  {
+    "slug": "espaldar",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000E0B000018FE8CE81EC7.png",
+      "localOriginal": "/products/espaldar.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/espaldar.png",
+            "width": 3595,
+            "height": 6398,
+            "bytes": 4373442,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ESPALDAR — vista principal",
+      "width": 3595,
+      "height": 6398,
+      "hash": "0634bde8971a6248a3eb1be945e8b3cdd7e4034d5c3cde1609b85061ce18c262",
+      "isPrimary": true,
+      "src": "/products/espaldar.png"
+    }
+  },
+  {
+    "slug": "espaldar-1200-x-2200",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000001850000024059588AC9.png",
+      "localOriginal": "/products/espaldar-1200-x-2200.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/espaldar-1200-x-2200.png",
+            "width": 389,
+            "height": 576,
+            "bytes": 103855,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ESPALDAR 1200 X 2200 — vista principal",
+      "width": 389,
+      "height": 576,
+      "hash": "6dc9985c6bdf1f65b367939e8add926241dc30e093f891d89827e521e79198b4",
+      "isPrimary": true,
+      "src": "/products/espaldar-1200-x-2200.png"
+    }
+  },
+  {
+    "slug": "estacao-semi-pro-2000",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000004E6000004E69C00472F.png",
+      "localOriginal": "/products/estacao-semi-pro-2000.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/estacao-semi-pro-2000.png",
+            "width": 1254,
+            "height": 1254,
+            "bytes": 1227695,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ESTAÇÃO SEMI PRO 2000 — vista principal",
+      "width": 1254,
+      "height": 1254,
+      "hash": "f2ef39861a3c19699b1d41edb4790acee340355dafb6374e90710c342962a683",
+      "isPrimary": true,
+      "src": "/products/estacao-semi-pro-2000.png"
+    }
+  },
+  {
+    "slug": "estacao-profissional-3000",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000005DA0000041ACD3EC294.png",
+      "localOriginal": "/products/estacao-profissional-3000.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/estacao-profissional-3000.png",
+            "width": 1498,
+            "height": 1050,
+            "bytes": 1644865,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ESTAÇÃO PROFISSIONAL 3000 — vista principal",
+      "width": 1498,
+      "height": 1050,
+      "hash": "a503657d6d8bb5051b925a750052b2de5fbdcf292b66ce2b6c724b245a4e1752",
+      "isPrimary": true,
+      "src": "/products/estacao-profissional-3000.png"
+    }
+  },
+  {
+    "slug": "extensor-de-pernas-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000032C0000054849635A6B.png",
+      "localOriginal": "/products/extensor-de-pernas-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/extensor-de-pernas-80kg.png",
+            "width": 812,
+            "height": 1352,
+            "bytes": 1335871,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento EXTENSOR DE PERNAS 80KG — vista principal",
+      "width": 812,
+      "height": 1352,
+      "hash": "4f6ea28be03f6e00e214bfa6e8d2e309aacca7f442a3dc7b39724f15813b1c59",
+      "isPrimary": true,
+      "src": "/products/extensor-de-pernas-80kg.png"
+    }
+  },
+  {
+    "slug": "flexo-extensor-de-pernas-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000007830000099A264ED576.png",
+      "localOriginal": "/products/flexo-extensor-de-pernas-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexo-extensor-de-pernas-80kg.png",
+            "width": 1923,
+            "height": 2458,
+            "bytes": 5869084,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXO/EXTENSOR DE PERNAS 80KG — vista principal",
+      "width": 1923,
+      "height": 2458,
+      "hash": "c1d4a598532494f002333501b898625aa3fede3a936c8d99f7b7301c5ab83cf5",
+      "isPrimary": true,
+      "src": "/products/flexo-extensor-de-pernas-80kg.png"
+    }
+  },
+  {
+    "slug": "flexor-de-pernas-sentado-70kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000007830000099A264ED576.png",
+      "localOriginal": "/products/flexor-de-pernas-sentado-70kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexor-de-pernas-sentado-70kg.png",
+            "width": 1923,
+            "height": 2458,
+            "bytes": 5869084,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXOR DE PERNAS SENTADO 70KG — vista principal",
+      "width": 1923,
+      "height": 2458,
+      "hash": "c1d4a598532494f002333501b898625aa3fede3a936c8d99f7b7301c5ab83cf5",
+      "isPrimary": true,
+      "src": "/products/flexor-de-pernas-sentado-70kg.png"
+    }
+  },
+  {
+    "slug": "flexor-vertical-70kg",
+    "status": "missing"
+  },
+  {
+    "slug": "flexor-de-pernas-horizontal-70x145x150cm-lxaxc-70kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000080600000A0ADC1E28E4.jpg",
+      "localOriginal": "/products/flexor-de-pernas-horizontal-70x145x150cm-lxaxc-70kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexor-de-pernas-horizontal-70x145x150cm-lxaxc-70kg.jpg",
+            "width": 2054,
+            "height": 2570,
+            "bytes": 1081661,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXOR DE PERNAS HORIZONTAL (70X145X150CM LxAxC) 70KG — vista principal",
+      "width": 2054,
+      "height": 2570,
+      "hash": "e4cbf8932e4b6eb62391aba34d2d35842cdd2718ec1bf853ead3692a5a846892",
+      "isPrimary": true,
+      "src": "/products/flexor-de-pernas-horizontal-70x145x150cm-lxaxc-70kg.jpg"
+    }
+  },
+  {
+    "slug": "hiper-extensor",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000005000000040476897D53.jpg",
+      "localOriginal": "/products/hiper-extensor.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/hiper-extensor.jpg",
+            "width": 1280,
+            "height": 1028,
+            "bytes": 66496,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento HIPER EXTENSOR — vista principal",
+      "width": 1280,
+      "height": 1028,
+      "hash": "9ef605d0a227c347623117e3103346f5b3e03da32df9b628ba09c0b31fad689a",
+      "isPrimary": true,
+      "src": "/products/hiper-extensor.jpg"
+    }
+  },
+  {
+    "slug": "gaiola-de-agachamento",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000247000003ED7EC0AC74.png",
+      "localOriginal": "/products/gaiola-de-agachamento.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/gaiola-de-agachamento.png",
+            "width": 583,
+            "height": 1005,
+            "bytes": 235009,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento GAIOLA DE AGACHAMENTO — vista principal",
+      "width": 583,
+      "height": 1005,
+      "hash": "85c90930924a0a94b14ce8a0f672d47e7703432c7fb5384f061f329d29d8a8b9",
+      "isPrimary": true,
+      "src": "/products/gaiola-de-agachamento.png"
+    }
+  },
+  {
+    "slug": "gaiola-de-agachamento-com-rebaixo",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000098900000AA483FEB015.png",
+      "localOriginal": "/products/gaiola-de-agachamento-com-rebaixo.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/gaiola-de-agachamento-com-rebaixo.png",
+            "width": 2441,
+            "height": 2724,
+            "bytes": 6490889,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento GAIOLA DE AGACHAMENTO COM REBAIXO — vista principal",
+      "width": 2441,
+      "height": 2724,
+      "hash": "3e4350e76a84227d1569df1c5950e48f57880738c0558b18001f0f642c7d4ebf",
+      "isPrimary": true,
+      "src": "/products/gaiola-de-agachamento-com-rebaixo.png"
+    }
+  },
+  {
+    "slug": "gaiola-de-agachamento-profissional",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000033A000005008F9709C7.jpg",
+      "localOriginal": "/products/gaiola-de-agachamento-profissional.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/gaiola-de-agachamento-profissional.jpg",
+            "width": 826,
+            "height": 1280,
+            "bytes": 166630,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento GAIOLA DE AGACHAMENTO PROFISSIONAL — vista principal",
+      "width": 826,
+      "height": 1280,
+      "hash": "0ace4a8253244d611159a7ea3c00695da7eba09a7e7aed47b99696e5307471b3",
+      "isPrimary": true,
+      "src": "/products/gaiola-de-agachamento-profissional.jpg"
+    }
+  },
+  {
+    "slug": "graviton",
+    "status": "missing"
+  },
+  {
+    "slug": "leg-press-45-carrinho",
+    "status": "missing"
+  },
+  {
+    "slug": "leg-press-90-deitado",
+    "status": "missing"
+  },
+  {
+    "slug": "leg-press-45-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000009C0000008F83F08F9AD.png",
+      "localOriginal": "/products/leg-press-45-articulado.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-press-45-articulado.png",
+            "width": 2496,
+            "height": 2296,
+            "bytes": 6919920,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG PRESS 45º ARTICULADO — vista principal",
+      "width": 2496,
+      "height": 2296,
+      "hash": "f58740a7c2b673ae5a382ea21ec8b4c2b9974a9631d3db4948f7cdc57b59bbb6",
+      "isPrimary": true,
+      "src": "/products/leg-press-45-articulado.png"
+    }
+  },
+  {
+    "slug": "leg-45-carrinho-modelo-2026-leve",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000002D5000002BC001D1436.png",
+      "localOriginal": "/products/leg-45-carrinho-modelo-2026-leve.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-45-carrinho-modelo-2026-leve.png",
+            "width": 725,
+            "height": 700,
+            "bytes": 800252,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG 45 CARRINHO MODELO 2026 LEVE — vista principal",
+      "width": 725,
+      "height": 700,
+      "hash": "20fdfc08b155e3e414e630afe1a57c670037933668b38239174dd4213c5a59c0",
+      "isPrimary": true,
+      "src": "/products/leg-45-carrinho-modelo-2026-leve.png"
+    }
+  },
+  {
+    "slug": "leg-45-medio",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000044F000004B0CBE9C7D1.jpg",
+      "localOriginal": "/products/leg-45-medio.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-45-medio.jpg",
+            "width": 1103,
+            "height": 1200,
+            "bytes": 56853,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG 45 MEDIO — vista principal",
+      "width": 1103,
+      "height": 1200,
+      "hash": "3918efba1926273d60117a34b374a53370bbeb50f4c67f4351ea61e2d1132bf7",
+      "isPrimary": true,
+      "src": "/products/leg-45-medio.jpg"
+    }
+  },
+  {
+    "slug": "leg-horizontal-100kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-abdominal-80kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-de-gluteos-4-apoios-70kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-gluteos-em-pe-70kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-de-biceps-70kg",
+    "status": "missing"
+  },
+  {
+    "slug": "multi-guiado-c-rolamento-linear-simples",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000003D6000005006B35C929.jpg",
+      "localOriginal": "/products/multi-guiado-c-rolamento-linear-simples.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/multi-guiado-c-rolamento-linear-simples.jpg",
+            "width": 982,
+            "height": 1280,
+            "bytes": 258923,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento MULTI GUIADO C/ ROLAMENTO LINEAR SIMPLES — vista principal",
+      "width": 982,
+      "height": 1280,
+      "hash": "d269c75d8ecc310c0125ed03e3023703b4813e5e847ba646bbe7dbac5fb0a2f2",
+      "isPrimary": true,
+      "src": "/products/multi-guiado-c-rolamento-linear-simples.jpg"
+    }
+  },
+  {
+    "slug": "multi-guiado-c-rolamento-linear-sup-agachamento",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000038800000500ACE48A02.jpg",
+      "localOriginal": "/products/multi-guiado-c-rolamento-linear-sup-agachamento.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/multi-guiado-c-rolamento-linear-sup-agachamento.jpg",
+            "width": 904,
+            "height": 1280,
+            "bytes": 77501,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento MULTI GUIADO C/ ROLAMENTO LINEAR SUP. AGACHAMENTO — vista principal",
+      "width": 904,
+      "height": 1280,
+      "hash": "0307ebb60dc1b1cd749fbd769c25c8f21872552f3d3cc14bd88dc700c40f0dbe",
+      "isPrimary": true,
+      "src": "/products/multi-guiado-c-rolamento-linear-sup-agachamento.jpg"
+    }
+  },
+  {
+    "slug": "multi-guiado-c-rolamento-linear-plus",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000003D6000005006B35C929.jpg",
+      "localOriginal": "/products/multi-guiado-c-rolamento-linear-plus.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/multi-guiado-c-rolamento-linear-plus.jpg",
+            "width": 982,
+            "height": 1280,
+            "bytes": 258923,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento MULTI GUIADO C/ ROLAMENTO LINEAR PLUS — vista principal",
+      "width": 982,
+      "height": 1280,
+      "hash": "d269c75d8ecc310c0125ed03e3023703b4813e5e847ba646bbe7dbac5fb0a2f2",
+      "isPrimary": true,
+      "src": "/products/multi-guiado-c-rolamento-linear-plus.jpg"
+    }
+  },
+  {
+    "slug": "prancha-abdominal",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000500000002E2339F60B0.png",
+      "localOriginal": "/products/prancha-abdominal.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/prancha-abdominal.png",
+            "width": 1280,
+            "height": 738,
+            "bytes": 295820,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PRANCHA ABDOMINAL — vista principal",
+      "width": 1280,
+      "height": 738,
+      "hash": "53f5764bba047a087c707ded7f28e5d10cb670fccccfe37d35ac1ac2fe111f67",
+      "isPrimary": true,
+      "src": "/products/prancha-abdominal.png"
+    }
+  },
+  {
+    "slug": "polia-de-parede-dupla-2x70kg",
+    "status": "missing"
+  },
+  {
+    "slug": "polia-de-parede-70kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000002160000061EE11094C5.png",
+      "localOriginal": "/products/polia-de-parede-70kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/polia-de-parede-70kg.png",
+            "width": 534,
+            "height": 1566,
+            "bytes": 1262004,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento POLIA DE PAREDE 70KG — vista principal",
+      "width": 534,
+      "height": 1566,
+      "hash": "fcf1809f23d46e6fdb970ae92a880c6513412556746eaab6f2c00ad897c29ea9",
+      "isPrimary": true,
+      "src": "/products/polia-de-parede-70kg.png"
+    }
+  },
+  {
+    "slug": "polia-mono-cross-chao-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000004BB00000672AD6B6596.jpg",
+      "localOriginal": "/products/polia-mono-cross-chao-80kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/polia-mono-cross-chao-80kg.jpg",
+            "width": 1211,
+            "height": 1650,
+            "bytes": 123113,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento POLIA MONO CROSS CHÃO 80KG — vista principal",
+      "width": 1211,
+      "height": 1650,
+      "hash": "79f7ec0a3864f10862150eb23b86c057d6c6fc8ec2af204f475fe4f52bb87034",
+      "isPrimary": true,
+      "src": "/products/polia-mono-cross-chao-80kg.jpg"
+    }
+  },
+  {
+    "slug": "panturrilha-sentado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000000000640000004EB37796CD5.jpg",
+      "localOriginal": "/products/panturrilha-sentado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/panturrilha-sentado.jpg",
+            "width": 1600,
+            "height": 1259,
+            "bytes": 148459,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PANTURRILHA SENTADO — vista principal",
+      "width": 1600,
+      "height": 1259,
+      "hash": "c3132a35a285c46bd47ad72b1c172c8d7e1e0be87f09cc13675acb507ab1ec92",
+      "isPrimary": true,
+      "src": "/products/panturrilha-sentado.jpg"
+    }
+  },
+  {
+    "slug": "panturrilha-em-pe",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000100000C30000010407D901A58.png",
+      "localOriginal": "/products/panturrilha-em-pe.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/panturrilha-em-pe.png",
+            "width": 3120,
+            "height": 4160,
+            "bytes": 7620693,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PANTURRILHA EM PE — vista principal",
+      "width": 3120,
+      "height": 4160,
+      "hash": "7753c05d327f151a34044c845c94f8bc3034281bf7797047537c3c494214871d",
+      "isPrimary": true,
+      "src": "/products/panturrilha-em-pe.png"
+    }
+  },
+  {
+    "slug": "paralela-abdominal-de-parede",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000042F00000640BCADC1CE.jpg",
+      "localOriginal": "/products/paralela-abdominal-de-parede.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/paralela-abdominal-de-parede.jpg",
+            "width": 1071,
+            "height": 1600,
+            "bytes": 49186,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PARALELA ABDOMINAL DE PAREDE — vista principal",
+      "width": 1071,
+      "height": 1600,
+      "hash": "6c674d4447f04b853000b1f826fd2ec2fbf7fa66f048056ba92111ceae967983",
+      "isPrimary": true,
+      "src": "/products/paralela-abdominal-de-parede.jpg"
+    }
+  },
+  {
+    "slug": "paralela-abdominal",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000003FA00000640852D4886.png",
+      "localOriginal": "/products/paralela-abdominal.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/paralela-abdominal.png",
+            "width": 1018,
+            "height": 1600,
+            "bytes": 795712,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PARALELA ABDOMINAL — vista principal",
+      "width": 1018,
+      "height": 1600,
+      "hash": "dc884599d598fc9533690a37fe41d5929e4e4158900dc62794d06eef9df77b6b",
+      "isPrimary": true,
+      "src": "/products/paralela-abdominal.png"
+    }
+  },
+  {
+    "slug": "paralela-abdominal-bozu",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000041100000640ABC9E8C1.png",
+      "localOriginal": "/products/paralela-abdominal-bozu.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/paralela-abdominal-bozu.png",
+            "width": 1041,
+            "height": 1600,
+            "bytes": 861202,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PARALELA ABDOMINAL BOZU — vista principal",
+      "width": 1041,
+      "height": 1600,
+      "hash": "e70a4b77fa050c643e5b242745da6c43c0b4fb67c3aeb1081e8748c5d78a935d",
+      "isPrimary": true,
+      "src": "/products/paralela-abdominal-bozu.png"
+    }
+  },
+  {
+    "slug": "peitoral-dorsal-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000028C0000043E237247D6.png",
+      "localOriginal": "/products/peitoral-dorsal-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/peitoral-dorsal-80kg.png",
+            "width": 652,
+            "height": 1086,
+            "bytes": 724526,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PEITORAL/DORSAL 80KG — vista principal",
+      "width": 652,
+      "height": 1086,
+      "hash": "6dc38c80e5ae9e82402da0f3d5e55588ddf8be556cc4427393732b197b01b0b6",
+      "isPrimary": true,
+      "src": "/products/peitoral-dorsal-80kg.png"
+    }
+  },
+  {
+    "slug": "puxador-c-remada-simples-80x240x170cm-lxaxc-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000007D600000D495F6F10EA.png",
+      "localOriginal": "/products/puxador-c-remada-simples-80x240x170cm-lxaxc-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-c-remada-simples-80x240x170cm-lxaxc-80kg.png",
+            "width": 2006,
+            "height": 3401,
+            "bytes": 6136825,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR C/ REMADA SIMPLES (80X240X170CM LxAxC) 80KG — vista principal",
+      "width": 2006,
+      "height": 3401,
+      "hash": "3695263cc3f37ebad9288a4a1029afe616bf33b7add140cca346361df6177730",
+      "isPrimary": true,
+      "src": "/products/puxador-c-remada-simples-80x240x170cm-lxaxc-80kg.png"
+    }
+  },
+  {
+    "slug": "puxador-duplo-c-remada-90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000000000041B0000050032CBE83A.jpg",
+      "localOriginal": "/products/puxador-duplo-c-remada-90kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-duplo-c-remada-90kg.jpg",
+            "width": 1051,
+            "height": 1280,
+            "bytes": 66346,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR DUPLO C/ REMADA 90KG — vista principal",
+      "width": 1051,
+      "height": 1280,
+      "hash": "e7ba74c1bdf03ce4c35362985c563296b99fefd69acffa1ce0bf9732344319a5",
+      "isPrimary": true,
+      "src": "/products/puxador-duplo-c-remada-90kg.jpg"
+    }
+  },
+  {
+    "slug": "puxador-quatro-estacoes-2x80kg-2x90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000003B000000500F765C639.jpg",
+      "localOriginal": "/products/puxador-quatro-estacoes-2x80kg-2x90kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-quatro-estacoes-2x80kg-2x90kg.jpg",
+            "width": 944,
+            "height": 1280,
+            "bytes": 94531,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR QUATRO ESTAÇÕES 2X80KG 2X90KG — vista principal",
+      "width": 944,
+      "height": 1280,
+      "hash": "1525b789102b5296bcef420f2af5acf70a9a570d3c51d505547bd97d4527ad8e",
+      "isPrimary": true,
+      "src": "/products/puxador-quatro-estacoes-2x80kg-2x90kg.jpg"
+    }
+  },
+  {
+    "slug": "puxada-alta-80kg",
+    "status": "missing"
+  },
+  {
+    "slug": "rack-45",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/1000000100000F2200000DBD22B61949.png",
+      "localOriginal": "/products/rack-45.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/rack-45.png",
+            "width": 3874,
+            "height": 3517,
+            "bytes": 4683703,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento RACK 45° — vista principal",
+      "width": 3874,
+      "height": 3517,
+      "hash": "0807685666616b0e0b6416e45cd1a1bf746dc7f8853de9ab679f78be115c74e2",
+      "isPrimary": true,
+      "src": "/products/rack-45.png"
+    }
+  },
+  {
+    "slug": "remada-baixa-c-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000007F500000BC69E34C5E3.png",
+      "localOriginal": "/products/remada-baixa-c-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/remada-baixa-c-80kg.png",
+            "width": 2037,
+            "height": 3014,
+            "bytes": 3862939,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento REMADA BAIXA C/ 80KG — vista principal",
+      "width": 2037,
+      "height": 3014,
+      "hash": "5c8f1064876d068f752ac3e9fb5528979bd143235a089f59eb7133740a138df8",
+      "isPrimary": true,
+      "src": "/products/remada-baixa-c-80kg.png"
+    }
+  },
+  {
+    "slug": "remada-bateria-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000009DD000009DD0019242F.png",
+      "localOriginal": "/products/remada-bateria-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/remada-bateria-80kg.png",
+            "width": 2525,
+            "height": 2525,
+            "bytes": 5054447,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento REMADA BATERIA 80KG — vista principal",
+      "width": 2525,
+      "height": 2525,
+      "hash": "2553b2851efadd63a8128142480e30878e58653d2210f13fcb9edf4b0beac702",
+      "isPrimary": true,
+      "src": "/products/remada-bateria-80kg.png"
+    }
+  },
+  {
+    "slug": "remada-cavalinho",
+    "status": "missing"
+  },
+  {
+    "slug": "anilha-ferro-pintada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000003840000054F8AA62950.png",
+      "localOriginal": "/products/anilha-ferro-pintada.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/anilha-ferro-pintada.png",
+            "width": 900,
+            "height": 1359,
+            "bytes": 1449365,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ANILHA FERRO PINTADA — vista principal",
+      "width": 900,
+      "height": 1359,
+      "hash": "9a94c09f1e38ab439fbadcba2b15285903a37aa3f129a2943bbb2b343ff1f5b4",
+      "isPrimary": true,
+      "src": "/products/anilha-ferro-pintada.png"
+    }
+  },
+  {
+    "slug": "anilha-injetada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000009C600000D0735862744.png",
+      "localOriginal": "/products/anilha-injetada.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/anilha-injetada.png",
+            "width": 2502,
+            "height": 3335,
+            "bytes": 9194782,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ANILHA INJETADA — vista principal",
+      "width": 2502,
+      "height": 3335,
+      "hash": "5fb539f5061f94c758bb045daac1f1a48763d3378e37579ba66c73476e0f998e",
+      "isPrimary": true,
+      "src": "/products/anilha-injetada.png"
+    }
+  },
+  {
+    "slug": "halter",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000051F000001A1B1EF73E8.png",
+      "localOriginal": "/products/halter.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/halter.png",
+            "width": 1311,
+            "height": 417,
+            "bytes": 563740,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento HALTER — vista principal",
+      "width": 1311,
+      "height": 417,
+      "hash": "4a4a2b125da2578af39ecdd2a5759d021e78a6ecf43a01215bb8e5ebf5575b31",
+      "isPrimary": true,
+      "src": "/products/halter.png"
+    }
+  },
+  {
+    "slug": "kettlebell-emborrachado-kg",
+    "status": "missing"
+  },
+  {
+    "slug": "adutor-90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000009C500000BEF12D27DD4.png",
+      "localOriginal": "/products/adutor-90kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/adutor-90kg.png",
+            "width": 2501,
+            "height": 3055,
+            "bytes": 6743410,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ADUTOR 90KG — vista principal",
+      "width": 2501,
+      "height": 3055,
+      "hash": "5d06923715befce4c197ea2d24d7be045471f2499fc258e9ed12fccfca198860",
+      "isPrimary": true,
+      "src": "/products/adutor-90kg.png"
+    }
+  },
+  {
+    "slug": "abdutor-90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000009C500000BEF12D27DD4.png",
+      "localOriginal": "/products/abdutor-90kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/abdutor-90kg.png",
+            "width": 2501,
+            "height": 3055,
+            "bytes": 6743410,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ABDUTOR 90KG — vista principal",
+      "width": 2501,
+      "height": 3055,
+      "hash": "5d06923715befce4c197ea2d24d7be045471f2499fc258e9ed12fccfca198860",
+      "isPrimary": true,
+      "src": "/products/abdutor-90kg.png"
+    }
+  },
+  {
+    "slug": "adutor-abdutor-90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000009C500000BEF12D27DD4.png",
+      "localOriginal": "/products/adutor-abdutor-90kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/adutor-abdutor-90kg.png",
+            "width": 2501,
+            "height": 3055,
+            "bytes": 6743410,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ADUTOR/ABDUTOR 90KG — vista principal",
+      "width": 2501,
+      "height": 3055,
+      "hash": "5d06923715befce4c197ea2d24d7be045471f2499fc258e9ed12fccfca198860",
+      "isPrimary": true,
+      "src": "/products/adutor-abdutor-90kg.png"
+    }
+  },
+  {
+    "slug": "apolete",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000000000003D700000500FA0B5489.jpg",
+      "localOriginal": "/products/apolete.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/apolete.jpg",
+            "width": 983,
+            "height": 1280,
+            "bytes": 75460,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento APOLETE — vista principal",
+      "width": 983,
+      "height": 1280,
+      "hash": "798868fc5f125ca2a6839db0a5a5c183979db313ec2acc34a4814ee9f86db8d7",
+      "isPrimary": true,
+      "src": "/products/apolete.jpg"
+    }
+  },
+  {
+    "slug": "banco-regulavel",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000003C2000003099C84A7F6.png",
+      "localOriginal": "/products/banco-regulavel.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-regulavel.png",
+            "width": 962,
+            "height": 777,
+            "bytes": 1024948,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO REGULÁVEL — vista principal",
+      "width": 962,
+      "height": 777,
+      "hash": "83b5cd5f6f1ceef93a0a3976c9539a2c37ba4ba61964bd3bc7f31861e8b004c8",
+      "isPrimary": true,
+      "src": "/products/banco-regulavel.png"
+    }
+  },
+  {
+    "slug": "crossover-angular-2x90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000000000003370000050000121F6E.jpg",
+      "localOriginal": "/products/crossover-angular-2x90kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crossover-angular-2x90kg.jpg",
+            "width": 823,
+            "height": 1280,
+            "bytes": 118585,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSSOVER ANGULAR 2x90KG — vista principal",
+      "width": 823,
+      "height": 1280,
+      "hash": "64213c663f5ab6ac1cef9a92abde2597897c4fd2ef898e6cbf9cd94437872a6e",
+      "isPrimary": true,
+      "src": "/products/crossover-angular-2x90kg.jpg"
+    }
+  },
+  {
+    "slug": "crosmulti",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000002E2000003786E9BB42E.png",
+      "localOriginal": "/products/crosmulti.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crosmulti.png",
+            "width": 738,
+            "height": 888,
+            "bytes": 754350,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSMULTI — vista principal",
+      "width": 738,
+      "height": 888,
+      "hash": "b859f883c5789963d9b23576cfe4831885ae23510f549a2a3fe0f4e77f6e9bb5",
+      "isPrimary": true,
+      "src": "/products/crosmulti.png"
+    }
+  },
+  {
+    "slug": "cross-over",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000000000003C6000005002EE8DA39.jpg",
+      "localOriginal": "/products/cross-over.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/cross-over.jpg",
+            "width": 966,
+            "height": 1280,
+            "bytes": 118424,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSS-OVER — vista principal",
+      "width": 966,
+      "height": 1280,
+      "hash": "49090684c933c3e3563f5ca5f16d8c56154f4bba626db3d0da925443286f32fd",
+      "isPrimary": true,
+      "src": "/products/cross-over.jpg"
+    }
+  },
+  {
+    "slug": "extensor-de-pernas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000004C80000070A14AFF2DD.png",
+      "localOriginal": "/products/extensor-de-pernas.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/extensor-de-pernas.png",
+            "width": 1224,
+            "height": 1802,
+            "bytes": 2048822,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento EXTENSOR DE PERNAS — vista principal",
+      "width": 1224,
+      "height": 1802,
+      "hash": "7e6e95e4aa7fc6d87022155d3928a80dd0e7c19c121514daf0755f78e1d40e0a",
+      "isPrimary": true,
+      "src": "/products/extensor-de-pernas.png"
+    }
+  },
+  {
+    "slug": "flexo-extensor-de-pernas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000069700000A3DF166FA1A.png",
+      "localOriginal": "/products/flexo-extensor-de-pernas.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexo-extensor-de-pernas.png",
+            "width": 1687,
+            "height": 2621,
+            "bytes": 3407277,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXO/EXTENSOR DE PERNAS — vista principal",
+      "width": 1687,
+      "height": 2621,
+      "hash": "85335036a3c1bf3b8aea075ffeec16577cb7f6b67389f1b335637740f7546c10",
+      "isPrimary": true,
+      "src": "/products/flexo-extensor-de-pernas.png"
+    }
+  },
+  {
+    "slug": "flexor-de-pernas-sentado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000069700000A3DF166FA1A.png",
+      "localOriginal": "/products/flexor-de-pernas-sentado.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexor-de-pernas-sentado.png",
+            "width": 1687,
+            "height": 2621,
+            "bytes": 3407277,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXOR DE PERNAS SENTADO — vista principal",
+      "width": 1687,
+      "height": 2621,
+      "hash": "85335036a3c1bf3b8aea075ffeec16577cb7f6b67389f1b335637740f7546c10",
+      "isPrimary": true,
+      "src": "/products/flexor-de-pernas-sentado.png"
+    }
+  },
+  {
+    "slug": "flexor-vertical",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000035200000500597763A8.png",
+      "localOriginal": "/products/flexor-vertical.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexor-vertical.png",
+            "width": 850,
+            "height": 1280,
+            "bytes": 784224,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXOR VERTICAL — vista principal",
+      "width": 850,
+      "height": 1280,
+      "hash": "72b1e9103209b709ffc41d980eeea000d803721f0a967c4e44a42cbba3a92a10",
+      "isPrimary": true,
+      "src": "/products/flexor-vertical.png"
+    }
+  },
+  {
+    "slug": "flexor-de-pernas-horizontal",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000009B000000D89729B8698.png",
+      "localOriginal": "/products/flexor-de-pernas-horizontal.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexor-de-pernas-horizontal.png",
+            "width": 2480,
+            "height": 3465,
+            "bytes": 7539275,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXOR DE PERNAS HORIZONTAL — vista principal",
+      "width": 2480,
+      "height": 3465,
+      "hash": "c7f639527bdd6c07006794e481816b2b4dd9e2d6b484d6a57356b9a67f2ea809",
+      "isPrimary": true,
+      "src": "/products/flexor-de-pernas-horizontal.png"
+    }
+  },
+  {
+    "slug": "gaiola-multifuncional",
+    "status": "missing"
+  },
+  {
+    "slug": "leg-45-carrinho-350kg",
+    "status": "missing"
+  },
+  {
+    "slug": "leg-45-carrinho-500kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/1000000100000AFD00000846DC85A4AF.png",
+      "localOriginal": "/products/leg-45-carrinho-500kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-45-carrinho-500kg.png",
+            "width": 2813,
+            "height": 2118,
+            "bytes": 4371308,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG 45 CARRINHO 500KG — vista principal",
+      "width": 2813,
+      "height": 2118,
+      "hash": "8c5c4cf14e89c00fc92581e2a613cdfc95dd4ced0f6ea1b0858e3fbccd19175d",
+      "isPrimary": true,
+      "src": "/products/leg-45-carrinho-500kg.png"
+    }
+  },
+  {
+    "slug": "leg-horizontal-110kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000093400000C1B1FB95ACA.png",
+      "localOriginal": "/products/leg-horizontal-110kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-horizontal-110kg.png",
+            "width": 2356,
+            "height": 3099,
+            "bytes": 6156952,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG HORIZONTAL 110KG — vista principal",
+      "width": 2356,
+      "height": 3099,
+      "hash": "a2155470f51d5a557dd8b79b16a13593f1175323c81ca0b2923869e8c43c8fc0",
+      "isPrimary": true,
+      "src": "/products/leg-horizontal-110kg.png"
+    }
+  },
+  {
+    "slug": "maquina-abdominal-90kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-de-gluteos-4-apoios-80kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-gluteos-em-pe-80kg",
+    "status": "missing"
+  },
+  {
+    "slug": "maquina-de-biceps-80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000065A000009F0BF6323BC.png",
+      "localOriginal": "/products/maquina-de-biceps-80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/maquina-de-biceps-80kg.png",
+            "width": 1626,
+            "height": 2544,
+            "bytes": 3550088,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento MÁQUINA DE BICEPS 80KG — vista principal",
+      "width": 1626,
+      "height": 2544,
+      "hash": "e065e45231cf138479c3d89af2aa1a67f9fad2f901858ac15075548a17fe1249",
+      "isPrimary": true,
+      "src": "/products/maquina-de-biceps-80kg.png"
+    }
+  },
+  {
+    "slug": "multi-guiado-c-rolamento-linear",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000026B000003484A486667.png",
+      "localOriginal": "/products/multi-guiado-c-rolamento-linear.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/multi-guiado-c-rolamento-linear.png",
+            "width": 619,
+            "height": 840,
+            "bytes": 682348,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento MULTI GUIADO C/ ROLAMENTO LINEAR — vista principal",
+      "width": 619,
+      "height": 840,
+      "hash": "dd3fb4224c78de4a3dc446c84fe606f4f51c78d92d3a82cc19faaf17de64de15",
+      "isPrimary": true,
+      "src": "/products/multi-guiado-c-rolamento-linear.png"
+    }
+  },
+  {
+    "slug": "multi-estacao-5000-completa-3x90kg-1x80kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/1000000100000AFB00000B90D6FE469C.png",
+      "localOriginal": "/products/multi-estacao-5000-completa-3x90kg-1x80kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/multi-estacao-5000-completa-3x90kg-1x80kg.png",
+            "width": 2811,
+            "height": 2960,
+            "bytes": 5615735,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento MULTI ESTAÇÃO 5000 COMPLETA 3X90KG 1X80KG — vista principal",
+      "width": 2811,
+      "height": 2960,
+      "hash": "bd6a2d8b03cfa965a4270b949658f331004c1010a1e509e88e0beacb9db2c3d5",
+      "isPrimary": true,
+      "src": "/products/multi-estacao-5000-completa-3x90kg-1x80kg.png"
+    }
+  },
+  {
+    "slug": "leg-sentado-carrinho",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000093400000C1B1FB95ACA.png",
+      "localOriginal": "/products/leg-sentado-carrinho.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-sentado-carrinho.png",
+            "width": 2356,
+            "height": 3099,
+            "bytes": 6156952,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG SENTADO CARRINHO — vista principal",
+      "width": 2356,
+      "height": 3099,
+      "hash": "a2155470f51d5a557dd8b79b16a13593f1175323c81ca0b2923869e8c43c8fc0",
+      "isPrimary": true,
+      "src": "/products/leg-sentado-carrinho.png"
+    }
+  },
+  {
+    "slug": "peitoral-dorsal-90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000006DC00000ACA7F86A56D.png",
+      "localOriginal": "/products/peitoral-dorsal-90kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/peitoral-dorsal-90kg.png",
+            "width": 1756,
+            "height": 2762,
+            "bytes": 2838555,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PEITORAL/DORSAL 90KG — vista principal",
+      "width": 1756,
+      "height": 2762,
+      "hash": "4a9befcdcdb882b6212851b23e127a2a465a1624dd178f1924b6931ab9170e50",
+      "isPrimary": true,
+      "src": "/products/peitoral-dorsal-90kg.png"
+    }
+  },
+  {
+    "slug": "polia-simples-regulavel",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/100000010000062A0000062A4939F65B.png",
+      "localOriginal": "/products/polia-simples-regulavel.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/polia-simples-regulavel.png",
+            "width": 1578,
+            "height": 1578,
+            "bytes": 716722,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento POLIA SIMPLES REGULÁVEL — vista principal",
+      "width": 1578,
+      "height": 1578,
+      "hash": "df8f86f57fd1f0d58e0df56faa76d635c810a23520aa07f8c654995a291b9a77",
+      "isPrimary": true,
+      "src": "/products/polia-simples-regulavel.png"
+    }
+  },
+  {
+    "slug": "puxador-duplo-c-remada-100kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000001E4000003F61051A795.png",
+      "localOriginal": "/products/puxador-duplo-c-remada-100kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-duplo-c-remada-100kg.png",
+            "width": 484,
+            "height": 1014,
+            "bytes": 656357,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR DUPLO C/ REMADA 100KG — vista principal",
+      "width": 484,
+      "height": 1014,
+      "hash": "07feb79dc38fbfc36d0204428448fc46efb38913fcd7b1ae15f440afead4d929",
+      "isPrimary": true,
+      "src": "/products/puxador-duplo-c-remada-100kg.png"
+    }
+  },
+  {
+    "slug": "puxador-quatro-estacoes-2x90kg-2x100kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000000000003B000000500F765C639.jpg",
+      "localOriginal": "/products/puxador-quatro-estacoes-2x90kg-2x100kg.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-quatro-estacoes-2x90kg-2x100kg.jpg",
+            "width": 944,
+            "height": 1280,
+            "bytes": 94531,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR QUATRO ESTAÇÕES 2X90KG 2X100KG — vista principal",
+      "width": 944,
+      "height": 1280,
+      "hash": "1525b789102b5296bcef420f2af5acf70a9a570d3c51d505547bd97d4527ad8e",
+      "isPrimary": true,
+      "src": "/products/puxador-quatro-estacoes-2x90kg-2x100kg.jpg"
+    }
+  },
+  {
+    "slug": "puxada-alta-c-remada-90kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000001E4000003F61051A795.png",
+      "localOriginal": "/products/puxada-alta-c-remada-90kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxada-alta-c-remada-90kg.png",
+            "width": 484,
+            "height": 1014,
+            "bytes": 656357,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADA ALTA C/ REMADA 90KG — vista principal",
+      "width": 484,
+      "height": 1014,
+      "hash": "07feb79dc38fbfc36d0204428448fc46efb38913fcd7b1ae15f440afead4d929",
+      "isPrimary": true,
+      "src": "/products/puxada-alta-c-remada-90kg.png"
+    }
+  },
+  {
+    "slug": "puxada-alta-90kg",
+    "status": "missing"
+  },
+  {
+    "slug": "supino-vertical-tubolar",
+    "status": "missing"
+  },
+  {
+    "slug": "elevacao-pelvica-guiada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000002DD000002BF9A3F1392.png",
+      "localOriginal": "/products/elevacao-pelvica-guiada.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/elevacao-pelvica-guiada.png",
+            "width": 733,
+            "height": 703,
+            "bytes": 748683,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ELEVAÇÃO PÉLVICA GUIADA — vista principal",
+      "width": 733,
+      "height": 703,
+      "hash": "eb1d7c712b2908f4acdba518ff29bf47bec1e84b3c964c6557d934ecf069f131",
+      "isPrimary": true,
+      "src": "/products/elevacao-pelvica-guiada.png"
+    }
+  },
+  {
+    "slug": "maquina-biceps-e-triceps",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/1000000100000AD400000AB74FBA0D52.png",
+      "localOriginal": "/products/maquina-biceps-e-triceps.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/maquina-biceps-e-triceps.png",
+            "width": 2772,
+            "height": 2743,
+            "bytes": 4035729,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento MÁQUINA BÍCEPS E TRÍCEPS — vista principal",
+      "width": 2772,
+      "height": 2743,
+      "hash": "883cf97d648e4b2419a3af41d07ffe146aa4d8be37f9782bb204318be4461994",
+      "isPrimary": true,
+      "src": "/products/maquina-biceps-e-triceps.png"
+    }
+  },
+  {
+    "slug": "supino-declinado-articulado",
+    "status": "missing"
+  },
+  {
+    "slug": "supino-inclinado-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip1:row17",
+      "localOriginal": "/products/supino-inclinado-articulado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/supino-inclinado-articulado.jpg",
+            "width": 2642,
+            "height": 2092,
+            "bytes": 526248,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPINO INCLINADO ARTICULADO — vista principal",
+      "width": 2642,
+      "height": 2092,
+      "hash": "b94b1ac77ed732fbbe5f38ef6ac99cdfee9561bb6b81d51d6125d70dd0d5897e",
+      "isPrimary": true,
+      "src": "/products/supino-inclinado-articulado.jpg"
+    }
+  },
+  {
+    "slug": "supino-reto-articulado",
+    "status": "missing"
+  },
+  {
+    "slug": "remada-articulada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip6:row19",
+      "localOriginal": "/products/remada-articulada.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/remada-articulada.png",
+            "width": 2048,
+            "height": 1726,
+            "bytes": 4239208,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento REMADA ARTICULADA — vista principal",
+      "width": 2048,
+      "height": 1726,
+      "hash": "163c82b287e5d73815467deaf092fd232c9b8c0b5ebb9dbd52ec21b05fb06139",
+      "isPrimary": true,
+      "src": "/products/remada-articulada.png"
+    }
+  },
+  {
+    "slug": "puxada-alta-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip14:row20",
+      "localOriginal": "/products/puxada-alta-articulado.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxada-alta-articulado.png",
+            "width": 1957,
+            "height": 2962,
+            "bytes": 5389410,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADA ALTA ARTICULADO — vista principal",
+      "width": 1957,
+      "height": 2962,
+      "hash": "e8b2567c503414d38aca8191336d7eb2fec4bc26bbd0e322785fced36452c08c",
+      "isPrimary": true,
+      "src": "/products/puxada-alta-articulado.png"
+    }
+  },
+  {
+    "slug": "desenvolvimento-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip12:row21",
+      "localOriginal": "/products/desenvolvimento-articulado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/desenvolvimento-articulado.jpg",
+            "width": 1007,
+            "height": 1280,
+            "bytes": 87924,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento DESENVOLVIMENTO ARTICULADO — vista principal",
+      "width": 1007,
+      "height": 1280,
+      "hash": "8bacae2f437e834934a6e129e670cd4bdd1d67018a7cc5e55cf380490f3c232d",
+      "isPrimary": true,
+      "src": "/products/desenvolvimento-articulado.jpg"
+    }
+  },
+  {
+    "slug": "triceps-articulado",
+    "status": "missing"
+  },
+  {
+    "slug": "supino-sentado-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip7:row23",
+      "localOriginal": "/products/supino-sentado-articulado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/supino-sentado-articulado.jpg",
+            "width": 768,
+            "height": 1024,
+            "bytes": 47023,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPINO SENTADO ARTICULADO — vista principal",
+      "width": 768,
+      "height": 1024,
+      "hash": "4d5a77d63736acc3bd8bdd6fadc829d5d19cae5cff78e1d06d852e0db945e4c3",
+      "isPrimary": true,
+      "src": "/products/supino-sentado-articulado.jpg"
+    }
+  },
+  {
+    "slug": "supino-sentado-articulado-pro",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip4:row24",
+      "localOriginal": "/products/supino-sentado-articulado-pro.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/supino-sentado-articulado-pro.jpg",
+            "width": 1057,
+            "height": 1280,
+            "bytes": 93276,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPINO SENTADO ARTICULADO PRO — vista principal",
+      "width": 1057,
+      "height": 1280,
+      "hash": "4f904cb2f86a196435c664f278e1665da8e8b61e925da1704d4bdd8b8f9be850",
+      "isPrimary": true,
+      "src": "/products/supino-sentado-articulado-pro.jpg"
+    }
+  },
+  {
+    "slug": "leg-90",
+    "status": "missing"
+  },
+  {
+    "slug": "leg-45-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip2:row26",
+      "localOriginal": "/products/leg-45-articulado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/leg-45-articulado.jpg",
+            "width": 1280,
+            "height": 1144,
+            "bytes": 83828,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento LEG 45 ARTICULADO — vista principal",
+      "width": 1280,
+      "height": 1144,
+      "hash": "db1e087be0b402c71cd70e368221d46ae42586cefe6e6a6f8768ca3bcea1681e",
+      "isPrimary": true,
+      "src": "/products/leg-45-articulado.jpg"
+    }
+  },
+  {
+    "slug": "remada-ponta-de-barra",
+    "status": "missing"
+  },
+  {
+    "slug": "remada-cavalinho-2",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/10000001000009DD000009DD0019242F.png",
+      "localOriginal": "/products/remada-cavalinho-2.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/remada-cavalinho-2.png",
+            "width": 2525,
+            "height": 2525,
+            "bytes": 5054447,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento REMADA CAVALINHO — vista principal",
+      "width": 2525,
+      "height": 2525,
+      "hash": "2553b2851efadd63a8128142480e30878e58653d2210f13fcb9edf4b0beac702",
+      "isPrimary": true,
+      "src": "/products/remada-cavalinho-2.png"
+    }
+  },
+  {
+    "slug": "extensor-sentado-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip9:row29",
+      "localOriginal": "/products/extensor-sentado-articulado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/extensor-sentado-articulado.jpg",
+            "width": 1104,
+            "height": 1280,
+            "bytes": 100358,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento EXTENSOR SENTADO ARTICULADO — vista principal",
+      "width": 1104,
+      "height": 1280,
+      "hash": "5e975f17ae2398e115c3918f006e6f80f79fe3fa9c4682f3d35a2e830102d041",
+      "isPrimary": true,
+      "src": "/products/extensor-sentado-articulado.jpg"
+    }
+  },
+  {
+    "slug": "flexor-em-pe-articulado",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip5:row30",
+      "localOriginal": "/products/flexor-em-pe-articulado.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/flexor-em-pe-articulado.jpg",
+            "width": 1147,
+            "height": 1600,
+            "bytes": 135220,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento FLEXOR EM PÉ ARTICULADO — vista principal",
+      "width": 1147,
+      "height": 1600,
+      "hash": "95540bc48201a58deb4a44499beb8661b1fcc2faf293d5456156acde80cd6977",
+      "isPrimary": true,
+      "src": "/products/flexor-em-pe-articulado.jpg"
+    }
+  },
+  {
+    "slug": "maquina-de-agachamento-sumo",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip10:row31",
+      "localOriginal": "/products/maquina-de-agachamento-sumo.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/maquina-de-agachamento-sumo.png",
+            "width": 2422,
+            "height": 2585,
+            "bytes": 7597243,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento MÁQUINA DE AGACHAMENTO SUMO — vista principal",
+      "width": 2422,
+      "height": 2585,
+      "hash": "a7c83fc05d58c7017ff7b482756b98e3cb2ba45481cb700aa167ec324cb5daeb",
+      "isPrimary": true,
+      "src": "/products/maquina-de-agachamento-sumo.png"
+    }
+  },
+  {
+    "slug": "extensor-simples-anilhas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://LINHA ARTICULADA MAR 2026.xls#escher:blip11:row32",
+      "localOriginal": "/products/extensor-simples-anilhas.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/extensor-simples-anilhas.jpg",
+            "width": 1232,
+            "height": 1280,
+            "bytes": 77181,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento EXTENSOR SIMPLES ANILHAS — vista principal",
+      "width": 1232,
+      "height": 1280,
+      "hash": "d17f8968b1a56b05b4e24078e222a7d1d3aecbc859dbae96af78a8cd0a7b211d",
+      "isPrimary": true,
+      "src": "/products/extensor-simples-anilhas.jpg"
+    }
+  },
+  {
+    "slug": "elevacao-articulada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image31.png",
+      "localOriginal": "/products/elevacao-articulada.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/elevacao-articulada.png",
+            "width": 2831,
+            "height": 1966,
+            "bytes": 5763150,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ELEVAÇÃO ARTICULADA — vista principal",
+      "width": 2831,
+      "height": 1966,
+      "hash": "c9bc41f198389df5abec10f71b2c082290556bc1f27bee16b22e975cf9434737",
+      "isPrimary": true,
+      "src": "/products/elevacao-articulada.png"
+    }
+  },
+  {
+    "slug": "suporte-torre-10-pares",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image34.png",
+      "localOriginal": "/products/suporte-torre-10-pares.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-torre-10-pares.png",
+            "width": 822,
+            "height": 3432,
+            "bytes": 2794234,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE TORRE 10 PARES — vista principal",
+      "width": 822,
+      "height": 3432,
+      "hash": "9d206a62d2f1572ab2a1243e00517d4f3c88aebb955e19ad5a26f257f6507a0b",
+      "isPrimary": true,
+      "src": "/products/suporte-torre-10-pares.png"
+    }
+  },
+  {
+    "slug": "torre-halter-injetado-sextavado-c-pegada-inox-do-1kg-ao-10kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image2.png",
+      "localOriginal": "/products/torre-halter-injetado-sextavado-c-pegada-inox-do-1kg-ao-10kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/torre-halter-injetado-sextavado-c-pegada-inox-do-1kg-ao-10kg.png",
+            "width": 793,
+            "height": 1280,
+            "bytes": 479529,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento TORRE HALTER INJETADO SEXTAVADO C/ PEGADA INOX DO 1KG AO 10KG — vista principal",
+      "width": 793,
+      "height": 1280,
+      "hash": "6a82dda2484400a29ee577a7adbb7fd9b5c1a371cdaf1576560dd61da01c6e1c",
+      "isPrimary": true,
+      "src": "/products/torre-halter-injetado-sextavado-c-pegada-inox-do-1kg-ao-10kg.png"
+    }
+  },
+  {
+    "slug": "torre-halter-emborrachado-do-1kg-ao-10kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image36.png",
+      "localOriginal": "/products/torre-halter-emborrachado-do-1kg-ao-10kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/torre-halter-emborrachado-do-1kg-ao-10kg.png",
+            "width": 3120,
+            "height": 4160,
+            "bytes": 5675178,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento TORRE HALTER EMBORRACHADO DO 1KG AO 10KG — vista principal",
+      "width": 3120,
+      "height": 4160,
+      "hash": "7096506d50762de6ba710e19c428984d834aed57148b4bffe67cf19b80721a92",
+      "isPrimary": true,
+      "src": "/products/torre-halter-emborrachado-do-1kg-ao-10kg.png"
+    }
+  },
+  {
+    "slug": "suporte-torre-5-pares",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image3.png",
+      "localOriginal": "/products/suporte-torre-5-pares.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-torre-5-pares.png",
+            "width": 1387,
+            "height": 1600,
+            "bytes": 962154,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE TORRE 5 PARES — vista principal",
+      "width": 1387,
+      "height": 1600,
+      "hash": "ae247c1036e4aaf267b63196a87b810675b01cb54225939a44f323f515542933",
+      "isPrimary": true,
+      "src": "/products/suporte-torre-5-pares.png"
+    }
+  },
+  {
+    "slug": "suporte-dumbell-duplo-6-pares",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image4.png",
+      "localOriginal": "/products/suporte-dumbell-duplo-6-pares.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-dumbell-duplo-6-pares.png",
+            "width": 1179,
+            "height": 1280,
+            "bytes": 928190,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE DUMBELL DUPLO 6 PARES — vista principal",
+      "width": 1179,
+      "height": 1280,
+      "hash": "82ca8862dc67e9aff4ee3396ecd4334b3a42f3a27b92163f155bb352d9777d26",
+      "isPrimary": true,
+      "src": "/products/suporte-dumbell-duplo-6-pares.png"
+    }
+  },
+  {
+    "slug": "banco-regulavel-simples",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image5.png",
+      "localOriginal": "/products/banco-regulavel-simples.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-regulavel-simples.png",
+            "width": 1280,
+            "height": 1222,
+            "bytes": 388421,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO REGULÁVEL SIMPLES — vista principal",
+      "width": 1280,
+      "height": 1222,
+      "hash": "9a14f135ff7755c04d8184fcee792f1207e9cd1998984d80ea5d844ad9909fc0",
+      "isPrimary": true,
+      "src": "/products/banco-regulavel-simples.png"
+    }
+  },
+  {
+    "slug": "suporte-anilhas-500kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image6.png",
+      "localOriginal": "/products/suporte-anilhas-500kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-anilhas-500kg.png",
+            "width": 882,
+            "height": 1280,
+            "bytes": 445964,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE ANILHAS 500KG — vista principal",
+      "width": 882,
+      "height": 1280,
+      "hash": "155a600706a6443f38e6fe9114c6f75addb498ef0e7381054caba71934f7c7f5",
+      "isPrimary": true,
+      "src": "/products/suporte-anilhas-500kg.png"
+    }
+  },
+  {
+    "slug": "suporte-anilhas-olimpicas-500kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image7.png",
+      "localOriginal": "/products/suporte-anilhas-olimpicas-500kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-anilhas-olimpicas-500kg.png",
+            "width": 845,
+            "height": 1280,
+            "bytes": 502898,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE ANILHAS OLÍMPICAS 500KG — vista principal",
+      "width": 845,
+      "height": 1280,
+      "hash": "40fd333624d16e399dc28db94aa8d4c295605854355ef6b09ad3c99c6cfb75e4",
+      "isPrimary": true,
+      "src": "/products/suporte-anilhas-olimpicas-500kg.png"
+    }
+  },
+  {
+    "slug": "suporte-barra-fogueteiro-4-barras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image8.png",
+      "localOriginal": "/products/suporte-barra-fogueteiro-4-barras.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-barra-fogueteiro-4-barras.png",
+            "width": 548,
+            "height": 314,
+            "bytes": 99648,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE BARRA FOGUETEIRO 4 BARRAS — vista principal",
+      "width": 548,
+      "height": 314,
+      "hash": "79c1f4d6428b5313f05af08b3f0877c49bafe412559abbaa385ca730d5df9977",
+      "isPrimary": true,
+      "src": "/products/suporte-barra-fogueteiro-4-barras.png"
+    }
+  },
+  {
+    "slug": "suporte-carrinho-3-niveis-caneleiras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image9.png",
+      "localOriginal": "/products/suporte-carrinho-3-niveis-caneleiras.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-carrinho-3-niveis-caneleiras.png",
+            "width": 968,
+            "height": 1084,
+            "bytes": 621938,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE CARRINHO 3 NÍVEIS CANELEIRAS — vista principal",
+      "width": 968,
+      "height": 1084,
+      "hash": "77d37b49f960c586b7dc07bdfba15783345bb1ae9fc26f8f6757eee72d6af304",
+      "isPrimary": true,
+      "src": "/products/suporte-carrinho-3-niveis-caneleiras.png"
+    }
+  },
+  {
+    "slug": "suporte-p-rosca",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image10.png",
+      "localOriginal": "/products/suporte-p-rosca.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-p-rosca.png",
+            "width": 1280,
+            "height": 1258,
+            "bytes": 351455,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE P/ ROSCA — vista principal",
+      "width": 1280,
+      "height": 1258,
+      "hash": "731a8e1f64040e8f1f86cbd65249ea44bf5a71e14c19641471710fc134989e27",
+      "isPrimary": true,
+      "src": "/products/suporte-p-rosca.png"
+    }
+  },
+  {
+    "slug": "suporte-p-12-barras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image11.png",
+      "localOriginal": "/products/suporte-p-12-barras.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-p-12-barras.png",
+            "width": 1280,
+            "height": 1158,
+            "bytes": 846491,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE P/ 12 BARRAS — vista principal",
+      "width": 1280,
+      "height": 1158,
+      "hash": "827e93d4df839cb5b1c1cb8bb7c3b2f8a675fe99708a417e99736ac18a5a5b84",
+      "isPrimary": true,
+      "src": "/products/suporte-p-12-barras.png"
+    }
+  },
+  {
+    "slug": "banco-simples-2",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image12.png",
+      "localOriginal": "/products/banco-simples-2.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-simples-2.png",
+            "width": 1164,
+            "height": 1182,
+            "bytes": 471851,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO SIMPLES — vista principal",
+      "width": 1164,
+      "height": 1182,
+      "hash": "e46eb6db6b330084c839c6b7ac26808e4e55d23f02bfeb4d88b3446227216717",
+      "isPrimary": true,
+      "src": "/products/banco-simples-2.png"
+    }
+  },
+  {
+    "slug": "suporte-anilhas-5-pontas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image13.png",
+      "localOriginal": "/products/suporte-anilhas-5-pontas.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-anilhas-5-pontas.png",
+            "width": 875,
+            "height": 1280,
+            "bytes": 388694,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE ANILHAS 5 PONTAS — vista principal",
+      "width": 875,
+      "height": 1280,
+      "hash": "6409fe1d5f37993d7f69562b995b62f06a7aaa2283d8bc7214c3949537c04917",
+      "isPrimary": true,
+      "src": "/products/suporte-anilhas-5-pontas.png"
+    }
+  },
+  {
+    "slug": "suporte-10-colchonetes",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image14.png",
+      "localOriginal": "/products/suporte-10-colchonetes.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-10-colchonetes.png",
+            "width": 690,
+            "height": 676,
+            "bytes": 252459,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE 10 COLCHONETES — vista principal",
+      "width": 690,
+      "height": 676,
+      "hash": "99655762b02cb1869bda5c46e53ba7124e3068e36fe14a87390010361454f3ff",
+      "isPrimary": true,
+      "src": "/products/suporte-10-colchonetes.png"
+    }
+  },
+  {
+    "slug": "suporte-multiuso",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image15.png",
+      "localOriginal": "/products/suporte-multiuso.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-multiuso.png",
+            "width": 246,
+            "height": 700,
+            "bytes": 129952,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE MULTIUSO — vista principal",
+      "width": 246,
+      "height": 700,
+      "hash": "75ae37ec3c2171cc13e5a1cc520fa4b802284156a8baa82c97d501c58dca35f2",
+      "isPrimary": true,
+      "src": "/products/suporte-multiuso.png"
+    }
+  },
+  {
+    "slug": "suporte-anilhas-simples-6-pontas-com-4-barras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image16.png",
+      "localOriginal": "/products/suporte-anilhas-simples-6-pontas-com-4-barras.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-anilhas-simples-6-pontas-com-4-barras.png",
+            "width": 746,
+            "height": 1600,
+            "bytes": 247480,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE ANILHAS SIMPLES 6 PONTAS COM 4 BARRAS — vista principal",
+      "width": 746,
+      "height": 1600,
+      "hash": "0b3a2b1222a76b579c21a61ca6aaeeb4d9a05fbabd6752b41595d130b36cf97a",
+      "isPrimary": true,
+      "src": "/products/suporte-anilhas-simples-6-pontas-com-4-barras.png"
+    }
+  },
+  {
+    "slug": "suporte-anilhas-simples-6-pontas-com-4-barras-c-pontas-de-inox",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image32.png",
+      "localOriginal": "/products/suporte-anilhas-simples-6-pontas-com-4-barras-c-pontas-de-inox.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-anilhas-simples-6-pontas-com-4-barras-c-pontas-de-inox.png",
+            "width": 1269,
+            "height": 2521,
+            "bytes": 3979656,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE ANILHAS SIMPLES 6 PONTAS COM 4 BARRAS C/ PONTAS DE INOX — vista principal",
+      "width": 1269,
+      "height": 2521,
+      "hash": "d783c0026c1c836ae900b809041d47526e0c10ede39cd8239eb0dc0631d34aa1",
+      "isPrimary": true,
+      "src": "/products/suporte-anilhas-simples-6-pontas-com-4-barras-c-pontas-de-inox.png"
+    }
+  },
+  {
+    "slug": "suporte-regulavel-p-supino-e-agachamento-pegada-interna",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image17.png",
+      "localOriginal": "/products/suporte-regulavel-p-supino-e-agachamento-pegada-interna.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-regulavel-p-supino-e-agachamento-pegada-interna.png",
+            "width": 846,
+            "height": 1280,
+            "bytes": 276219,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE REGULÁVEL P/ SUPINO E AGACHAMENTO PEGADA INTERNA — vista principal",
+      "width": 846,
+      "height": 1280,
+      "hash": "e59cf05ec4f3265377c96efc548727e7b2125f336d91a40e1eb565812c826597",
+      "isPrimary": true,
+      "src": "/products/suporte-regulavel-p-supino-e-agachamento-pegada-interna.png"
+    }
+  },
+  {
+    "slug": "suporte-simples-halter-10-pares",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image18.png",
+      "localOriginal": "/products/suporte-simples-halter-10-pares.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-simples-halter-10-pares.png",
+            "width": 384,
+            "height": 1280,
+            "bytes": 226519,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE SIMPLES HALTER 10 PARES — vista principal",
+      "width": 384,
+      "height": 1280,
+      "hash": "499b1893575a2a7425320c8a8ee4cae894e7e80076b50008e1716655904f8981",
+      "isPrimary": true,
+      "src": "/products/suporte-simples-halter-10-pares.png"
+    }
+  },
+  {
+    "slug": "suporte-halter-5-pares-e-anilhas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image19.png",
+      "localOriginal": "/products/suporte-halter-5-pares-e-anilhas.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-halter-5-pares-e-anilhas.png",
+            "width": 874,
+            "height": 1280,
+            "bytes": 870219,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE HALTER 5 PARES E ANILHAS — vista principal",
+      "width": 874,
+      "height": 1280,
+      "hash": "7fe23cca5bdafc42dcc5b9d314a7ea205130a443bf2af131aad5fe67908dee08",
+      "isPrimary": true,
+      "src": "/products/suporte-halter-5-pares-e-anilhas.png"
+    }
+  },
+  {
+    "slug": "banco-regulavel-simples-2",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image20.png",
+      "localOriginal": "/products/banco-regulavel-simples-2.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-regulavel-simples-2.png",
+            "width": 1280,
+            "height": 1269,
+            "bytes": 433720,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO REGULÁVEL SIMPLES — vista principal",
+      "width": 1280,
+      "height": 1269,
+      "hash": "70ca0739643ff04ba6743ae50cd8e0c4f991e98989fa9210cf6e6c5c9a3f1bf3",
+      "isPrimary": true,
+      "src": "/products/banco-regulavel-simples-2.png"
+    }
+  },
+  {
+    "slug": "suporte-supino-e-agachamento-pegada-externa",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image21.png",
+      "localOriginal": "/products/suporte-supino-e-agachamento-pegada-externa.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-supino-e-agachamento-pegada-externa.png",
+            "width": 652,
+            "height": 1280,
+            "bytes": 174680,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE SUPINO E AGACHAMENTO PEGADA EXTERNA — vista principal",
+      "width": 652,
+      "height": 1280,
+      "hash": "d77a37e7a1e45d43ea14079b51a211643efac1b201360cd4d037855f62481c25",
+      "isPrimary": true,
+      "src": "/products/suporte-supino-e-agachamento-pegada-externa.png"
+    }
+  },
+  {
+    "slug": "banco-regulavel-power-line",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image22.png",
+      "localOriginal": "/products/banco-regulavel-power-line.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/banco-regulavel-power-line.png",
+            "width": 962,
+            "height": 777,
+            "bytes": 333751,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BANCO REGULÁVEL POWER LINE — vista principal",
+      "width": 962,
+      "height": 777,
+      "hash": "1ec1d56e64972f41b6f0e3ae8bc3838043469a58b8fc701ff7c062570cfedf25",
+      "isPrimary": true,
+      "src": "/products/banco-regulavel-power-line.png"
+    }
+  },
+  {
+    "slug": "suporte-de-anilhas-simples-4-pontas-mais-barras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image23.png",
+      "localOriginal": "/products/suporte-de-anilhas-simples-4-pontas-mais-barras.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-de-anilhas-simples-4-pontas-mais-barras.png",
+            "width": 1077,
+            "height": 1600,
+            "bytes": 446330,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE DE ANILHAS SIMPLES 4 PONTAS MAIS BARRAS — vista principal",
+      "width": 1077,
+      "height": 1600,
+      "hash": "3b2ffdde9daef8485db0dfbf651329ccf49faedb5e173e5534b4537a216b31ad",
+      "isPrimary": true,
+      "src": "/products/suporte-de-anilhas-simples-4-pontas-mais-barras.png"
+    }
+  },
+  {
+    "slug": "suporte-p-9-barras",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image24.jpeg",
+      "localOriginal": "/products/suporte-p-9-barras.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-p-9-barras.jpg",
+            "width": 1280,
+            "height": 1107,
+            "bytes": 70758,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE P/ 9 BARRAS — vista principal",
+      "width": 1280,
+      "height": 1107,
+      "hash": "aa797bdbc7ecc58e91ef355831330eff5ec4cd2acdce73d6c2259202f05379f3",
+      "isPrimary": true,
+      "src": "/products/suporte-p-9-barras.jpg"
+    }
+  },
+  {
+    "slug": "suporte-funcional-de-parede-com-trava-de-seguranca",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image25.jpeg",
+      "localOriginal": "/products/suporte-funcional-de-parede-com-trava-de-seguranca.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-funcional-de-parede-com-trava-de-seguranca.jpg",
+            "width": 649,
+            "height": 1280,
+            "bytes": 33123,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE FUNCIONAL DE PAREDE COM TRAVA DE SEGURANÇA — vista principal",
+      "width": 649,
+      "height": 1280,
+      "hash": "600c570bbd2faf9e11d295b8eea8449af1e94594689b6cc69aa4e3da7e15a9a5",
+      "isPrimary": true,
+      "src": "/products/suporte-funcional-de-parede-com-trava-de-seguranca.jpg"
+    }
+  },
+  {
+    "slug": "suporte-funcional-de-parede-sem-trava-de-seguranca",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image25.jpeg",
+      "localOriginal": "/products/suporte-funcional-de-parede-sem-trava-de-seguranca.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-funcional-de-parede-sem-trava-de-seguranca.jpg",
+            "width": 649,
+            "height": 1280,
+            "bytes": 33123,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE FUNCIONAL DE PAREDE SEM TRAVA DE SEGURANÇA — vista principal",
+      "width": 649,
+      "height": 1280,
+      "hash": "600c570bbd2faf9e11d295b8eea8449af1e94594689b6cc69aa4e3da7e15a9a5",
+      "isPrimary": true,
+      "src": "/products/suporte-funcional-de-parede-sem-trava-de-seguranca.jpg"
+    }
+  },
+  {
+    "slug": "rack-de-parede-agachamento-e-barra-fixa",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/1000000000000472000005002E335729.jpg",
+      "localOriginal": "/products/rack-de-parede-agachamento-e-barra-fixa.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/rack-de-parede-agachamento-e-barra-fixa.jpg",
+            "width": 1138,
+            "height": 1280,
+            "bytes": 33839,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento RACK DE PAREDE - AGACHAMENTO E BARRA FIXA — vista principal",
+      "width": 1138,
+      "height": 1280,
+      "hash": "67d40016b52edf074bea3874e662abacdbf0fec896e46a5c6e2f799b9f84d3e7",
+      "isPrimary": true,
+      "src": "/products/rack-de-parede-agachamento-e-barra-fixa.jpg"
+    }
+  },
+  {
+    "slug": "suporte-p-20-colchonetes",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image26.png",
+      "localOriginal": "/products/suporte-p-20-colchonetes.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-p-20-colchonetes.png",
+            "width": 1888,
+            "height": 3328,
+            "bytes": 7812437,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE P/ 20 COLCHONETES — vista principal",
+      "width": 1888,
+      "height": 3328,
+      "hash": "36e969c256abfcf40669f9e48417bd1c21fb0a38d90d6ce8b0f99630057e46d6",
+      "isPrimary": true,
+      "src": "/products/suporte-p-20-colchonetes.png"
+    }
+  },
+  {
+    "slug": "suporte-de-barra-injetada-monobloco",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image28.jpeg",
+      "localOriginal": "/products/suporte-de-barra-injetada-monobloco.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-de-barra-injetada-monobloco.jpg",
+            "width": 689,
+            "height": 1024,
+            "bytes": 44415,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE DE BARRA INJETADA MONOBLOCO — vista principal",
+      "width": 689,
+      "height": 1024,
+      "hash": "1bc1de9d5507992d6e604a4e9ba3e2df0deb052f9cc5772d5003dfec1d758610",
+      "isPrimary": true,
+      "src": "/products/suporte-de-barra-injetada-monobloco.jpg"
+    }
+  },
+  {
+    "slug": "suporte-de-anilhas-7-pinos",
+    "status": "missing"
+  },
+  {
+    "slug": "suporte-de-bola",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image35.jpeg",
+      "localOriginal": "/products/suporte-de-bola.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-de-bola.jpg",
+            "width": 500,
+            "height": 243,
+            "bytes": 6469,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE DE BOLA — vista principal",
+      "width": 500,
+      "height": 243,
+      "hash": "f2f44e6f9684c4be99731e714d95c7044e37527c398e08d4021d1dfdd34f74ad",
+      "isPrimary": true,
+      "src": "/products/suporte-de-bola.jpg"
+    }
+  },
+  {
+    "slug": "suporte-p-ponta-de-barra-de-chao-parede",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image29.png",
+      "localOriginal": "/products/suporte-p-ponta-de-barra-de-chao-parede.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-p-ponta-de-barra-de-chao-parede.png",
+            "width": 1518,
+            "height": 1461,
+            "bytes": 2724109,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE P/ PONTA DE BARRA DE CHÃO/PAREDE — vista principal",
+      "width": 1518,
+      "height": 1461,
+      "hash": "574f8b285650cd3d3c0c13659adeccf52402eb66be9b693cf04a75f23ffc017c",
+      "isPrimary": true,
+      "src": "/products/suporte-p-ponta-de-barra-de-chao-parede.png"
+    }
+  },
+  {
+    "slug": "suporte-multi-acessorios",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image30.png",
+      "localOriginal": "/products/suporte-multi-acessorios.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-multi-acessorios.png",
+            "width": 2048,
+            "height": 2787,
+            "bytes": 3869403,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE MULTI ACESSÓRIOS — vista principal",
+      "width": 2048,
+      "height": 2787,
+      "hash": "7bda75b6b16792c10fdacb461aea38f0414eff054ca3467f1442b77dbf7b961d",
+      "isPrimary": true,
+      "src": "/products/suporte-multi-acessorios.png"
+    }
+  },
+  {
+    "slug": "suporte-de-elevacao",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image31.png",
+      "localOriginal": "/products/suporte-de-elevacao.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-de-elevacao.png",
+            "width": 2831,
+            "height": 1966,
+            "bytes": 5763150,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE DE ELEVAÇÃO — vista principal",
+      "width": 2831,
+      "height": 1966,
+      "hash": "c9bc41f198389df5abec10f71b2c082290556bc1f27bee16b22e975cf9434737",
+      "isPrimary": true,
+      "src": "/products/suporte-de-elevacao.png"
+    }
+  },
+  {
+    "slug": "suporte-p-5-barras-olimpicas",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://TABELA SANTANA DE BANCOS SUPORTES.xlsx#xl/media/image33.jpeg",
+      "localOriginal": "/products/suporte-p-5-barras-olimpicas.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/suporte-p-5-barras-olimpicas.jpg",
+            "width": 1123,
+            "height": 836,
+            "bytes": 84723,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento SUPORTE P/ 5 BARRAS OLÍMPICAS — vista principal",
+      "width": 1123,
+      "height": 836,
+      "hash": "167c0d00ab24b54d3dac32cfdffced90f6fa311563108cc08d7f1ce491ddb1d3",
+      "isPrimary": true,
+      "src": "/products/suporte-p-5-barras-olimpicas.jpg"
+    }
+  },
+  {
+    "slug": "barra-inox-olimpica-2-00-c-rolamentos",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000004B5000005006CD31CF6.png",
+      "localOriginal": "/products/barra-inox-olimpica-2-00-c-rolamentos.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-olimpica-2-00-c-rolamentos.png",
+            "width": 1205,
+            "height": 1280,
+            "bytes": 1422859,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX OLIMPICA 2.00 C/ ROLAMENTOS — vista principal",
+      "width": 1205,
+      "height": 1280,
+      "hash": "c69d1b0911be45dd8113c050f18e3bad851af956c0dd7060ccb038f9c3d6957a",
+      "isPrimary": true,
+      "src": "/products/barra-inox-olimpica-2-00-c-rolamentos.png"
+    }
+  },
+  {
+    "slug": "barra-inox-olimpica-w-1-20-c-rolamentos",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000050000000500800E4E0E.png",
+      "localOriginal": "/products/barra-inox-olimpica-w-1-20-c-rolamentos.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-olimpica-w-1-20-c-rolamentos.png",
+            "width": 1280,
+            "height": 1280,
+            "bytes": 261848,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX OLIMPICA W 1.20 C/ ROLAMENTOS — vista principal",
+      "width": 1280,
+      "height": 1280,
+      "hash": "997dc81aebeede59fcc74c5a5b90ae5ccfc437db0f274a49cb323aa60ebd7a16",
+      "isPrimary": true,
+      "src": "/products/barra-inox-olimpica-w-1-20-c-rolamentos.png"
+    }
+  },
+  {
+    "slug": "barra-inox-puxador-curva-1-20-macica",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000005DC000005DC405F3143.png",
+      "localOriginal": "/products/barra-inox-puxador-curva-1-20-macica.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-puxador-curva-1-20-macica.png",
+            "width": 1500,
+            "height": 1500,
+            "bytes": 255641,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX PUXADOR CURVA 1,20 MACIÇA — vista principal",
+      "width": 1500,
+      "height": 1500,
+      "hash": "32a3d184edb3b4588bed2c4813f01a4e379e000965e8ea5a61020b1e0ab21076",
+      "isPrimary": true,
+      "src": "/products/barra-inox-puxador-curva-1-20-macica.png"
+    }
+  },
+  {
+    "slug": "barra-w-macica-inox",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-1-50m-macica-inox",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-1-80m-macica-inox",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-2-00m-macica-inox",
+    "status": "missing"
+  },
+  {
+    "slug": "estribo-inox-giratorio",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000003AB00000369776B2BDE.png",
+      "localOriginal": "/products/estribo-inox-giratorio.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/estribo-inox-giratorio.png",
+            "width": 939,
+            "height": 873,
+            "bytes": 384226,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ESTRIBO INOX GIRATORIO — vista principal",
+      "width": 939,
+      "height": 873,
+      "hash": "c189d5b2808e40e2ecbe496aff3423433d8cd4e2836446561e4eb73d7839baea",
+      "isPrimary": true,
+      "src": "/products/estribo-inox-giratorio.png"
+    }
+  },
+  {
+    "slug": "barra-inox-v-remada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000048D000004947FB35C6A.png",
+      "localOriginal": "/products/barra-inox-v-remada.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-v-remada.png",
+            "width": 1165,
+            "height": 1172,
+            "bytes": 728995,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX V REMADA — vista principal",
+      "width": 1165,
+      "height": 1172,
+      "hash": "47166d6270fd9abceb9e00cfb65c07d662a6edabd3ecfc4d60c03a5444ba2204",
+      "isPrimary": true,
+      "src": "/products/barra-inox-v-remada.png"
+    }
+  },
+  {
+    "slug": "barra-inox-triangulo-giratoria-triceps",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000002AC000001FD4AACD80F.png",
+      "localOriginal": "/products/barra-inox-triangulo-giratoria-triceps.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-triangulo-giratoria-triceps.png",
+            "width": 684,
+            "height": 509,
+            "bytes": 144607,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX TRIANGULO GIRATORIA TRICEPS — vista principal",
+      "width": 684,
+      "height": 509,
+      "hash": "375c2fe53b555076c52b1f258c2acb5da1fcabbbe127337a58da238bd34c64e5",
+      "isPrimary": true,
+      "src": "/products/barra-inox-triangulo-giratoria-triceps.png"
+    }
+  },
+  {
+    "slug": "barra-v-triceps-macica",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000050000000312A16409C6.jpg",
+      "localOriginal": "/products/barra-v-triceps-macica.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-v-triceps-macica.jpg",
+            "width": 1280,
+            "height": 786,
+            "bytes": 36747,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA V TRÍCEPS MACIÇA — vista principal",
+      "width": 1280,
+      "height": 786,
+      "hash": "2a82bc888fb848c0b16bb3b59a091840849cbc6d4005b791e73101c737dbb12f",
+      "isPrimary": true,
+      "src": "/products/barra-v-triceps-macica.jpg"
+    }
+  },
+  {
+    "slug": "barra-inox-reta-giratoria-triceps",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000051400000514647E9A75.png",
+      "localOriginal": "/products/barra-inox-reta-giratoria-triceps.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-reta-giratoria-triceps.png",
+            "width": 1300,
+            "height": 1300,
+            "bytes": 315759,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX RETA GIRATORIA TRICEPS — vista principal",
+      "width": 1300,
+      "height": 1300,
+      "hash": "938aa5e19cc5a4c76e7b1247607f56f5e8ea1c6ed5d7ceb3d762684f26cc5c97",
+      "isPrimary": true,
+      "src": "/products/barra-inox-reta-giratoria-triceps.png"
+    }
+  },
+  {
+    "slug": "barra-triceps-inox-50cm-giratoria",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000000000269000002597EFF395A.jpg",
+      "localOriginal": "/products/barra-triceps-inox-50cm-giratoria.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-triceps-inox-50cm-giratoria.jpg",
+            "width": 617,
+            "height": 601,
+            "bytes": 16726,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA TRÍCEPS INOX 50CM GIRATÓRIA — vista principal",
+      "width": 617,
+      "height": 601,
+      "hash": "2c0b4a90d69e7992ee022a7af7ae7f2122efa8f4f53ff96e0aec4fbe99c10cb9",
+      "isPrimary": true,
+      "src": "/products/barra-triceps-inox-50cm-giratoria.jpg"
+    }
+  },
+  {
+    "slug": "barra-oca-reta-giratoria-50cm-triceps",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000004C7000005001A7764E1.jpg",
+      "localOriginal": "/products/barra-oca-reta-giratoria-50cm-triceps.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-oca-reta-giratoria-50cm-triceps.jpg",
+            "width": 1223,
+            "height": 1280,
+            "bytes": 45461,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA OCA RETA GIRATORIA 50CM TRICEPS — vista principal",
+      "width": 1223,
+      "height": 1280,
+      "hash": "c7257cbfe81d212d4ed20ad3b63edbf44dd9d3011672bf706057fec6399c3eba",
+      "isPrimary": true,
+      "src": "/products/barra-oca-reta-giratoria-50cm-triceps.jpg"
+    }
+  },
+  {
+    "slug": "estribo-inox-unilateral-giratorio",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000050000000373FF228605.png",
+      "localOriginal": "/products/estribo-inox-unilateral-giratorio.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/estribo-inox-unilateral-giratorio.png",
+            "width": 1280,
+            "height": 883,
+            "bytes": 337337,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento ESTRIBO INOX UNILATERAL GIRATÓRIO — vista principal",
+      "width": 1280,
+      "height": 883,
+      "hash": "f1668b3636835641fc16a42f3fc901f2096e6fba7a5fdd858d65738e9cba3bc6",
+      "isPrimary": true,
+      "src": "/products/estribo-inox-unilateral-giratorio.png"
+    }
+  },
+  {
+    "slug": "barra-w-puxador-75cm-giratorio",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000005000000050084B18733.png",
+      "localOriginal": "/products/barra-w-puxador-75cm-giratorio.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-w-puxador-75cm-giratorio.png",
+            "width": 1280,
+            "height": 1280,
+            "bytes": 199896,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA W PUXADOR 75CM GIRATÓRIO — vista principal",
+      "width": 1280,
+      "height": 1280,
+      "hash": "ddb00764bfe96fd7912ba685f76ad61982ee155d0769db5303a9bbe3dc0d8689",
+      "isPrimary": true,
+      "src": "/products/barra-w-puxador-75cm-giratorio.png"
+    }
+  },
+  {
+    "slug": "barra-inox-h-1-10-p-rosca-c-rolamentos",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000000000640000000B524E7C77D.png",
+      "localOriginal": "/products/barra-inox-h-1-10-p-rosca-c-rolamentos.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-inox-h-1-10-p-rosca-c-rolamentos.png",
+            "width": 1600,
+            "height": 181,
+            "bytes": 188270,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA INOX H 1.10 P/ ROSCA C/ ROLAMENTOS — vista principal",
+      "width": 1600,
+      "height": 181,
+      "hash": "5815792ddedece6a5cc986de779782ed113e1f96a217add1e31e964e9b8ccd3a",
+      "isPrimary": true,
+      "src": "/products/barra-inox-h-1-10-p-rosca-c-rolamentos.png"
+    }
+  },
+  {
+    "slug": "barra-h-standard-inox",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-w-puxador-50cm-giratorio",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000100000A0E0000070BDDA5169B.png",
+      "localOriginal": "/products/barra-w-puxador-50cm-giratorio.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-w-puxador-50cm-giratorio.png",
+            "width": 2574,
+            "height": 1803,
+            "bytes": 1812389,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA W PUXADOR 50CM GIRATÓRIO — vista principal",
+      "width": 2574,
+      "height": 1803,
+      "hash": "7010639eade1a19b51f87e92539402b57241450b0e1c035af503f1656b749fb8",
+      "isPrimary": true,
+      "src": "/products/barra-w-puxador-50cm-giratorio.png"
+    }
+  },
+  {
+    "slug": "agachamento-sumo",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000100000A9F00000817146E7C77.png",
+      "localOriginal": "/products/agachamento-sumo.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/agachamento-sumo.png",
+            "width": 2719,
+            "height": 2071,
+            "bytes": 4657062,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento AGACHAMENTO SUMO — vista principal",
+      "width": 2719,
+      "height": 2071,
+      "hash": "3572346234f5996598c02584142a89f88406dcf39fb4b9fd4e70e6bf9e175af5",
+      "isPrimary": true,
+      "src": "/products/agachamento-sumo.png"
+    }
+  },
+  {
+    "slug": "barra-h-p-rosca-standard-zincada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000000000500000004E04748727F.jpg",
+      "localOriginal": "/products/barra-h-p-rosca-standard-zincada.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-h-p-rosca-standard-zincada.jpg",
+            "width": 1280,
+            "height": 1248,
+            "bytes": 44295,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA H P/ ROSCA STANDARD ZINCADA — vista principal",
+      "width": 1280,
+      "height": 1248,
+      "hash": "2b117ff4beb53d389213e7a5d16df36e3bc261c1e9a871b04035e6d1c5a57ad8",
+      "isPrimary": true,
+      "src": "/products/barra-h-p-rosca-standard-zincada.jpg"
+    }
+  },
+  {
+    "slug": "barra-h",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000002CE000002CFE463B4EF.jpg",
+      "localOriginal": "/products/barra-h.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-h.jpg",
+            "width": 718,
+            "height": 719,
+            "bytes": 31357,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA H — vista principal",
+      "width": 718,
+      "height": 719,
+      "hash": "a86b211cf986b52589ef262910c163e9440183540902a8f4ed57f235f6792d6b",
+      "isPrimary": true,
+      "src": "/products/barra-h.jpg"
+    }
+  },
+  {
+    "slug": "barra-oca-reta-40cm",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000004C7000005006CE44848.jpg",
+      "localOriginal": "/products/barra-oca-reta-40cm.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-oca-reta-40cm.jpg",
+            "width": 1223,
+            "height": 1280,
+            "bytes": 43708,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA OCA RETA 40CM — vista principal",
+      "width": 1223,
+      "height": 1280,
+      "hash": "4bf9d9bef7cb0e95d464f3a3e8b8201f80568e21876501735d3206160e9adb35",
+      "isPrimary": true,
+      "src": "/products/barra-oca-reta-40cm.jpg"
+    }
+  },
+  {
+    "slug": "puxador-p-remada-oco",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000004A30000050050101B54.jpg",
+      "localOriginal": "/products/puxador-p-remada-oco.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-p-remada-oco.jpg",
+            "width": 1187,
+            "height": 1280,
+            "bytes": 70088,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR P/ REMADA OCO — vista principal",
+      "width": 1187,
+      "height": 1280,
+      "hash": "27f427be3e48a2bfac5cdd3a109958fa8835b6f867ccd9d1b3333d4d633b53d7",
+      "isPrimary": true,
+      "src": "/products/puxador-p-remada-oco.jpg"
+    }
+  },
+  {
+    "slug": "barra-p-puxador-oca",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000001D9000001AAA4BADA64.jpg",
+      "localOriginal": "/products/barra-p-puxador-oca.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-p-puxador-oca.jpg",
+            "width": 473,
+            "height": 426,
+            "bytes": 6740,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA P/ PUXADOR OCA — vista principal",
+      "width": 473,
+      "height": 426,
+      "hash": "6ec90efff259b6307a03100431f41a1abeb360ba74aef161f4cfca24caea47d8",
+      "isPrimary": true,
+      "src": "/products/barra-p-puxador-oca.jpg"
+    }
+  },
+  {
+    "slug": "barra-macica-cromada-1-80m",
+    "status": "missing"
+  },
+  {
+    "slug": "barramacica-cromada-2-00m",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-macica-cromada-2-20m",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-1-50m-macica-cromada",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-1-20m-macica-cromada",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-w-macica-cromada-1-20m",
+    "status": "missing"
+  },
+  {
+    "slug": "barra-w-zincada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000097500000A28AC4C4404.jpg",
+      "localOriginal": "/products/barra-w-zincada.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-w-zincada.jpg",
+            "width": 2421,
+            "height": 2600,
+            "bytes": 383433,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA W ZINCADA — vista principal",
+      "width": 2421,
+      "height": 2600,
+      "hash": "fcdd471f6dce1d9ebec7fcc366c6c3301d4c106a64b6a3fa8a83692f5f0db0ae",
+      "isPrimary": true,
+      "src": "/products/barra-w-zincada.jpg"
+    }
+  },
+  {
+    "slug": "corda-unilateral-de-triceps",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000100000BC500000BC5BE1BBBD7.png",
+      "localOriginal": "/products/corda-unilateral-de-triceps.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/corda-unilateral-de-triceps.png",
+            "width": 3013,
+            "height": 3013,
+            "bytes": 1727173,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CORDA UNILATERAL DE TRÍCEPS — vista principal",
+      "width": 3013,
+      "height": 3013,
+      "hash": "a1053aa36155f3745e061232140af832b2fca59d0a1145075b939efaf63bd93f",
+      "isPrimary": true,
+      "src": "/products/corda-unilateral-de-triceps.png"
+    }
+  },
+  {
+    "slug": "colchonete-emborrachado-90x50x3cm-d60",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000100000398000005EE9FE4852A.png",
+      "localOriginal": "/products/colchonete-emborrachado-90x50x3cm-d60.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/colchonete-emborrachado-90x50x3cm-d60.png",
+            "width": 920,
+            "height": 1518,
+            "bytes": 1658931,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento COLCHONETE EMBORRACHADO 90X50X3CM D60 — vista principal",
+      "width": 920,
+      "height": 1518,
+      "hash": "bcca0a2e07f2358308161e30643d7b3dbcbee55df3a586ff2648fd6062d30174",
+      "isPrimary": true,
+      "src": "/products/colchonete-emborrachado-90x50x3cm-d60.png"
+    }
+  },
+  {
+    "slug": "colchonete",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000010000026C000004BE9F60B2D9.png",
+      "localOriginal": "/products/colchonete.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/colchonete.png",
+            "width": 620,
+            "height": 1214,
+            "bytes": 569876,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento COLCHONETE — vista principal",
+      "width": 620,
+      "height": 1214,
+      "hash": "b21b30611bbab760d13efc6603b2278115b97ccd8fd72ee0b8842590bf1ff570",
+      "isPrimary": true,
+      "src": "/products/colchonete.png"
+    }
+  },
+  {
+    "slug": "presilha-de-barra",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000001000005E00000069F5B921D17.png",
+      "localOriginal": "/products/presilha-de-barra.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/presilha-de-barra.png",
+            "width": 1504,
+            "height": 1695,
+            "bytes": 2135158,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PRESILHA DE BARRA — vista principal",
+      "width": 1504,
+      "height": 1695,
+      "hash": "2b87e77c8e5e239d0248f72eed6ab13e59344ec8f5490a7c4d2724d30327a2cc",
+      "isPrimary": true,
+      "src": "/products/presilha-de-barra.png"
+    }
+  },
+  {
+    "slug": "mosquetao-08x80-inox",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000003E8000003E80BFBFBCB.jpg",
+      "localOriginal": "/products/mosquetao-08x80-inox.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/mosquetao-08x80-inox.jpg",
+            "width": 1000,
+            "height": 1000,
+            "bytes": 38154,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento MOSQUETÃO 08x80 inox — vista principal",
+      "width": 1000,
+      "height": 1000,
+      "hash": "6de0f9234bc8fb96c6f7e8a28783a9bc296937fad4ab34ce6cf6f4b254b06a42",
+      "isPrimary": true,
+      "src": "/products/mosquetao-08x80-inox.jpg"
+    }
+  },
+  {
+    "slug": "barra-hexagonal",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000064000000214B227AD75.jpg",
+      "localOriginal": "/products/barra-hexagonal.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-hexagonal.jpg",
+            "width": 1600,
+            "height": 532,
+            "bytes": 53272,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA HEXAGONAL — vista principal",
+      "width": 1600,
+      "height": 532,
+      "hash": "a7f52ffdbb0010bdf76a45144e8deee2bc9cb62fc2b932e5627e2b49c31cfe93",
+      "isPrimary": true,
+      "src": "/products/barra-hexagonal.jpg"
+    }
+  },
+  {
+    "slug": "barra-hexagonal-pegada-emborrachada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000000000500000002232521DE7C.jpg",
+      "localOriginal": "/products/barra-hexagonal-pegada-emborrachada.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-hexagonal-pegada-emborrachada.jpg",
+            "width": 1280,
+            "height": 547,
+            "bytes": 28568,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA HEXAGONAL PEGADA EMBORRACHADA — vista principal",
+      "width": 1280,
+      "height": 547,
+      "hash": "97095e76b37c53c0b2f1e52d082e8c4662c7e3898784d8acfff40731251610be",
+      "isPrimary": true,
+      "src": "/products/barra-hexagonal-pegada-emborrachada.jpg"
+    }
+  },
+  {
+    "slug": "barra-h-p-puxador-simples-macica-zincada",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000004FD00000500D24A1B8E.jpg",
+      "localOriginal": "/products/barra-h-p-puxador-simples-macica-zincada.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-h-p-puxador-simples-macica-zincada.jpg",
+            "width": 1277,
+            "height": 1280,
+            "bytes": 44233,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA H P/ PUXADOR SIMPLES MACIÇA ZINCADA — vista principal",
+      "width": 1277,
+      "height": 1280,
+      "hash": "a222ab5ed6f835385a57f613574de5fa820d7f99890554d926d70a1e210fbe88",
+      "isPrimary": true,
+      "src": "/products/barra-h-p-puxador-simples-macica-zincada.jpg"
+    }
+  },
+  {
+    "slug": "kit-puxadores-anatomicos-revestido-com-suporte-de-parede",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000010000092300000923F5410982.png",
+      "localOriginal": "/products/kit-puxadores-anatomicos-revestido-com-suporte-de-parede.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/kit-puxadores-anatomicos-revestido-com-suporte-de-parede.png",
+            "width": 2339,
+            "height": 2339,
+            "bytes": 2166206,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento KIT PUXADORES ANATÔMICOS REVESTIDO COM SUPORTE DE PAREDE — vista principal",
+      "width": 2339,
+      "height": 2339,
+      "hash": "4751a62021188696769234083283d9aa6e61e0090d32a76d48eab206d8090c99",
+      "isPrimary": true,
+      "src": "/products/kit-puxadores-anatomicos-revestido-com-suporte-de-parede.png"
+    }
+  },
+  {
+    "slug": "par-de-barra-c-rosca",
+    "status": "missing"
+  },
+  {
+    "slug": "par-de-barra-c-rosca-inox",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000010000088F00000703BA6EEDF0.png",
+      "localOriginal": "/products/par-de-barra-c-rosca-inox.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/par-de-barra-c-rosca-inox.png",
+            "width": 2191,
+            "height": 1795,
+            "bytes": 4638225,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PAR DE BARRA C/ ROSCA INOX — vista principal",
+      "width": 2191,
+      "height": 1795,
+      "hash": "22a5f57a96dde4f8e99a2e955c80fc2a158deae12623afc7049bb2c4f32e519c",
+      "isPrimary": true,
+      "src": "/products/par-de-barra-c-rosca-inox.png"
+    }
+  },
+  {
+    "slug": "barra-oca-40-cm-c-parafuso-par",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000050000000500D6B9DA95.jpg",
+      "localOriginal": "/products/barra-oca-40-cm-c-parafuso-par.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-oca-40-cm-c-parafuso-par.jpg",
+            "width": 1280,
+            "height": 1280,
+            "bytes": 65395,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA OCA 40 CM C/ PARAFUSO PAR — vista principal",
+      "width": 1280,
+      "height": 1280,
+      "hash": "711a303c77a3c56d71075925d09c924b04f88e4ff588aa9f64b15b99f0880160",
+      "isPrimary": true,
+      "src": "/products/barra-oca-40-cm-c-parafuso-par.jpg"
+    }
+  },
+  {
+    "slug": "barra-oca-40-cm-c-presilhas-par",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000002EF0000050014ED06F5.jpg",
+      "localOriginal": "/products/barra-oca-40-cm-c-presilhas-par.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-oca-40-cm-c-presilhas-par.jpg",
+            "width": 751,
+            "height": 1280,
+            "bytes": 59019,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA OCA 40 CM C/ PRESILHAS PAR — vista principal",
+      "width": 751,
+      "height": 1280,
+      "hash": "344404c4d09b0ae6e5ab6313fcfd6f940ba5a22ce39090067ecb87d84f792e74",
+      "isPrimary": true,
+      "src": "/products/barra-oca-40-cm-c-presilhas-par.jpg"
+    }
+  },
+  {
+    "slug": "step-eva-30x60x10cm",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000001000009F80000050DD6D70B03.png",
+      "localOriginal": "/products/step-eva-30x60x10cm.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/step-eva-30x60x10cm.png",
+            "width": 2552,
+            "height": 1293,
+            "bytes": 2956109,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento STEP EVA 30x60x10cm — vista principal",
+      "width": 2552,
+      "height": 1293,
+      "hash": "f87fdf6c6a6355e58de60b0417d79be5f41d0f66c37d4477e9e4aaa39ca0e575",
+      "isPrimary": true,
+      "src": "/products/step-eva-30x60x10cm.png"
+    }
+  },
+  {
+    "slug": "piso-de-borracha-100x100x1-6-cm",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000100000331000002592D8C23AC.png",
+      "localOriginal": "/products/piso-de-borracha-100x100x1-6-cm.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/piso-de-borracha-100x100x1-6-cm.png",
+            "width": 817,
+            "height": 601,
+            "bytes": 421900,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PISO DE BORRACHA 100X100X1,6 CM — vista principal",
+      "width": 817,
+      "height": 601,
+      "hash": "39305b5384962146731df65efefb9103e08505d89a4561f4f6065cf863ece174",
+      "isPrimary": true,
+      "src": "/products/piso-de-borracha-100x100x1-6-cm.png"
+    }
+  },
+  {
+    "slug": "puxador-corda",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000004B900000640C979AF7D.jpg",
+      "localOriginal": "/products/puxador-corda.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/puxador-corda.jpg",
+            "width": 1209,
+            "height": 1600,
+            "bytes": 50783,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento PUXADOR CORDA — vista principal",
+      "width": 1209,
+      "height": 1600,
+      "hash": "8c1f6584791e18c30c3fd4a868b1bd967b73208f7b5ea91aae465e5c4e6b163e",
+      "isPrimary": true,
+      "src": "/products/puxador-corda.jpg"
+    }
+  },
+  {
+    "slug": "barra-w",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000000000097500000A28AC4C4404.jpg",
+      "localOriginal": "/products/barra-w.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/barra-w.jpg",
+            "width": 2421,
+            "height": 2600,
+            "bytes": 383433,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento BARRA W — vista principal",
+      "width": 2421,
+      "height": 2600,
+      "hash": "fcdd471f6dce1d9ebec7fcc366c6c3301d4c106a64b6a3fa8a83692f5f0db0ae",
+      "isPrimary": true,
+      "src": "/products/barra-w.jpg"
+    }
+  },
+  {
+    "slug": "protetor-de-barra-em-eva",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/1000000100000AC2000001F4E78C8BB3.png",
+      "localOriginal": "/products/protetor-de-barra-em-eva.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/protetor-de-barra-em-eva.png",
+            "width": 2754,
+            "height": 500,
+            "bytes": 853797,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento PROTETOR DE BARRA EM EVA — vista principal",
+      "width": 2754,
+      "height": 500,
+      "hash": "f79dacc99b2960d3b893c56768b8484c4c897f5e1e7e1dbbbcdc9b0118fad2ac",
+      "isPrimary": true,
+      "src": "/products/protetor-de-barra-em-eva.png"
+    }
+  },
+  {
+    "slug": "tornozeleira-crossover-com-alca-de-pe",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000002730000027A3209D9B1.jpg",
+      "localOriginal": "/products/tornozeleira-crossover-com-alca-de-pe.jpg",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/tornozeleira-crossover-com-alca-de-pe.jpg",
+            "width": 627,
+            "height": 634,
+            "bytes": 68409,
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "alt": "Equipamento TORNOZELEIRA CROSSOVER COM ALÇA DE PÉ — vista principal",
+      "width": 627,
+      "height": 634,
+      "hash": "5f62f54afb29e7fbf79fa1481e1d18a113bdcd5091460f651f430babfee6a3c6",
+      "isPrimary": true,
+      "src": "/products/tornozeleira-crossover-com-alca-de-pe.jpg"
+    }
+  },
+  {
+    "slug": "tornozeleira-crossover-profissional",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000001000006EE0000023ED6BDAEAC.png",
+      "localOriginal": "/products/tornozeleira-crossover-profissional.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/tornozeleira-crossover-profissional.png",
+            "width": 1774,
+            "height": 574,
+            "bytes": 671906,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento TORNOZELEIRA CROSSOVER PROFISSIONAL — vista principal",
+      "width": 1774,
+      "height": 574,
+      "hash": "b4952f90c195cefcca124d5d9f3efdb04b690732c5bce381f5cfbfa355c349ef",
+      "isPrimary": true,
+      "src": "/products/tornozeleira-crossover-profissional.png"
+    }
+  },
+  {
+    "slug": "tornozeleira-crossover-eva",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000010000080E00000590DF242EDC.png",
+      "localOriginal": "/products/tornozeleira-crossover-eva.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/tornozeleira-crossover-eva.png",
+            "width": 2062,
+            "height": 1424,
+            "bytes": 1789651,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento TORNOZELEIRA CROSSOVER EVA — vista principal",
+      "width": 2062,
+      "height": 1424,
+      "hash": "d627f24df1a295fd7b77f87253289aee47b45019b31e8334dd19d996252d0e37",
+      "isPrimary": true,
+      "src": "/products/tornozeleira-crossover-eva.png"
+    }
+  },
+  {
+    "slug": "crossover-de-mao-par",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/100000010000077200000960110CDD7A.png",
+      "localOriginal": "/products/crossover-de-mao-par.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/crossover-de-mao-par.png",
+            "width": 1906,
+            "height": 2400,
+            "bytes": 2830774,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento CROSSOVER DE MÃO PAR — vista principal",
+      "width": 1906,
+      "height": 2400,
+      "hash": "11ee895a55e58d90e678839714e42c692bbc48e737a0009a905aeea72197df51",
+      "isPrimary": true,
+      "src": "/products/crossover-de-mao-par.png"
+    }
+  },
+  {
+    "slug": "cabo-de-aco-1-8-6x19-revestimento-nylon-preto",
+    "status": "missing"
+  },
+  {
+    "slug": "bola-pilates-75cm",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000001000003200000032257FBBDDE.png",
+      "localOriginal": "/products/bola-pilates-75cm.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/bola-pilates-75cm.png",
+            "width": 800,
+            "height": 802,
+            "bytes": 190110,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento BOLA PILATES 75CM — vista principal",
+      "width": 800,
+      "height": 802,
+      "hash": "7408a91a01f5496cac4a9acf839811d75959b4bc3c65ddf4c6c48e0cefbb2a6c",
+      "isPrimary": true,
+      "src": "/products/bola-pilates-75cm.png"
+    }
+  },
+  {
+    "slug": "dumbell-de-ferro-pintado-kg",
+    "status": "ok",
+    "image": {
+      "originalSrc": "sheet://tabela acessórios.ods#Pictures/10000000000005000000039677624978.png",
+      "localOriginal": "/products/dumbell-de-ferro-pintado-kg.png",
+      "variants": {
+        "fallback": [
+          {
+            "src": "/products/dumbell-de-ferro-pintado-kg.png",
+            "width": 1280,
+            "height": 918,
+            "bytes": 731529,
+            "mime": "image/png"
+          }
+        ]
+      },
+      "alt": "Equipamento DUMBELL DE FERRO PINTADO KG — vista principal",
+      "width": 1280,
+      "height": 918,
+      "hash": "ee21d55d7c394154c608bdca9c02466399a2900351e2f005fc4c4d6b0a5dbdd0",
+      "isPrimary": true,
+      "src": "/products/dumbell-de-ferro-pintado-kg.png"
+    }
+  },
+  {
+    "slug": "silicone-litro",
+    "status": "missing"
+  }
+]

@@ -1,38 +1,53 @@
 ---
 {
-  "id": "5653",
-  "legacyId": 5653,
+  "id": "38",
+  "legacyId": 38,
   "slug": "gaiola-de-agachamento-com-rebaixo",
   "name": "GAIOLA DE AGACHAMENTO COM REBAIXO",
+  "code": "SPG21",
+  "price": 5300,
+  "priceFormatted": "R$ 5.300,00",
   "categorySlugs": [
-    "suportes-e-bancos"
+    "linha-tubolar-4pl-power-line"
   ],
+  "summary": "Equipamento GAIOLA DE AGACHAMENTO COM REBAIXO da linha Tubular 4\" (TB4PL).",
+  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 55.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "",
-      "localOriginal": "",
+      "originalSrc": "sheet://TABELA TB4PL MAR 2026.ods#Pictures/100000010000098900000AA483FEB015.png",
+      "localOriginal": "/products/gaiola-de-agachamento-com-rebaixo.png",
       "variants": {
-        "fallback": []
+        "fallback": [
+          {
+            "src": "/products/gaiola-de-agachamento-com-rebaixo.png",
+            "width": 2441,
+            "height": 2724,
+            "bytes": 6490889,
+            "mime": "image/png"
+          }
+        ]
       },
-      "alt": "Equipamento GAIOLA DE AGACHAMENTO COM REBAIXO — imagem indisponível",
-      "width": 1,
-      "height": 1,
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "alt": "Equipamento GAIOLA DE AGACHAMENTO COM REBAIXO — vista principal",
+      "width": 2441,
+      "height": 2724,
+      "hash": "3e4350e76a84227d1569df1c5950e48f57880738c0558b18001f0f642c7d4ebf",
       "isPrimary": true,
-      "src": ""
+      "src": "/products/gaiola-de-agachamento-com-rebaixo.png"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/gaiola-de-agachamento-com-rebaixo/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/gaiola-de-agachamento-com-rebaixo/",
-      "identifier": "dt_galleries:5653",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "TABELA TB4PL MAR 2026.ods:55",
+      "field": "name/code/price/category"
+    },
+    {
+      "kind": "derived",
+      "identifier": "TABELA TB4PL MAR 2026.ods#Pictures/100000010000098900000AA483FEB015.png",
+      "field": "image"
     }
   ],
   "featured": false

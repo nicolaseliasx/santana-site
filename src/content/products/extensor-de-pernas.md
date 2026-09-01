@@ -1,67 +1,53 @@
 ---
 {
-  "id": "5050",
-  "legacyId": 5050,
+  "id": "84",
+  "legacyId": 84,
   "slug": "extensor-de-pernas",
   "name": "EXTENSOR DE PERNAS",
-  "categorySlugs": [],
+  "code": "20212",
+  "price": 14000,
+  "priceFormatted": "R$ 14.000,00",
+  "categorySlugs": [
+    "linha-tubolar-4pl-power-line"
+  ],
+  "summary": "Equipamento EXTENSOR DE PERNAS da linha Power Line (Tubular 4\").",
+  "description": "Produto listado na tabela LINHA POWER LINE MAR 26.ods, linha 30.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "https://santanafitness.com.br/wp-content/uploads/2017/10/EXTENSOR-DE-PERNAS.png",
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/10000001000004C80000070A14AFF2DD.png",
       "localOriginal": "/products/extensor-de-pernas.png",
       "variants": {
         "fallback": [
           {
             "src": "/products/extensor-de-pernas.png",
-            "width": 800,
-            "height": 800,
-            "bytes": 388852,
+            "width": 1224,
+            "height": 1802,
+            "bytes": 2048822,
             "mime": "image/png"
-          }
-        ],
-        "webp": [
-          {
-            "src": "/products/variants/extensor-de-pernas-640-f6d523915e.webp",
-            "width": 640,
-            "height": 640,
-            "bytes": 17300,
-            "mime": "image/webp"
-          }
-        ],
-        "avif": [
-          {
-            "src": "/products/variants/extensor-de-pernas-640-f6d523915e.avif",
-            "width": 640,
-            "height": 640,
-            "bytes": 16115,
-            "mime": "image/avif"
           }
         ]
       },
       "alt": "Equipamento EXTENSOR DE PERNAS — vista principal",
-      "width": 800,
-      "height": 800,
-      "hash": "f6d523915e02b8260cd32924c397df954d85049dc22a2979508e9c7e3411fe93",
+      "width": 1224,
+      "height": 1802,
+      "hash": "7e6e95e4aa7fc6d87022155d3928a80dd0e7c19c121514daf0755f78e1d40e0a",
       "isPrimary": true,
       "src": "/products/extensor-de-pernas.png"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/extensor-de-pernas/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/extensor-de-pernas/",
-      "identifier": "dt_galleries:5050",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "LINHA POWER LINE MAR 26.ods:30",
+      "field": "name/code/price/category"
     },
     {
-      "kind": "public-media",
-      "url": "https://santanafitness.com.br/wp-content/uploads/2017/10/EXTENSOR-DE-PERNAS.png",
-      "field": "images"
+      "kind": "derived",
+      "identifier": "LINHA POWER LINE MAR 26.ods#Pictures/10000001000004C80000070A14AFF2DD.png",
+      "field": "image"
     }
   ],
   "featured": false

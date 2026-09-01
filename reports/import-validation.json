@@ -1,0 +1,195 @@
+{
+  "generatedAt": "2026-09-01T17:19:10.681Z",
+  "checks": [
+    {
+      "lineKey": "tb4pl",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 18,
+      "slug": "adutor-80kg",
+      "expected": {
+        "code": "PL47047",
+        "name": "ADUTOR 80KG",
+        "price": 11854.08,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "PL47047",
+        "name": "ADUTOR 80KG",
+        "price": 11854.08,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "tb4pl",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 19,
+      "slug": "agachamento-squat",
+      "expected": {
+        "code": "PL3232",
+        "name": "AGACHAMENTO SQUAT",
+        "price": 10492,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "PL3232",
+        "name": "AGACHAMENTO SQUAT",
+        "price": 10492,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "powerline",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 18,
+      "slug": "adutor-90kg",
+      "expected": {
+        "code": "20200",
+        "name": "ADUTOR 90KG",
+        "price": 14098.6,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "20200",
+        "name": "ADUTOR 90KG",
+        "price": 14098.6,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "powerline",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 19,
+      "slug": "abdutor-90kg",
+      "expected": {
+        "code": "20201",
+        "name": "ABDUTOR 90KG",
+        "price": 14089.6,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "20201",
+        "name": "ABDUTOR 90KG",
+        "price": 14089.6,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "articulada",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 17,
+      "slug": "supino-declinado-articulado",
+      "expected": {
+        "code": "AT41",
+        "name": "SUPINO DECLINADO ARTICULADO",
+        "price": 8500,
+        "hasImage": false
+      },
+      "generated": {
+        "code": "AT41",
+        "name": "SUPINO DECLINADO ARTICULADO",
+        "price": 8500,
+        "hasImage": false
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "articulada",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 18,
+      "slug": "supino-inclinado-articulado",
+      "expected": {
+        "code": "AT42",
+        "name": "SUPINO INCLINADO ARTICULADO",
+        "price": 8700,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "AT42",
+        "name": "SUPINO INCLINADO ARTICULADO",
+        "price": 8700,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "bancos",
+      "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "rowNumber": 19,
+      "slug": "suporte-torre-10-pares",
+      "expected": {
+        "code": "SH10",
+        "name": "SUPORTE TORRE 10 PARES",
+        "price": 980,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "SH10",
+        "name": "SUPORTE TORRE 10 PARES",
+        "price": 980,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "bancos",
+      "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "rowNumber": 21,
+      "slug": "torre-halter-injetado-sextavado-c-pegada-inox-do-1kg-ao-10kg",
+      "expected": {
+        "code": "SHIS10",
+        "name": "TORRE HALTER INJETADO SEXTAVADO C/ PEGADA INOX DO 1KG AO 10KG",
+        "price": 6766.44,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "SHIS10",
+        "name": "TORRE HALTER INJETADO SEXTAVADO C/ PEGADA INOX DO 1KG AO 10KG",
+        "price": 6766.44,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "acessorios",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 19,
+      "slug": "barra-inox-olimpica-2-00-c-rolamentos",
+      "expected": {
+        "code": "BOI0200",
+        "name": "BARRA INOX OLIMPICA 2.00 C/ ROLAMENTOS",
+        "price": 2300,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "BOI0200",
+        "name": "BARRA INOX OLIMPICA 2.00 C/ ROLAMENTOS",
+        "price": 2300,
+        "hasImage": true
+      },
+      "matches": true
+    },
+    {
+      "lineKey": "acessorios",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 20,
+      "slug": "barra-inox-olimpica-w-1-20-c-rolamentos",
+      "expected": {
+        "code": "BOIW0120",
+        "name": "BARRA INOX OLIMPICA W 1.20 C/ ROLAMENTOS",
+        "price": 1100,
+        "hasImage": true
+      },
+      "generated": {
+        "code": "BOIW0120",
+        "name": "BARRA INOX OLIMPICA W 1.20 C/ ROLAMENTOS",
+        "price": 1100,
+        "hasImage": true
+      },
+      "matches": true
+    }
+  ]
+}

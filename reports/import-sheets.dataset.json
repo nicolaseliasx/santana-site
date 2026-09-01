@@ -1,0 +1,6078 @@
+[
+  {
+    "id": "1",
+    "legacyId": 1,
+    "slug": "adutor-80kg",
+    "name": "ADUTOR 80KG",
+    "code": "PL47047",
+    "price": 11854.08,
+    "priceFormatted": "R$ 11.854,08",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 18,
+    "image": {
+      "stagingPath": "img-001.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000008F400000B32F6BD9251.png",
+      "width": 2292,
+      "height": 2866,
+      "format": "png",
+      "bytes": 6082578,
+      "sha256": "5fad35b6e5fa6a33a0c51ae34e283e1c5ff11e1a42771137aaae8953005c1562"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "2",
+    "legacyId": 2,
+    "slug": "agachamento-squat",
+    "name": "AGACHAMENTO SQUAT",
+    "code": "PL3232",
+    "price": 10492,
+    "priceFormatted": "R$ 10.492,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 19,
+    "image": {
+      "stagingPath": "img-002.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000982000008DD2C589F5F.png",
+      "width": 2434,
+      "height": 2269,
+      "format": "png",
+      "bytes": 6970120,
+      "sha256": "74951702dd023bc23c2ba599e57386f217f669be0fc86da323b7002cd9298935"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": true,
+      "noImage": false
+    }
+  },
+  {
+    "id": "3",
+    "legacyId": 3,
+    "slug": "agachamento-sissy",
+    "name": "AGACHAMENTO Sissy",
+    "code": "PL3232",
+    "price": 1868.83,
+    "priceFormatted": "R$ 1.868,83",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 20,
+    "image": {
+      "stagingPath": "img-003.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000003200000032054E68554.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 261186,
+      "sha256": "ce0b31f303e89d7d69ba27eb06b9e9f37331189a758bc8de83d634a637079e51"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": true,
+      "noImage": false
+    }
+  },
+  {
+    "id": "4",
+    "legacyId": 4,
+    "slug": "abdutor-80kg",
+    "name": "ABDUTOR 80KG",
+    "code": "PL47046",
+    "price": 11854.08,
+    "priceFormatted": "R$ 11.854,08",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 21,
+    "image": {
+      "stagingPath": "img-001.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000008F400000B32F6BD9251.png",
+      "width": 2292,
+      "height": 2866,
+      "format": "png",
+      "bytes": 6082578,
+      "sha256": "5fad35b6e5fa6a33a0c51ae34e283e1c5ff11e1a42771137aaae8953005c1562"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "5",
+    "legacyId": 5,
+    "slug": "adutor-abdutor-80x160x160cm-lxaxc-80kg",
+    "name": "ADUTOR/ABDUTOR (80X160X160CM LxAxC) 80KG",
+    "code": "PL47051",
+    "price": 12590,
+    "priceFormatted": "R$ 12.590,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 22,
+    "image": {
+      "stagingPath": "img-001.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000008F400000B32F6BD9251.png",
+      "width": 2292,
+      "height": 2866,
+      "format": "png",
+      "bytes": 6082578,
+      "sha256": "5fad35b6e5fa6a33a0c51ae34e283e1c5ff11e1a42771137aaae8953005c1562"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "6",
+    "legacyId": 6,
+    "slug": "banco-simples",
+    "name": "BANCO SIMPLES",
+    "code": "BC2710",
+    "price": 1382.53,
+    "priceFormatted": "R$ 1.382,53",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 23,
+    "image": {
+      "stagingPath": "img-004.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000000000500000003BB7E6B7726.jpg",
+      "width": 1280,
+      "height": 955,
+      "format": "jpeg",
+      "bytes": 38818,
+      "sha256": "e049f763dd4b98466c17ab7e14f8e8dbbabccf041d0062fdc609a7d8801f2727"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "7",
+    "legacyId": 7,
+    "slug": "banco-simples-90cm",
+    "name": "BANCO SIMPLES 90CM",
+    "code": "BC2723",
+    "price": 950,
+    "priceFormatted": "R$ 950,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 24,
+    "image": {
+      "stagingPath": "img-005.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000000000500000004103F34DD15.jpg",
+      "width": 1280,
+      "height": 1040,
+      "format": "jpeg",
+      "bytes": 69060,
+      "sha256": "3a997fdf805c0d8dc05767176712d9ed974805783c90f584568a20efb648b01f"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "8",
+    "legacyId": 8,
+    "slug": "banco-90",
+    "name": "BANCO 90°",
+    "code": "BC2729",
+    "price": 1330.56,
+    "priceFormatted": "R$ 1.330,56",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 25,
+    "image": {
+      "stagingPath": "img-006.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000320000003206010C8F7.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 177759,
+      "sha256": "3fb9d15fda1dd092b74b92b503551c5261e42b918e1cb7b906eed21d6be0428e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "9",
+    "legacyId": 9,
+    "slug": "banco-regulavel-de-0-a-90",
+    "name": "BANCO REGULÁVEL DE 0 Á 90º",
+    "code": "BC2711",
+    "price": 4200,
+    "priceFormatted": "R$ 4.200,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 26,
+    "image": {
+      "stagingPath": "img-007.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000082A000005D062421503.png",
+      "width": 2090,
+      "height": 1488,
+      "format": "png",
+      "bytes": 3041335,
+      "sha256": "0dd808e0b3a20682dd05ec661238a367ecf22d6229efdd88b0ed634c310aa521"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "10",
+    "legacyId": 10,
+    "slug": "banco-scott",
+    "name": "BANCO SCOTT",
+    "code": "BC2712",
+    "price": 4256,
+    "priceFormatted": "R$ 4.256,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 27,
+    "image": {
+      "stagingPath": "img-008.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000032000000320E23D6B8B.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 236035,
+      "sha256": "b22306def0818db712b7c7da706c95ed5569b8c9332571bad8e2d6f691a9c202"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "11",
+    "legacyId": 11,
+    "slug": "banco-supino-declinado",
+    "name": "BANCO SUPINO DECLINADO",
+    "code": "BC2713",
+    "price": 5812.35,
+    "priceFormatted": "R$ 5.812,35",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 28,
+    "image": {
+      "stagingPath": "img-009.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000320000003204F2465C1.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 212790,
+      "sha256": "3b74dd724faa78a83d930bb51451dfd9bb1d9e09b4b64dc0319cd28c93536bc3"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 22,
+      "code": "20204",
+      "price": 5812.35
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "12",
+    "legacyId": 12,
+    "slug": "banco-supino-inclinado",
+    "name": "BANCO SUPINO INCLINADO",
+    "code": "BC2714",
+    "price": 4892.16,
+    "priceFormatted": "R$ 4.892,16",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 29,
+    "image": {
+      "stagingPath": "img-010.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000032000000320AEE91427.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 224228,
+      "sha256": "f3947e0156c3e4fce6962336b7af7383af107f211e5f739be2ca5da5321158ec"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 23,
+      "code": "20205",
+      "price": 4892.16
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "13",
+    "legacyId": 13,
+    "slug": "banco-para-desenvolvimento",
+    "name": "BANCO PARA DESENVOLVIMENTO",
+    "code": "BC2728",
+    "price": 3604.61,
+    "priceFormatted": "R$ 3.604,61",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 30,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "14",
+    "legacyId": 14,
+    "slug": "banco-supino-regulavel",
+    "name": "BANCO SUPINO REGULÁVEL",
+    "code": "BC2715",
+    "price": 5229.95,
+    "priceFormatted": "R$ 5.229,95",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 31,
+    "image": {
+      "stagingPath": "img-011.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000320000003204B66BE44.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 344499,
+      "sha256": "d9c9a7268714e5a75c8298881e62960a7c3701e778d59c358e3300e9d334a1f0"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 24,
+      "code": "20206",
+      "price": 5229.95
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "15",
+    "legacyId": 15,
+    "slug": "banco-supino-regulavel-3-polegadas",
+    "name": "BANCO SUPINO REGULÁVEL 3 POLEGADAS",
+    "code": "BC0300",
+    "price": 4250,
+    "priceFormatted": "R$ 4.250,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 32,
+    "image": {
+      "stagingPath": "img-012.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000004C40000050078434FB6.jpg",
+      "width": 1220,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 73565,
+      "sha256": "7363d8682f84132e1e0439bf23bfb3367d6c1bf65341c071e4f75cee4594b60d"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "16",
+    "legacyId": 16,
+    "slug": "banco-supino-regulavel-residencial",
+    "name": "BANCO SUPINO REGULÁVEL RESIDENCIAL",
+    "code": "BC0301",
+    "price": 2990,
+    "priceFormatted": "R$ 2.990,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 33,
+    "image": {
+      "stagingPath": "img-013.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000004910000064040629EFB.jpg",
+      "width": 1169,
+      "height": 1600,
+      "format": "jpeg",
+      "bytes": 116037,
+      "sha256": "a95d4fb2c9b887b5003631ea22c263b71c0e3c9814065e4e11b7e237b9464e63"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "17",
+    "legacyId": 17,
+    "slug": "hack-agachamento-de-parede",
+    "name": "HACK AGACHAMENTO DE PAREDE",
+    "code": "BC2720",
+    "price": 2417.99,
+    "priceFormatted": "R$ 2.417,99",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 34,
+    "image": {
+      "stagingPath": "img-014.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000000000472000005002E335729.jpg",
+      "width": 1138,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 33839,
+      "sha256": "67d40016b52edf074bea3874e662abacdbf0fec896e46a5c6e2f799b9f84d3e7"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "18",
+    "legacyId": 18,
+    "slug": "banco-supino-reto",
+    "name": "BANCO SUPINO RETO",
+    "code": "BC2716",
+    "price": 5806.08,
+    "priceFormatted": "R$ 5.806,08",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 35,
+    "image": {
+      "stagingPath": "img-060.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000003200000032040165EAA.png",
+      "width": 800,
+      "height": 800,
+      "format": "png",
+      "bytes": 198863,
+      "sha256": "47fd8d19c574f68fdf583a452ac659bc376d3e41f8790db8fce243efc1ec318b"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 26,
+      "code": "20208",
+      "price": 4892.16
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "19",
+    "legacyId": 19,
+    "slug": "crossover-angular-2x80kg",
+    "name": "CROSSOVER ANGULAR 2X80KG",
+    "code": "PL47048",
+    "price": 25377.41,
+    "priceFormatted": "R$ 25.377,41",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 36,
+    "image": {
+      "stagingPath": "img-016.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000039300000500953FC013.jpg",
+      "width": 915,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 77221,
+      "sha256": "f987dbf12c0ea977a6dc16b9d825948c2613d5bbd92fe4ca2d03b912f9b1f7e6"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "20",
+    "legacyId": 20,
+    "slug": "crossover-angular-simples",
+    "name": "CROSSOVER ANGULAR SIMPLES",
+    "code": "PL47062",
+    "price": 19300,
+    "priceFormatted": "R$ 19.300,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 37,
+    "image": {
+      "stagingPath": "img-017.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000AAD00000E413726EF67.png",
+      "width": 2733,
+      "height": 3649,
+      "format": "png",
+      "bytes": 8660705,
+      "sha256": "5a9da2067974f2981d168289bf2ccaa53b6923061333e9e2dd99693bec8bf995"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "21",
+    "legacyId": 21,
+    "slug": "crosmulti-2x70kg",
+    "name": "CROSMULTI 2X70KG",
+    "code": "PL47063",
+    "price": 25752.38,
+    "priceFormatted": "R$ 25.752,38",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 38,
+    "image": {
+      "stagingPath": "img-018.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000093400000E4AE8159C22.png",
+      "width": 2356,
+      "height": 3658,
+      "format": "png",
+      "bytes": 7648835,
+      "sha256": "59ea2aba2c979a40fc450f59ceea830be4e9d68af678214e00906b799c1a559e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "22",
+    "legacyId": 22,
+    "slug": "crosmulti-multi-funcional-160x240x170cm-lxaxc",
+    "name": "CROSMULTI MULTI FUNCIONAL (160X240X170CM LxAxC)",
+    "code": "PL47064",
+    "price": 27590,
+    "priceFormatted": "R$ 27.590,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 39,
+    "image": {
+      "stagingPath": "img-019.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000008F400000D646B819796.png",
+      "width": 2292,
+      "height": 3428,
+      "format": "png",
+      "bytes": 7433407,
+      "sha256": "0f6cec4727c496f121805dd419bb1133ff4d6a8e5ce4c9427b04c693ec8e322a"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "23",
+    "legacyId": 23,
+    "slug": "crosmulti-c-barra-atras",
+    "name": "CROSMULTI C/ BARRA ATRÁS",
+    "code": "PL47071",
+    "price": 25000,
+    "priceFormatted": "R$ 25.000,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 40,
+    "image": {
+      "stagingPath": "img-020.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000005F600000853DFDBF977.png",
+      "width": 1526,
+      "height": 2131,
+      "format": "png",
+      "bytes": 1757256,
+      "sha256": "a432bf8aa92131425c2e3b1a32e0a2f3cb512c1f632877e441a8e3c43912218e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "24",
+    "legacyId": 24,
+    "slug": "crosmulti-angular-2x80kg",
+    "name": "CROSMULTI ANGULAR 2X80KG",
+    "code": "PL47067",
+    "price": 24433.92,
+    "priceFormatted": "R$ 24.433,92",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 41,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "25",
+    "legacyId": 25,
+    "slug": "cross-over-2x80kg",
+    "name": "CROSS-OVER 2X80KG",
+    "code": "PL47041",
+    "price": 26611.2,
+    "priceFormatted": "R$ 26.611,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 42,
+    "image": {
+      "stagingPath": "img-021.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000B78000009D8B5C0D4EE.png",
+      "width": 2936,
+      "height": 2520,
+      "format": "png",
+      "bytes": 6584319,
+      "sha256": "4c45c31938357f960c3dc4bcc543b9d780b346d7fe86911475b8f0b6ade8396b"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "26",
+    "legacyId": 26,
+    "slug": "elevacao-pelvica",
+    "name": "ELEVAÇÃO PÉLVICA",
+    "code": "EL 2830",
+    "price": 7334.04,
+    "priceFormatted": "R$ 7.334,04",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 43,
+    "image": {
+      "stagingPath": "img-022.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000A320000089E9FB1A394.png",
+      "width": 2610,
+      "height": 2206,
+      "format": "png",
+      "bytes": 6077160,
+      "sha256": "0bd50b26cdc574e3b907da4cafccdaf20125737c2ecb75c87df0ef07b5d48029"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "27",
+    "legacyId": 27,
+    "slug": "espaldar",
+    "name": "ESPALDAR",
+    "code": "BC2717",
+    "price": 2043.01,
+    "priceFormatted": "R$ 2.043,01",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 44,
+    "image": {
+      "stagingPath": "img-023.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000E0B000018FE8CE81EC7.png",
+      "width": 3595,
+      "height": 6398,
+      "format": "png",
+      "bytes": 4373442,
+      "sha256": "0634bde8971a6248a3eb1be945e8b3cdd7e4034d5c3cde1609b85061ce18c262"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "28",
+    "legacyId": 28,
+    "slug": "espaldar-1200-x-2200",
+    "name": "ESPALDAR 1200 X 2200",
+    "code": "BC2721",
+    "price": 3408.6,
+    "priceFormatted": "R$ 3.408,60",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 45,
+    "image": {
+      "stagingPath": "img-024.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000001850000024059588AC9.png",
+      "width": 389,
+      "height": 576,
+      "format": "png",
+      "bytes": 103855,
+      "sha256": "6dc9985c6bdf1f65b367939e8add926241dc30e093f891d89827e521e79198b4"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "29",
+    "legacyId": 29,
+    "slug": "estacao-semi-pro-2000",
+    "name": "ESTAÇÃO SEMI PRO 2000",
+    "code": "ES0001",
+    "price": 10990,
+    "priceFormatted": "R$ 10.990,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 46,
+    "image": {
+      "stagingPath": "img-025.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000004E6000004E69C00472F.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "bytes": 1227695,
+      "sha256": "f2ef39861a3c19699b1d41edb4790acee340355dafb6374e90710c342962a683"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "30",
+    "legacyId": 30,
+    "slug": "estacao-profissional-3000",
+    "name": "ESTAÇÃO PROFISSIONAL 3000",
+    "code": "ES0002",
+    "price": 19500,
+    "priceFormatted": "R$ 19.500,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 47,
+    "image": {
+      "stagingPath": "img-026.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000005DA0000041ACD3EC294.png",
+      "width": 1498,
+      "height": 1050,
+      "format": "png",
+      "bytes": 1644865,
+      "sha256": "a503657d6d8bb5051b925a750052b2de5fbdcf292b66ce2b6c724b245a4e1752"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "31",
+    "legacyId": 31,
+    "slug": "extensor-de-pernas-80kg",
+    "name": "EXTENSOR DE PERNAS 80KG",
+    "code": "PL47044",
+    "price": 11491.2,
+    "priceFormatted": "R$ 11.491,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 48,
+    "image": {
+      "stagingPath": "img-027.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000032C0000054849635A6B.png",
+      "width": 812,
+      "height": 1352,
+      "format": "png",
+      "bytes": 1335871,
+      "sha256": "4f6ea28be03f6e00e214bfa6e8d2e309aacca7f442a3dc7b39724f15813b1c59"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "32",
+    "legacyId": 32,
+    "slug": "flexo-extensor-de-pernas-80kg",
+    "name": "FLEXO/EXTENSOR DE PERNAS 80KG",
+    "code": "PL47068",
+    "price": 12845,
+    "priceFormatted": "R$ 12.845,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 49,
+    "image": {
+      "stagingPath": "img-028.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000007830000099A264ED576.png",
+      "width": 1923,
+      "height": 2458,
+      "format": "png",
+      "bytes": 5869084,
+      "sha256": "c1d4a598532494f002333501b898625aa3fede3a936c8d99f7b7301c5ab83cf5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "33",
+    "legacyId": 33,
+    "slug": "flexor-de-pernas-sentado-70kg",
+    "name": "FLEXOR DE PERNAS SENTADO 70KG",
+    "code": "PL47052",
+    "price": 11491.2,
+    "priceFormatted": "R$ 11.491,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 50,
+    "image": {
+      "stagingPath": "img-028.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000007830000099A264ED576.png",
+      "width": 1923,
+      "height": 2458,
+      "format": "png",
+      "bytes": 5869084,
+      "sha256": "c1d4a598532494f002333501b898625aa3fede3a936c8d99f7b7301c5ab83cf5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "34",
+    "legacyId": 34,
+    "slug": "flexor-vertical-70kg",
+    "name": "FLEXOR VERTICAL 70KG",
+    "code": "PL47057",
+    "price": 10765.44,
+    "priceFormatted": "R$ 10.765,44",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 51,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "35",
+    "legacyId": 35,
+    "slug": "flexor-de-pernas-horizontal-70x145x150cm-lxaxc-70kg",
+    "name": "FLEXOR DE PERNAS HORIZONTAL (70X145X150CM LxAxC) 70KG",
+    "code": "PL47045",
+    "price": 11491.2,
+    "priceFormatted": "R$ 11.491,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 52,
+    "image": {
+      "stagingPath": "img-029.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000080600000A0ADC1E28E4.jpg",
+      "width": 2054,
+      "height": 2570,
+      "format": "jpeg",
+      "bytes": 1081661,
+      "sha256": "e4cbf8932e4b6eb62391aba34d2d35842cdd2718ec1bf853ead3692a5a846892"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "36",
+    "legacyId": 36,
+    "slug": "hiper-extensor",
+    "name": "HIPER EXTENSOR",
+    "code": "BC2724",
+    "price": 2800,
+    "priceFormatted": "R$ 2.800,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 53,
+    "image": {
+      "stagingPath": "img-030.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000005000000040476897D53.jpg",
+      "width": 1280,
+      "height": 1028,
+      "format": "jpeg",
+      "bytes": 66496,
+      "sha256": "9ef605d0a227c347623117e3103346f5b3e03da32df9b628ba09c0b31fad689a"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 37,
+      "code": "20219",
+      "price": 4596.48
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "37",
+    "legacyId": 37,
+    "slug": "gaiola-de-agachamento",
+    "name": "GAIOLA DE AGACHAMENTO",
+    "code": "SPG23",
+    "price": 4649.51,
+    "priceFormatted": "R$ 4.649,51",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 54,
+    "image": {
+      "stagingPath": "img-031.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000247000003ED7EC0AC74.png",
+      "width": 583,
+      "height": 1005,
+      "format": "png",
+      "bytes": 235009,
+      "sha256": "85c90930924a0a94b14ce8a0f672d47e7703432c7fb5384f061f329d29d8a8b9"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "38",
+    "legacyId": 38,
+    "slug": "gaiola-de-agachamento-com-rebaixo",
+    "name": "GAIOLA DE AGACHAMENTO COM REBAIXO",
+    "code": "SPG21",
+    "price": 5300,
+    "priceFormatted": "R$ 5.300,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 55,
+    "image": {
+      "stagingPath": "img-032.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000098900000AA483FEB015.png",
+      "width": 2441,
+      "height": 2724,
+      "format": "png",
+      "bytes": 6490889,
+      "sha256": "3e4350e76a84227d1569df1c5950e48f57880738c0558b18001f0f642c7d4ebf"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "39",
+    "legacyId": 39,
+    "slug": "gaiola-de-agachamento-profissional",
+    "name": "GAIOLA DE AGACHAMENTO PROFISSIONAL",
+    "code": "SPG22",
+    "price": 6046.79,
+    "priceFormatted": "R$ 6.046,79",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 56,
+    "image": {
+      "stagingPath": "img-033.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000033A000005008F9709C7.jpg",
+      "width": 826,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 166630,
+      "sha256": "0ace4a8253244d611159a7ea3c00695da7eba09a7e7aed47b99696e5307471b3"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "40",
+    "legacyId": 40,
+    "slug": "graviton",
+    "name": "GRAVITON",
+    "code": "PL47049",
+    "price": 11975.04,
+    "priceFormatted": "R$ 11.975,04",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 57,
+    "image": null,
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 36,
+      "code": "20218",
+      "price": 15130.75
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "41",
+    "legacyId": 41,
+    "slug": "leg-press-45-carrinho",
+    "name": "LEG PRESS 45º CARRINHO",
+    "code": "PL47065",
+    "price": 11309.27,
+    "priceFormatted": "R$ 11.309,27",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 58,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "42",
+    "legacyId": 42,
+    "slug": "leg-press-90-deitado",
+    "name": "LEG PRESS 90 DEITADO",
+    "code": "PL47066",
+    "price": 10765.44,
+    "priceFormatted": "R$ 10.765,44",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 59,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "43",
+    "legacyId": 43,
+    "slug": "leg-press-45-articulado",
+    "name": "LEG PRESS 45º ARTICULADO",
+    "code": "PL47043",
+    "price": 11249.28,
+    "priceFormatted": "R$ 11.249,28",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 60,
+    "image": {
+      "stagingPath": "img-034.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000009C0000008F83F08F9AD.png",
+      "width": 2496,
+      "height": 2296,
+      "format": "png",
+      "bytes": 6919920,
+      "sha256": "f58740a7c2b673ae5a382ea21ec8b4c2b9974a9631d3db4948f7cdc57b59bbb6"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 40,
+      "code": "20222",
+      "price": 12880
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "44",
+    "legacyId": 44,
+    "slug": "leg-45-carrinho-modelo-2026-leve",
+    "name": "LEG 45 CARRINHO MODELO 2026 LEVE",
+    "code": "PL47069",
+    "price": 8990,
+    "priceFormatted": "R$ 8.990,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 61,
+    "image": {
+      "stagingPath": "img-035.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000002D5000002BC001D1436.png",
+      "width": 725,
+      "height": 700,
+      "format": "png",
+      "bytes": 800252,
+      "sha256": "20fdfc08b155e3e414e630afe1a57c670037933668b38239174dd4213c5a59c0"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "45",
+    "legacyId": 45,
+    "slug": "leg-45-medio",
+    "name": "LEG 45 MEDIO",
+    "code": "PL47070",
+    "price": 10590,
+    "priceFormatted": "R$ 10.590,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 62,
+    "image": {
+      "stagingPath": "img-036.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000044F000004B0CBE9C7D1.jpg",
+      "width": 1103,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 56853,
+      "sha256": "3918efba1926273d60117a34b374a53370bbeb50f4c67f4351ea61e2d1132bf7"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "46",
+    "legacyId": 46,
+    "slug": "leg-horizontal-100kg",
+    "name": "LEG HORIZONTAL 100KG",
+    "code": "PL47053",
+    "price": 15700.61,
+    "priceFormatted": "R$ 15.700,61",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 63,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "47",
+    "legacyId": 47,
+    "slug": "maquina-abdominal-80kg",
+    "name": "MAQUINA ABDOMINAL 80KG",
+    "code": "PL47050",
+    "price": 11975.04,
+    "priceFormatted": "R$ 11.975,04",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 64,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "48",
+    "legacyId": 48,
+    "slug": "maquina-de-gluteos-4-apoios-70kg",
+    "name": "MÁQUINA DE GLÚTEOS 4 APOIOS 70KG",
+    "code": "PL47054",
+    "price": 11491.2,
+    "priceFormatted": "R$ 11.491,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 65,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "49",
+    "legacyId": 49,
+    "slug": "maquina-gluteos-em-pe-70kg",
+    "name": "MAQUINA GLÚTEOS EM PÉ 70KG",
+    "code": "PL47055",
+    "price": 11128.32,
+    "priceFormatted": "R$ 11.128,32",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 66,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "50",
+    "legacyId": 50,
+    "slug": "maquina-de-biceps-70kg",
+    "name": "MÁQUINA DE BICEPS 70KG",
+    "code": "PL47039",
+    "price": 11612.16,
+    "priceFormatted": "R$ 11.612,16",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 67,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "51",
+    "legacyId": 51,
+    "slug": "multi-guiado-c-rolamento-linear-simples",
+    "name": "MULTI GUIADO C/ ROLAMENTO LINEAR SIMPLES",
+    "code": "BC2718",
+    "price": 10886.4,
+    "priceFormatted": "R$ 10.886,40",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 68,
+    "image": {
+      "stagingPath": "img-037.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000003D6000005006B35C929.jpg",
+      "width": 982,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 258923,
+      "sha256": "d269c75d8ecc310c0125ed03e3023703b4813e5e847ba646bbe7dbac5fb0a2f2"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "52",
+    "legacyId": 52,
+    "slug": "multi-guiado-c-rolamento-linear-sup-agachamento",
+    "name": "MULTI GUIADO C/ ROLAMENTO LINEAR SUP. AGACHAMENTO",
+    "code": "SP2937",
+    "price": 11854.08,
+    "priceFormatted": "R$ 11.854,08",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 69,
+    "image": {
+      "stagingPath": "img-038.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000038800000500ACE48A02.jpg",
+      "width": 904,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 77501,
+      "sha256": "0307ebb60dc1b1cd749fbd769c25c8f21872552f3d3cc14bd88dc700c40f0dbe"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "53",
+    "legacyId": 53,
+    "slug": "multi-guiado-c-rolamento-linear-plus",
+    "name": "MULTI GUIADO C/ ROLAMENTO LINEAR PLUS",
+    "code": "BC2719",
+    "price": 12337.92,
+    "priceFormatted": "R$ 12.337,92",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 70,
+    "image": {
+      "stagingPath": "img-037.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000003D6000005006B35C929.jpg",
+      "width": 982,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 258923,
+      "sha256": "d269c75d8ecc310c0125ed03e3023703b4813e5e847ba646bbe7dbac5fb0a2f2"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "54",
+    "legacyId": 54,
+    "slug": "prancha-abdominal",
+    "name": "PRANCHA ABDOMINAL",
+    "code": "BC2727",
+    "price": 3024,
+    "priceFormatted": "R$ 3.024,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 71,
+    "image": {
+      "stagingPath": "img-039.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000500000002E2339F60B0.png",
+      "width": 1280,
+      "height": 738,
+      "format": "png",
+      "bytes": 295820,
+      "sha256": "53f5764bba047a087c707ded7f28e5d10cb670fccccfe37d35ac1ac2fe111f67"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "55",
+    "legacyId": 55,
+    "slug": "polia-de-parede-dupla-2x70kg",
+    "name": "POLIA DE PAREDE DUPLA 2X70KG",
+    "code": "PLD",
+    "price": 8200,
+    "priceFormatted": "R$ 8.200,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 72,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "56",
+    "legacyId": 56,
+    "slug": "polia-de-parede-70kg",
+    "name": "POLIA DE PAREDE 70KG",
+    "code": "PLP",
+    "price": 4200,
+    "priceFormatted": "R$ 4.200,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 73,
+    "image": {
+      "stagingPath": "img-040.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000002160000061EE11094C5.png",
+      "width": 534,
+      "height": 1566,
+      "format": "png",
+      "bytes": 1262004,
+      "sha256": "fcf1809f23d46e6fdb970ae92a880c6513412556746eaab6f2c00ad897c29ea9"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "57",
+    "legacyId": 57,
+    "slug": "polia-mono-cross-chao-80kg",
+    "name": "POLIA MONO CROSS CHÃO 80KG",
+    "code": "PLC",
+    "price": 5200,
+    "priceFormatted": "R$ 5.200,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 74,
+    "image": {
+      "stagingPath": "img-041.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000004BB00000672AD6B6596.jpg",
+      "width": 1211,
+      "height": 1650,
+      "format": "jpeg",
+      "bytes": 123113,
+      "sha256": "79f7ec0a3864f10862150eb23b86c057d6c6fc8ec2af204f475fe4f52bb87034"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "58",
+    "legacyId": 58,
+    "slug": "panturrilha-sentado",
+    "name": "PANTURRILHA SENTADO",
+    "code": "BC2725",
+    "price": 4717.44,
+    "priceFormatted": "R$ 4.717,44",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 75,
+    "image": {
+      "stagingPath": "img-042.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000000000640000004EB37796CD5.jpg",
+      "width": 1600,
+      "height": 1259,
+      "format": "jpeg",
+      "bytes": 148459,
+      "sha256": "c3132a35a285c46bd47ad72b1c172c8d7e1e0be87f09cc13675acb507ab1ec92"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "59",
+    "legacyId": 59,
+    "slug": "panturrilha-em-pe",
+    "name": "PANTURRILHA EM PE",
+    "code": "BC2730",
+    "price": 11975.04,
+    "priceFormatted": "R$ 11.975,04",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 76,
+    "image": {
+      "stagingPath": "img-043.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000100000C30000010407D901A58.png",
+      "width": 3120,
+      "height": 4160,
+      "format": "png",
+      "bytes": 7620693,
+      "sha256": "7753c05d327f151a34044c845c94f8bc3034281bf7797047537c3c494214871d"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 49,
+      "code": "20231",
+      "price": 14676.48
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "60",
+    "legacyId": 60,
+    "slug": "paralela-abdominal-de-parede",
+    "name": "PARALELA ABDOMINAL DE PAREDE",
+    "code": "BC2731",
+    "price": 2500,
+    "priceFormatted": "R$ 2.500,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 77,
+    "image": {
+      "stagingPath": "img-044.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000042F00000640BCADC1CE.jpg",
+      "width": 1071,
+      "height": 1600,
+      "format": "jpeg",
+      "bytes": 49186,
+      "sha256": "6c674d4447f04b853000b1f826fd2ec2fbf7fa66f048056ba92111ceae967983"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "61",
+    "legacyId": 61,
+    "slug": "paralela-abdominal",
+    "name": "PARALELA ABDOMINAL",
+    "code": "BC2726",
+    "price": 4579.06,
+    "priceFormatted": "R$ 4.579,06",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 78,
+    "image": {
+      "stagingPath": "img-045.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000003FA00000640852D4886.png",
+      "width": 1018,
+      "height": 1600,
+      "format": "png",
+      "bytes": 795712,
+      "sha256": "dc884599d598fc9533690a37fe41d5929e4e4158900dc62794d06eef9df77b6b"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "62",
+    "legacyId": 62,
+    "slug": "paralela-abdominal-bozu",
+    "name": "PARALELA ABDOMINAL BOZU",
+    "code": "PL47058",
+    "price": 6023.81,
+    "priceFormatted": "R$ 6.023,81",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 79,
+    "image": {
+      "stagingPath": "img-046.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000041100000640ABC9E8C1.png",
+      "width": 1041,
+      "height": 1600,
+      "format": "png",
+      "bytes": 861202,
+      "sha256": "e70a4b77fa050c643e5b242745da6c43c0b4fb67c3aeb1081e8748c5d78a935d"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "63",
+    "legacyId": 63,
+    "slug": "peitoral-dorsal-80kg",
+    "name": "PEITORAL/DORSAL 80KG",
+    "code": "PL47040",
+    "price": 11491.2,
+    "priceFormatted": "R$ 11.491,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 80,
+    "image": {
+      "stagingPath": "img-047.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000028C0000043E237247D6.png",
+      "width": 652,
+      "height": 1086,
+      "format": "png",
+      "bytes": 724526,
+      "sha256": "6dc38c80e5ae9e82402da0f3d5e55588ddf8be556cc4427393732b197b01b0b6"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "64",
+    "legacyId": 64,
+    "slug": "puxador-c-remada-simples-80x240x170cm-lxaxc-80kg",
+    "name": "PUXADOR C/ REMADA SIMPLES (80X240X170CM LxAxC) 80KG",
+    "code": "PL47089",
+    "price": 13580,
+    "priceFormatted": "R$ 13.580,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 81,
+    "image": {
+      "stagingPath": "img-048.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000007D600000D495F6F10EA.png",
+      "width": 2006,
+      "height": 3401,
+      "format": "png",
+      "bytes": 6136825,
+      "sha256": "3695263cc3f37ebad9288a4a1029afe616bf33b7add140cca346361df6177730"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "65",
+    "legacyId": 65,
+    "slug": "puxador-duplo-c-remada-90kg",
+    "name": "PUXADOR DUPLO C/ REMADA 90KG",
+    "code": "PL47061",
+    "price": 24786.8,
+    "priceFormatted": "R$ 24.786,80",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 82,
+    "image": {
+      "stagingPath": "img-049.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000000000041B0000050032CBE83A.jpg",
+      "width": 1051,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 66346,
+      "sha256": "e7ba74c1bdf03ce4c35362985c563296b99fefd69acffa1ce0bf9732344319a5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "66",
+    "legacyId": 66,
+    "slug": "puxador-quatro-estacoes-2x80kg-2x90kg",
+    "name": "PUXADOR QUATRO ESTAÇÕES 2X80KG 2X90KG",
+    "code": "PL47042",
+    "price": 39795.84,
+    "priceFormatted": "R$ 39.795,84",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 83,
+    "image": {
+      "stagingPath": "img-050.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000003B000000500F765C639.jpg",
+      "width": 944,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 94531,
+      "sha256": "1525b789102b5296bcef420f2af5acf70a9a570d3c51d505547bd97d4527ad8e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "67",
+    "legacyId": 67,
+    "slug": "puxada-alta-80kg",
+    "name": "PUXADA ALTA 80KG",
+    "code": "PL47056",
+    "price": 10886.4,
+    "priceFormatted": "R$ 10.886,40",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 84,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "68",
+    "legacyId": 68,
+    "slug": "rack-45",
+    "name": "RACK 45°",
+    "code": "PL47060",
+    "price": 11370.24,
+    "priceFormatted": "R$ 11.370,24",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 85,
+    "image": {
+      "stagingPath": "img-078.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/1000000100000F2200000DBD22B61949.png",
+      "width": 3874,
+      "height": 3517,
+      "format": "png",
+      "bytes": 4683703,
+      "sha256": "0807685666616b0e0b6416e45cd1a1bf746dc7f8853de9ab679f78be115c74e2"
+    },
+    "mergedFrom": {
+      "file": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 56,
+      "code": "20238",
+      "price": 13395.2
+    },
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "69",
+    "legacyId": 69,
+    "slug": "remada-baixa-c-80kg",
+    "name": "REMADA BAIXA C/ 80KG",
+    "code": "BC2732",
+    "price": 10886.4,
+    "priceFormatted": "R$ 10.886,40",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 86,
+    "image": {
+      "stagingPath": "img-052.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000007F500000BC69E34C5E3.png",
+      "width": 2037,
+      "height": 3014,
+      "format": "png",
+      "bytes": 3862939,
+      "sha256": "5c8f1064876d068f752ac3e9fb5528979bd143235a089f59eb7133740a138df8"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "70",
+    "legacyId": 70,
+    "slug": "remada-bateria-80kg",
+    "name": "REMADA BATERIA 80KG",
+    "code": "BC2733",
+    "price": 13980,
+    "priceFormatted": "R$ 13.980,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 87,
+    "image": {
+      "stagingPath": "img-053.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000009DD000009DD0019242F.png",
+      "width": 2525,
+      "height": 2525,
+      "format": "png",
+      "bytes": 5054447,
+      "sha256": "2553b2851efadd63a8128142480e30878e58653d2210f13fcb9edf4b0beac702"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "71",
+    "legacyId": 71,
+    "slug": "remada-cavalinho",
+    "name": "REMADA CAVALINHO",
+    "code": "BC2722",
+    "price": 4826.3,
+    "priceFormatted": "R$ 4.826,30",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 88,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "72",
+    "legacyId": 72,
+    "slug": "anilha-ferro-pintada",
+    "name": "ANILHA FERRO PINTADA",
+    "code": "AF001",
+    "price": 16.38,
+    "priceFormatted": "R$ 16,38",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 89,
+    "image": {
+      "stagingPath": "img-054.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000003840000054F8AA62950.png",
+      "width": 900,
+      "height": 1359,
+      "format": "png",
+      "bytes": 1449365,
+      "sha256": "9a94c09f1e38ab439fbadcba2b15285903a37aa3f129a2943bbb2b343ff1f5b4"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "73",
+    "legacyId": 73,
+    "slug": "anilha-injetada",
+    "name": "ANILHA INJETADA",
+    "code": "AI002",
+    "price": 30.2,
+    "priceFormatted": "R$ 30,20",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 90,
+    "image": {
+      "stagingPath": "img-055.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000009C600000D0735862744.png",
+      "width": 2502,
+      "height": 3335,
+      "format": "png",
+      "bytes": 9194782,
+      "sha256": "5fb539f5061f94c758bb045daac1f1a48763d3378e37579ba66c73476e0f998e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "74",
+    "legacyId": 74,
+    "slug": "halter",
+    "name": "HALTER",
+    "code": "HA001",
+    "price": 24.19,
+    "priceFormatted": "R$ 24,19",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 91,
+    "image": {
+      "stagingPath": "img-056.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/100000010000051F000001A1B1EF73E8.png",
+      "width": 1311,
+      "height": 417,
+      "format": "png",
+      "bytes": 563740,
+      "sha256": "4a4a2b125da2578af39ecdd2a5759d021e78a6ecf43a01215bb8e5ebf5575b31"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "75",
+    "legacyId": 75,
+    "slug": "kettlebell-emborrachado-kg",
+    "name": "KETTLEBELL EMBORRACHADO KG",
+    "code": "K001",
+    "price": 21,
+    "priceFormatted": "R$ 21,00",
+    "line": "Tubular 4\" (TB4PL)",
+    "lineKey": "tb4pl",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "TABELA TB4PL MAR 2026.ods",
+    "rowNumber": 92,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "76",
+    "legacyId": 76,
+    "slug": "adutor-90kg",
+    "name": "ADUTOR 90KG",
+    "code": "20200",
+    "price": 14098.6,
+    "priceFormatted": "R$ 14.098,60",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 18,
+    "image": {
+      "stagingPath": "img-057.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000009C500000BEF12D27DD4.png",
+      "width": 2501,
+      "height": 3055,
+      "format": "png",
+      "bytes": 6743410,
+      "sha256": "5d06923715befce4c197ea2d24d7be045471f2499fc258e9ed12fccfca198860"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "77",
+    "legacyId": 77,
+    "slug": "abdutor-90kg",
+    "name": "ABDUTOR 90KG",
+    "code": "20201",
+    "price": 14089.6,
+    "priceFormatted": "R$ 14.089,60",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 19,
+    "image": {
+      "stagingPath": "img-057.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000009C500000BEF12D27DD4.png",
+      "width": 2501,
+      "height": 3055,
+      "format": "png",
+      "bytes": 6743410,
+      "sha256": "5d06923715befce4c197ea2d24d7be045471f2499fc258e9ed12fccfca198860"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "78",
+    "legacyId": 78,
+    "slug": "adutor-abdutor-90kg",
+    "name": "ADUTOR/ABDUTOR 90KG",
+    "code": "20202",
+    "price": 14327.04,
+    "priceFormatted": "R$ 14.327,04",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 20,
+    "image": {
+      "stagingPath": "img-057.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000009C500000BEF12D27DD4.png",
+      "width": 2501,
+      "height": 3055,
+      "format": "png",
+      "bytes": 6743410,
+      "sha256": "5d06923715befce4c197ea2d24d7be045471f2499fc258e9ed12fccfca198860"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "79",
+    "legacyId": 79,
+    "slug": "apolete",
+    "name": "APOLETE",
+    "code": "20203",
+    "price": 13776,
+    "priceFormatted": "R$ 13.776,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 21,
+    "image": {
+      "stagingPath": "img-058.jpg",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000000000003D700000500FA0B5489.jpg",
+      "width": 983,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 75460,
+      "sha256": "798868fc5f125ca2a6839db0a5a5c183979db313ec2acc34a4814ee9f86db8d7"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "80",
+    "legacyId": 80,
+    "slug": "banco-regulavel",
+    "name": "BANCO REGULÁVEL",
+    "code": "20207",
+    "price": 4363.52,
+    "priceFormatted": "R$ 4.363,52",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 25,
+    "image": {
+      "stagingPath": "img-059.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000003C2000003099C84A7F6.png",
+      "width": 962,
+      "height": 777,
+      "format": "png",
+      "bytes": 1024948,
+      "sha256": "83b5cd5f6f1ceef93a0a3976c9539a2c37ba4ba61964bd3bc7f31861e8b004c8"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "81",
+    "legacyId": 81,
+    "slug": "crossover-angular-2x90kg",
+    "name": "CROSSOVER ANGULAR 2x90KG",
+    "code": "20209",
+    "price": 26880,
+    "priceFormatted": "R$ 26.880,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 27,
+    "image": {
+      "stagingPath": "img-061.jpg",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000000000003370000050000121F6E.jpg",
+      "width": 823,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 118585,
+      "sha256": "64213c663f5ab6ac1cef9a92abde2597897c4fd2ef898e6cbf9cd94437872a6e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "82",
+    "legacyId": 82,
+    "slug": "crosmulti",
+    "name": "CROSMULTI",
+    "code": "20210",
+    "price": 31248,
+    "priceFormatted": "R$ 31.248,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 28,
+    "image": {
+      "stagingPath": "img-062.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000002E2000003786E9BB42E.png",
+      "width": 738,
+      "height": 888,
+      "format": "png",
+      "bytes": 754350,
+      "sha256": "b859f883c5789963d9b23576cfe4831885ae23510f549a2a3fe0f4e77f6e9bb5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "83",
+    "legacyId": 83,
+    "slug": "cross-over",
+    "name": "CROSS-OVER",
+    "code": "20211",
+    "price": 28000,
+    "priceFormatted": "R$ 28.000,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 29,
+    "image": {
+      "stagingPath": "img-063.jpg",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000000000003C6000005002EE8DA39.jpg",
+      "width": 966,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 118424,
+      "sha256": "49090684c933c3e3563f5ca5f16d8c56154f4bba626db3d0da925443286f32fd"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "84",
+    "legacyId": 84,
+    "slug": "extensor-de-pernas",
+    "name": "EXTENSOR DE PERNAS",
+    "code": "20212",
+    "price": 14000,
+    "priceFormatted": "R$ 14.000,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 30,
+    "image": {
+      "stagingPath": "img-064.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000004C80000070A14AFF2DD.png",
+      "width": 1224,
+      "height": 1802,
+      "format": "png",
+      "bytes": 2048822,
+      "sha256": "7e6e95e4aa7fc6d87022155d3928a80dd0e7c19c121514daf0755f78e1d40e0a"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "85",
+    "legacyId": 85,
+    "slug": "flexo-extensor-de-pernas",
+    "name": "FLEXO/EXTENSOR DE PERNAS",
+    "code": "20213",
+    "price": 14990,
+    "priceFormatted": "R$ 14.990,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 31,
+    "image": {
+      "stagingPath": "img-065.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000069700000A3DF166FA1A.png",
+      "width": 1687,
+      "height": 2621,
+      "format": "png",
+      "bytes": 3407277,
+      "sha256": "85335036a3c1bf3b8aea075ffeec16577cb7f6b67389f1b335637740f7546c10"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "86",
+    "legacyId": 86,
+    "slug": "flexor-de-pernas-sentado",
+    "name": "FLEXOR DE PERNAS SENTADO",
+    "code": "20214",
+    "price": 14094.08,
+    "priceFormatted": "R$ 14.094,08",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 32,
+    "image": {
+      "stagingPath": "img-065.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000069700000A3DF166FA1A.png",
+      "width": 1687,
+      "height": 2621,
+      "format": "png",
+      "bytes": 3407277,
+      "sha256": "85335036a3c1bf3b8aea075ffeec16577cb7f6b67389f1b335637740f7546c10"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "87",
+    "legacyId": 87,
+    "slug": "flexor-vertical",
+    "name": "FLEXOR VERTICAL",
+    "code": "20215",
+    "price": 12113.92,
+    "priceFormatted": "R$ 12.113,92",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 33,
+    "image": {
+      "stagingPath": "img-066.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000035200000500597763A8.png",
+      "width": 850,
+      "height": 1280,
+      "format": "png",
+      "bytes": 784224,
+      "sha256": "72b1e9103209b709ffc41d980eeea000d803721f0a967c4e44a42cbba3a92a10"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "88",
+    "legacyId": 88,
+    "slug": "flexor-de-pernas-horizontal",
+    "name": "FLEXOR DE PERNAS HORIZONTAL",
+    "code": "20216",
+    "price": 14112,
+    "priceFormatted": "R$ 14.112,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 34,
+    "image": {
+      "stagingPath": "img-067.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000009B000000D89729B8698.png",
+      "width": 2480,
+      "height": 3465,
+      "format": "png",
+      "bytes": 7539275,
+      "sha256": "c7f639527bdd6c07006794e481816b2b4dd9e2d6b484d6a57356b9a67f2ea809"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "89",
+    "legacyId": 89,
+    "slug": "gaiola-multifuncional",
+    "name": "GAIOLA MULTIFUNCIONAL",
+    "code": "20217",
+    "price": 29096.7,
+    "priceFormatted": "R$ 29.096,70",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 35,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "90",
+    "legacyId": 90,
+    "slug": "leg-45-carrinho-350kg",
+    "name": "LEG 45 CARRINHO 350KG",
+    "code": "20220",
+    "price": 13990,
+    "priceFormatted": "R$ 13.990,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 38,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "91",
+    "legacyId": 91,
+    "slug": "leg-45-carrinho-500kg",
+    "name": "LEG 45 CARRINHO 500KG",
+    "code": "20221",
+    "price": 16890,
+    "priceFormatted": "R$ 16.890,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 39,
+    "image": {
+      "stagingPath": "img-069.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/1000000100000AFD00000846DC85A4AF.png",
+      "width": 2813,
+      "height": 2118,
+      "format": "png",
+      "bytes": 4371308,
+      "sha256": "8c5c4cf14e89c00fc92581e2a613cdfc95dd4ced0f6ea1b0858e3fbccd19175d"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "92",
+    "legacyId": 92,
+    "slug": "leg-horizontal-110kg",
+    "name": "LEG HORIZONTAL 110KG",
+    "code": "20223",
+    "price": 18147.58,
+    "priceFormatted": "R$ 18.147,58",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 41,
+    "image": {
+      "stagingPath": "img-070.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000093400000C1B1FB95ACA.png",
+      "width": 2356,
+      "height": 3099,
+      "format": "png",
+      "bytes": 6156952,
+      "sha256": "a2155470f51d5a557dd8b79b16a13593f1175323c81ca0b2923869e8c43c8fc0"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "93",
+    "legacyId": 93,
+    "slug": "maquina-abdominal-90kg",
+    "name": "MAQUINA ABDOMINAL 90KG",
+    "code": "20224",
+    "price": 13744.64,
+    "priceFormatted": "R$ 13.744,64",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 42,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "94",
+    "legacyId": 94,
+    "slug": "maquina-de-gluteos-4-apoios-80kg",
+    "name": "MÁQUINA DE GLÚTEOS 4 APOIOS 80KG",
+    "code": "20225",
+    "price": 13776,
+    "priceFormatted": "R$ 13.776,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 43,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "95",
+    "legacyId": 95,
+    "slug": "maquina-gluteos-em-pe-80kg",
+    "name": "MAQUINA GLÚTEOS EM PÉ 80KG",
+    "code": "20226",
+    "price": 12768,
+    "priceFormatted": "R$ 12.768,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 44,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "96",
+    "legacyId": 96,
+    "slug": "maquina-de-biceps-80kg",
+    "name": "MÁQUINA DE BICEPS 80KG",
+    "code": "20227",
+    "price": 14000,
+    "priceFormatted": "R$ 14.000,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 45,
+    "image": {
+      "stagingPath": "img-071.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000065A000009F0BF6323BC.png",
+      "width": 1626,
+      "height": 2544,
+      "format": "png",
+      "bytes": 3550088,
+      "sha256": "e065e45231cf138479c3d89af2aa1a67f9fad2f901858ac15075548a17fe1249"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "97",
+    "legacyId": 97,
+    "slug": "multi-guiado-c-rolamento-linear",
+    "name": "MULTI GUIADO C/ ROLAMENTO LINEAR",
+    "code": "20228",
+    "price": 12812.8,
+    "priceFormatted": "R$ 12.812,80",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 46,
+    "image": {
+      "stagingPath": "img-072.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000026B000003484A486667.png",
+      "width": 619,
+      "height": 840,
+      "format": "png",
+      "bytes": 682348,
+      "sha256": "dd3fb4224c78de4a3dc446c84fe606f4f51c78d92d3a82cc19faaf17de64de15"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "98",
+    "legacyId": 98,
+    "slug": "multi-estacao-5000-completa-3x90kg-1x80kg",
+    "name": "MULTI ESTAÇÃO 5000 COMPLETA 3X90KG 1X80KG",
+    "code": "20229",
+    "price": 48900,
+    "priceFormatted": "R$ 48.900,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 47,
+    "image": {
+      "stagingPath": "img-073.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/1000000100000AFB00000B90D6FE469C.png",
+      "width": 2811,
+      "height": 2960,
+      "format": "png",
+      "bytes": 5615735,
+      "sha256": "bd6a2d8b03cfa965a4270b949658f331004c1010a1e509e88e0beacb9db2c3d5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "99",
+    "legacyId": 99,
+    "slug": "leg-sentado-carrinho",
+    "name": "LEG SENTADO CARRINHO",
+    "code": "20230",
+    "price": 18520.32,
+    "priceFormatted": "R$ 18.520,32",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 48,
+    "image": {
+      "stagingPath": "img-070.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000093400000C1B1FB95ACA.png",
+      "width": 2356,
+      "height": 3099,
+      "format": "png",
+      "bytes": 6156952,
+      "sha256": "a2155470f51d5a557dd8b79b16a13593f1175323c81ca0b2923869e8c43c8fc0"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "100",
+    "legacyId": 100,
+    "slug": "peitoral-dorsal-90kg",
+    "name": "PEITORAL/DORSAL 90KG",
+    "code": "20232",
+    "price": 14112,
+    "priceFormatted": "R$ 14.112,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 50,
+    "image": {
+      "stagingPath": "img-075.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000006DC00000ACA7F86A56D.png",
+      "width": 1756,
+      "height": 2762,
+      "format": "png",
+      "bytes": 2838555,
+      "sha256": "4a9befcdcdb882b6212851b23e127a2a465a1624dd178f1924b6931ab9170e50"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "101",
+    "legacyId": 101,
+    "slug": "polia-simples-regulavel",
+    "name": "POLIA SIMPLES REGULÁVEL",
+    "code": "20233",
+    "price": 14540,
+    "priceFormatted": "R$ 14.540,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 51,
+    "image": {
+      "stagingPath": "img-076.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/100000010000062A0000062A4939F65B.png",
+      "width": 1578,
+      "height": 1578,
+      "format": "png",
+      "bytes": 716722,
+      "sha256": "df8f86f57fd1f0d58e0df56faa76d635c810a23520aa07f8c654995a291b9a77"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "102",
+    "legacyId": 102,
+    "slug": "puxador-duplo-c-remada-100kg",
+    "name": "PUXADOR DUPLO C/ REMADA 100KG",
+    "code": "20234",
+    "price": 25148.03,
+    "priceFormatted": "R$ 25.148,03",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 52,
+    "image": {
+      "stagingPath": "img-077.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000001E4000003F61051A795.png",
+      "width": 484,
+      "height": 1014,
+      "format": "png",
+      "bytes": 656357,
+      "sha256": "07feb79dc38fbfc36d0204428448fc46efb38913fcd7b1ae15f440afead4d929"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "103",
+    "legacyId": 103,
+    "slug": "puxador-quatro-estacoes-2x90kg-2x100kg",
+    "name": "PUXADOR QUATRO ESTAÇÕES 2X90KG 2X100KG",
+    "code": "20235",
+    "price": 46970,
+    "priceFormatted": "R$ 46.970,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 53,
+    "image": {
+      "stagingPath": "img-050.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000000000003B000000500F765C639.jpg",
+      "width": 944,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 94531,
+      "sha256": "1525b789102b5296bcef420f2af5acf70a9a570d3c51d505547bd97d4527ad8e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "104",
+    "legacyId": 104,
+    "slug": "puxada-alta-c-remada-90kg",
+    "name": "PUXADA ALTA C/ REMADA 90KG",
+    "code": "20236",
+    "price": 15390,
+    "priceFormatted": "R$ 15.390,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 54,
+    "image": {
+      "stagingPath": "img-077.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000001E4000003F61051A795.png",
+      "width": 484,
+      "height": 1014,
+      "format": "png",
+      "bytes": 656357,
+      "sha256": "07feb79dc38fbfc36d0204428448fc46efb38913fcd7b1ae15f440afead4d929"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "105",
+    "legacyId": 105,
+    "slug": "puxada-alta-90kg",
+    "name": "PUXADA ALTA 90KG",
+    "code": "20237",
+    "price": 13395.2,
+    "priceFormatted": "R$ 13.395,20",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 55,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "106",
+    "legacyId": 106,
+    "slug": "supino-vertical-tubolar",
+    "name": "SUPINO VERTICAL TUBOLAR",
+    "code": "20239",
+    "price": 19207.55,
+    "priceFormatted": "R$ 19.207,55",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 57,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "107",
+    "legacyId": 107,
+    "slug": "elevacao-pelvica-guiada",
+    "name": "ELEVAÇÃO PÉLVICA GUIADA",
+    "code": "20240",
+    "price": 12980,
+    "priceFormatted": "R$ 12.980,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 58,
+    "image": {
+      "stagingPath": "img-079.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/10000001000002DD000002BF9A3F1392.png",
+      "width": 733,
+      "height": 703,
+      "format": "png",
+      "bytes": 748683,
+      "sha256": "eb1d7c712b2908f4acdba518ff29bf47bec1e84b3c964c6557d934ecf069f131"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "108",
+    "legacyId": 108,
+    "slug": "maquina-biceps-e-triceps",
+    "name": "MÁQUINA BÍCEPS E TRÍCEPS",
+    "code": "20241",
+    "price": 15290,
+    "priceFormatted": "R$ 15.290,00",
+    "line": "Power Line (Tubular 4\")",
+    "lineKey": "powerline",
+    "categorySlug": "linha-tubolar-4pl-power-line",
+    "sourceFile": "LINHA POWER LINE MAR 26.ods",
+    "rowNumber": 59,
+    "image": {
+      "stagingPath": "img-080.png",
+      "container": "LINHA POWER LINE MAR 26.ods",
+      "entry": "Pictures/1000000100000AD400000AB74FBA0D52.png",
+      "width": 2772,
+      "height": 2743,
+      "format": "png",
+      "bytes": 4035729,
+      "sha256": "883cf97d648e4b2419a3af41d07ffe146aa4d8be37f9782bb204318be4461994"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "109",
+    "legacyId": 109,
+    "slug": "supino-declinado-articulado",
+    "name": "SUPINO DECLINADO ARTICULADO",
+    "code": "AT41",
+    "price": 8500,
+    "priceFormatted": "R$ 8.500,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 17,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "110",
+    "legacyId": 110,
+    "slug": "supino-inclinado-articulado",
+    "name": "SUPINO INCLINADO ARTICULADO",
+    "code": "AT42",
+    "price": 8700,
+    "priceFormatted": "R$ 8.700,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 18,
+    "image": {
+      "stagingPath": "img-158.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip1:row17",
+      "width": 2642,
+      "height": 2092,
+      "format": "jpeg",
+      "bytes": 526248,
+      "sha256": "b94b1ac77ed732fbbe5f38ef6ac99cdfee9561bb6b81d51d6125d70dd0d5897e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "111",
+    "legacyId": 111,
+    "slug": "supino-reto-articulado",
+    "name": "SUPINO RETO ARTICULADO",
+    "code": "AT 46",
+    "price": 8300,
+    "priceFormatted": "R$ 8.300,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 19,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "112",
+    "legacyId": 112,
+    "slug": "remada-articulada",
+    "name": "REMADA ARTICULADA",
+    "code": "AT 43",
+    "price": 7580,
+    "priceFormatted": "R$ 7.580,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 20,
+    "image": {
+      "stagingPath": "img-159.png",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip6:row19",
+      "width": 2048,
+      "height": 1726,
+      "format": "png",
+      "bytes": 4239208,
+      "sha256": "163c82b287e5d73815467deaf092fd232c9b8c0b5ebb9dbd52ec21b05fb06139"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "113",
+    "legacyId": 113,
+    "slug": "puxada-alta-articulado",
+    "name": "PUXADA ALTA ARTICULADO",
+    "code": "AT44",
+    "price": 11900,
+    "priceFormatted": "R$ 11.900,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 21,
+    "image": {
+      "stagingPath": "img-160.png",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip14:row20",
+      "width": 1957,
+      "height": 2962,
+      "format": "png",
+      "bytes": 5389410,
+      "sha256": "e8b2567c503414d38aca8191336d7eb2fec4bc26bbd0e322785fced36452c08c"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "114",
+    "legacyId": 114,
+    "slug": "desenvolvimento-articulado",
+    "name": "DESENVOLVIMENTO ARTICULADO",
+    "code": "AT 45",
+    "price": 9500,
+    "priceFormatted": "R$ 9.500,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 22,
+    "image": {
+      "stagingPath": "img-161.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip12:row21",
+      "width": 1007,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 87924,
+      "sha256": "8bacae2f437e834934a6e129e670cd4bdd1d67018a7cc5e55cf380490f3c232d"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "115",
+    "legacyId": 115,
+    "slug": "triceps-articulado",
+    "name": "TRÍCEPS ARTICULADO",
+    "code": "AT 58",
+    "price": 6400,
+    "priceFormatted": "R$ 6.400,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 23,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "116",
+    "legacyId": 116,
+    "slug": "supino-sentado-articulado",
+    "name": "SUPINO SENTADO ARTICULADO",
+    "code": "AT59",
+    "price": 10300,
+    "priceFormatted": "R$ 10.300,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 24,
+    "image": {
+      "stagingPath": "img-162.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip7:row23",
+      "width": 768,
+      "height": 1024,
+      "format": "jpeg",
+      "bytes": 47023,
+      "sha256": "4d5a77d63736acc3bd8bdd6fadc829d5d19cae5cff78e1d06d852e0db945e4c3"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "117",
+    "legacyId": 117,
+    "slug": "supino-sentado-articulado-pro",
+    "name": "SUPINO SENTADO ARTICULADO PRO",
+    "code": "AT22",
+    "price": 12990,
+    "priceFormatted": "R$ 12.990,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 25,
+    "image": {
+      "stagingPath": "img-163.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip4:row24",
+      "width": 1057,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 93276,
+      "sha256": "4f904cb2f86a196435c664f278e1665da8e8b61e925da1704d4bdd8b8f9be850"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "118",
+    "legacyId": 118,
+    "slug": "leg-90",
+    "name": "LEG 90",
+    "code": "AT60",
+    "price": 11800,
+    "priceFormatted": "R$ 11.800,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 26,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": true,
+      "noImage": true
+    }
+  },
+  {
+    "id": "119",
+    "legacyId": 119,
+    "slug": "leg-45-articulado",
+    "name": "LEG 45 ARTICULADO",
+    "code": "AT60",
+    "price": 11249.28,
+    "priceFormatted": "R$ 11.249,28",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 27,
+    "image": {
+      "stagingPath": "img-164.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip2:row26",
+      "width": 1280,
+      "height": 1144,
+      "format": "jpeg",
+      "bytes": 83828,
+      "sha256": "db1e087be0b402c71cd70e368221d46ae42586cefe6e6a6f8768ca3bcea1681e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": true,
+      "noImage": false
+    }
+  },
+  {
+    "id": "120",
+    "legacyId": 120,
+    "slug": "remada-ponta-de-barra",
+    "name": "REMADA PONTA DE BARRA",
+    "code": "AT34",
+    "price": 2990,
+    "priceFormatted": "R$ 2.990,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 28,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "121",
+    "legacyId": 121,
+    "slug": "remada-cavalinho-2",
+    "name": "REMADA CAVALINHO",
+    "code": "AT35",
+    "price": 4139.2,
+    "priceFormatted": "R$ 4.139,20",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 29,
+    "image": {
+      "stagingPath": "img-053.png",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/10000001000009DD000009DD0019242F.png",
+      "width": 2525,
+      "height": 2525,
+      "format": "png",
+      "bytes": 5054447,
+      "sha256": "2553b2851efadd63a8128142480e30878e58653d2210f13fcb9edf4b0beac702"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "122",
+    "legacyId": 122,
+    "slug": "extensor-sentado-articulado",
+    "name": "EXTENSOR SENTADO ARTICULADO",
+    "code": "AT36",
+    "price": 5096,
+    "priceFormatted": "R$ 5.096,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 30,
+    "image": {
+      "stagingPath": "img-165.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip9:row29",
+      "width": 1104,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 100358,
+      "sha256": "5e975f17ae2398e115c3918f006e6f80f79fe3fa9c4682f3d35a2e830102d041"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "123",
+    "legacyId": 123,
+    "slug": "flexor-em-pe-articulado",
+    "name": "FLEXOR EM PÉ ARTICULADO",
+    "code": "AT37",
+    "price": 6200,
+    "priceFormatted": "R$ 6.200,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 31,
+    "image": {
+      "stagingPath": "img-166.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip5:row30",
+      "width": 1147,
+      "height": 1600,
+      "format": "jpeg",
+      "bytes": 135220,
+      "sha256": "95540bc48201a58deb4a44499beb8661b1fcc2faf293d5456156acde80cd6977"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "124",
+    "legacyId": 124,
+    "slug": "maquina-de-agachamento-sumo",
+    "name": "MÁQUINA DE AGACHAMENTO SUMO",
+    "code": "AT38",
+    "price": 13980,
+    "priceFormatted": "R$ 13.980,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 32,
+    "image": {
+      "stagingPath": "img-167.png",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip10:row31",
+      "width": 2422,
+      "height": 2585,
+      "format": "png",
+      "bytes": 7597243,
+      "sha256": "a7c83fc05d58c7017ff7b482756b98e3cb2ba45481cb700aa167ec324cb5daeb"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "125",
+    "legacyId": 125,
+    "slug": "extensor-simples-anilhas",
+    "name": "EXTENSOR SIMPLES ANILHAS",
+    "code": "AT39",
+    "price": 3800,
+    "priceFormatted": "R$ 3.800,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 33,
+    "image": {
+      "stagingPath": "img-168.jpg",
+      "container": "LINHA ARTICULADA MAR 2026.xls",
+      "entry": "escher:blip11:row32",
+      "width": 1232,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 77181,
+      "sha256": "d17f8968b1a56b05b4e24078e222a7d1d3aecbc859dbae96af78a8cd0a7b211d"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "126",
+    "legacyId": 126,
+    "slug": "elevacao-articulada",
+    "name": "ELEVAÇÃO ARTICULADA",
+    "code": "AT40",
+    "price": 4800,
+    "priceFormatted": "R$ 4.800,00",
+    "line": "Articulada",
+    "lineKey": "articulada",
+    "categorySlug": "linha-articulada-convergente",
+    "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+    "rowNumber": 34,
+    "image": {
+      "stagingPath": "img-156.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image31.png",
+      "width": 2831,
+      "height": 1966,
+      "format": "png",
+      "bytes": 5763150,
+      "sha256": "c9bc41f198389df5abec10f71b2c082290556bc1f27bee16b22e975cf9434737"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "127",
+    "legacyId": 127,
+    "slug": "suporte-torre-10-pares",
+    "name": "SUPORTE TORRE 10 PARES",
+    "code": "SH10",
+    "price": 980,
+    "priceFormatted": "R$ 980,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 19,
+    "image": {
+      "stagingPath": "img-124.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image34.png",
+      "width": 822,
+      "height": 3432,
+      "format": "png",
+      "bytes": 2794234,
+      "sha256": "9d206a62d2f1572ab2a1243e00517d4f3c88aebb955e19ad5a26f257f6507a0b"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "128",
+    "legacyId": 128,
+    "slug": "torre-halter-injetado-sextavado-c-pegada-inox-do-1kg-ao-10kg",
+    "name": "TORRE HALTER INJETADO SEXTAVADO C/ PEGADA INOX DO 1KG AO 10KG",
+    "code": "SHIS10",
+    "price": 6766.44,
+    "priceFormatted": "R$ 6.766,44",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 21,
+    "image": {
+      "stagingPath": "img-125.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image2.png",
+      "width": 793,
+      "height": 1280,
+      "format": "png",
+      "bytes": 479529,
+      "sha256": "6a82dda2484400a29ee577a7adbb7fd9b5c1a371cdaf1576560dd61da01c6e1c"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "129",
+    "legacyId": 129,
+    "slug": "torre-halter-emborrachado-do-1kg-ao-10kg",
+    "name": "TORRE HALTER EMBORRACHADO DO 1KG AO 10KG",
+    "code": "KSHE10",
+    "price": 3800,
+    "priceFormatted": "R$ 3.800,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 22,
+    "image": {
+      "stagingPath": "img-126.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image36.png",
+      "width": 3120,
+      "height": 4160,
+      "format": "png",
+      "bytes": 5675178,
+      "sha256": "7096506d50762de6ba710e19c428984d834aed57148b4bffe67cf19b80721a92"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "130",
+    "legacyId": 130,
+    "slug": "suporte-torre-5-pares",
+    "name": "SUPORTE TORRE 5 PARES",
+    "code": "SH05",
+    "price": 630,
+    "priceFormatted": "R$ 630,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 23,
+    "image": {
+      "stagingPath": "img-127.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image3.png",
+      "width": 1387,
+      "height": 1600,
+      "format": "png",
+      "bytes": 962154,
+      "sha256": "ae247c1036e4aaf267b63196a87b810675b01cb54225939a44f323f515542933"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "131",
+    "legacyId": 131,
+    "slug": "suporte-dumbell-duplo-6-pares",
+    "name": "SUPORTE DUMBELL DUPLO 6 PARES",
+    "code": "SD06",
+    "price": 1460,
+    "priceFormatted": "R$ 1.460,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 25,
+    "image": {
+      "stagingPath": "img-128.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image4.png",
+      "width": 1179,
+      "height": 1280,
+      "format": "png",
+      "bytes": 928190,
+      "sha256": "82ca8862dc67e9aff4ee3396ecd4334b3a42f3a27b92163f155bb352d9777d26"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "132",
+    "legacyId": 132,
+    "slug": "banco-regulavel-simples",
+    "name": "BANCO REGULÁVEL SIMPLES",
+    "code": "BR01",
+    "price": 2490,
+    "priceFormatted": "R$ 2.490,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 27,
+    "image": {
+      "stagingPath": "img-129.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image5.png",
+      "width": 1280,
+      "height": 1222,
+      "format": "png",
+      "bytes": 388421,
+      "sha256": "9a14f135ff7755c04d8184fcee792f1207e9cd1998984d80ea5d844ad9909fc0"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "133",
+    "legacyId": 133,
+    "slug": "suporte-anilhas-500kg",
+    "name": "SUPORTE ANILHAS 500KG",
+    "code": "SA500",
+    "price": 1600,
+    "priceFormatted": "R$ 1.600,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 29,
+    "image": {
+      "stagingPath": "img-130.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image6.png",
+      "width": 882,
+      "height": 1280,
+      "format": "png",
+      "bytes": 445964,
+      "sha256": "155a600706a6443f38e6fe9114c6f75addb498ef0e7381054caba71934f7c7f5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "134",
+    "legacyId": 134,
+    "slug": "suporte-anilhas-olimpicas-500kg",
+    "name": "SUPORTE ANILHAS OLÍMPICAS 500KG",
+    "code": "SAO500",
+    "price": 1800,
+    "priceFormatted": "R$ 1.800,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 31,
+    "image": {
+      "stagingPath": "img-131.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image7.png",
+      "width": 845,
+      "height": 1280,
+      "format": "png",
+      "bytes": 502898,
+      "sha256": "40fd333624d16e399dc28db94aa8d4c295605854355ef6b09ad3c99c6cfb75e4"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "135",
+    "legacyId": 135,
+    "slug": "suporte-barra-fogueteiro-4-barras",
+    "name": "SUPORTE BARRA FOGUETEIRO 4 BARRAS",
+    "code": "SB04",
+    "price": 420,
+    "priceFormatted": "R$ 420,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 33,
+    "image": {
+      "stagingPath": "img-132.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image8.png",
+      "width": 548,
+      "height": 314,
+      "format": "png",
+      "bytes": 99648,
+      "sha256": "79c1f4d6428b5313f05af08b3f0877c49bafe412559abbaa385ca730d5df9977"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "136",
+    "legacyId": 136,
+    "slug": "suporte-carrinho-3-niveis-caneleiras",
+    "name": "SUPORTE CARRINHO 3 NÍVEIS CANELEIRAS",
+    "code": "SC03",
+    "price": 1300,
+    "priceFormatted": "R$ 1.300,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 35,
+    "image": {
+      "stagingPath": "img-133.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image9.png",
+      "width": 968,
+      "height": 1084,
+      "format": "png",
+      "bytes": 621938,
+      "sha256": "77d37b49f960c586b7dc07bdfba15783345bb1ae9fc26f8f6757eee72d6af304"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "137",
+    "legacyId": 137,
+    "slug": "suporte-p-rosca",
+    "name": "SUPORTE P/ ROSCA",
+    "code": "SR",
+    "price": 1300,
+    "priceFormatted": "R$ 1.300,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 37,
+    "image": {
+      "stagingPath": "img-134.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image10.png",
+      "width": 1280,
+      "height": 1258,
+      "format": "png",
+      "bytes": 351455,
+      "sha256": "731a8e1f64040e8f1f86cbd65249ea44bf5a71e14c19641471710fc134989e27"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "138",
+    "legacyId": 138,
+    "slug": "suporte-p-12-barras",
+    "name": "SUPORTE P/ 12 BARRAS",
+    "code": "SB12",
+    "price": 530,
+    "priceFormatted": "R$ 530,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 39,
+    "image": {
+      "stagingPath": "img-135.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image11.png",
+      "width": 1280,
+      "height": 1158,
+      "format": "png",
+      "bytes": 846491,
+      "sha256": "827e93d4df839cb5b1c1cb8bb7c3b2f8a675fe99708a417e99736ac18a5a5b84"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "139",
+    "legacyId": 139,
+    "slug": "banco-simples-2",
+    "name": "BANCO SIMPLES",
+    "code": "BC2710",
+    "price": 850,
+    "priceFormatted": "R$ 850,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 41,
+    "image": {
+      "stagingPath": "img-136.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image12.png",
+      "width": 1164,
+      "height": 1182,
+      "format": "png",
+      "bytes": 471851,
+      "sha256": "e46eb6db6b330084c839c6b7ac26808e4e55d23f02bfeb4d88b3446227216717"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "140",
+    "legacyId": 140,
+    "slug": "suporte-anilhas-5-pontas",
+    "name": "SUPORTE ANILHAS 5 PONTAS",
+    "code": "SA05",
+    "price": 980,
+    "priceFormatted": "R$ 980,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 43,
+    "image": {
+      "stagingPath": "img-137.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image13.png",
+      "width": 875,
+      "height": 1280,
+      "format": "png",
+      "bytes": 388694,
+      "sha256": "6409fe1d5f37993d7f69562b995b62f06a7aaa2283d8bc7214c3949537c04917"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "141",
+    "legacyId": 141,
+    "slug": "suporte-10-colchonetes",
+    "name": "SUPORTE 10 COLCHONETES",
+    "code": "SC10",
+    "price": 890,
+    "priceFormatted": "R$ 890,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 45,
+    "image": {
+      "stagingPath": "img-138.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image14.png",
+      "width": 690,
+      "height": 676,
+      "format": "png",
+      "bytes": 252459,
+      "sha256": "99655762b02cb1869bda5c46e53ba7124e3068e36fe14a87390010361454f3ff"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "142",
+    "legacyId": 142,
+    "slug": "suporte-multiuso",
+    "name": "SUPORTE MULTIUSO",
+    "code": "SM",
+    "price": 625,
+    "priceFormatted": "R$ 625,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 47,
+    "image": {
+      "stagingPath": "img-139.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image15.png",
+      "width": 246,
+      "height": 700,
+      "format": "png",
+      "bytes": 129952,
+      "sha256": "75ae37ec3c2171cc13e5a1cc520fa4b802284156a8baa82c97d501c58dca35f2"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "143",
+    "legacyId": 143,
+    "slug": "suporte-anilhas-simples-6-pontas-com-4-barras",
+    "name": "SUPORTE ANILHAS SIMPLES 6 PONTAS COM 4 BARRAS",
+    "code": "SAB0604",
+    "price": 990,
+    "priceFormatted": "R$ 990,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 49,
+    "image": {
+      "stagingPath": "img-140.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image16.png",
+      "width": 746,
+      "height": 1600,
+      "format": "png",
+      "bytes": 247480,
+      "sha256": "0b3a2b1222a76b579c21a61ca6aaeeb4d9a05fbabd6752b41595d130b36cf97a"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "144",
+    "legacyId": 144,
+    "slug": "suporte-anilhas-simples-6-pontas-com-4-barras-c-pontas-de-inox",
+    "name": "SUPORTE ANILHAS SIMPLES 6 PONTAS COM 4 BARRAS C/ PONTAS DE INOX",
+    "code": "SABI0604",
+    "price": 1200,
+    "priceFormatted": "R$ 1.200,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 51,
+    "image": {
+      "stagingPath": "img-141.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image32.png",
+      "width": 1269,
+      "height": 2521,
+      "format": "png",
+      "bytes": 3979656,
+      "sha256": "d783c0026c1c836ae900b809041d47526e0c10ede39cd8239eb0dc0631d34aa1"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "145",
+    "legacyId": 145,
+    "slug": "suporte-regulavel-p-supino-e-agachamento-pegada-interna",
+    "name": "SUPORTE REGULÁVEL P/ SUPINO E AGACHAMENTO PEGADA INTERNA",
+    "code": "SRPI",
+    "price": 2200,
+    "priceFormatted": "R$ 2.200,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 52,
+    "image": {
+      "stagingPath": "img-142.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image17.png",
+      "width": 846,
+      "height": 1280,
+      "format": "png",
+      "bytes": 276219,
+      "sha256": "e59cf05ec4f3265377c96efc548727e7b2125f336d91a40e1eb565812c826597"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "146",
+    "legacyId": 146,
+    "slug": "suporte-simples-halter-10-pares",
+    "name": "SUPORTE SIMPLES HALTER 10 PARES",
+    "code": "SSH10",
+    "price": 730,
+    "priceFormatted": "R$ 730,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 54,
+    "image": {
+      "stagingPath": "img-143.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image18.png",
+      "width": 384,
+      "height": 1280,
+      "format": "png",
+      "bytes": 226519,
+      "sha256": "499b1893575a2a7425320c8a8ee4cae894e7e80076b50008e1716655904f8981"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "147",
+    "legacyId": 147,
+    "slug": "suporte-halter-5-pares-e-anilhas",
+    "name": "SUPORTE HALTER 5 PARES E ANILHAS",
+    "code": "SHA5",
+    "price": 748,
+    "priceFormatted": "R$ 748,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 56,
+    "image": {
+      "stagingPath": "img-144.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image19.png",
+      "width": 874,
+      "height": 1280,
+      "format": "png",
+      "bytes": 870219,
+      "sha256": "7fe23cca5bdafc42dcc5b9d314a7ea205130a443bf2af131aad5fe67908dee08"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "148",
+    "legacyId": 148,
+    "slug": "banco-regulavel-simples-2",
+    "name": "BANCO REGULÁVEL SIMPLES",
+    "code": "BR02",
+    "price": 1500,
+    "priceFormatted": "R$ 1.500,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 58,
+    "image": {
+      "stagingPath": "img-145.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image20.png",
+      "width": 1280,
+      "height": 1269,
+      "format": "png",
+      "bytes": 433720,
+      "sha256": "70ca0739643ff04ba6743ae50cd8e0c4f991e98989fa9210cf6e6c5c9a3f1bf3"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "149",
+    "legacyId": 149,
+    "slug": "suporte-supino-e-agachamento-pegada-externa",
+    "name": "SUPORTE SUPINO E AGACHAMENTO PEGADA EXTERNA",
+    "code": "SRPE",
+    "price": 990,
+    "priceFormatted": "R$ 990,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 60,
+    "image": {
+      "stagingPath": "img-146.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image21.png",
+      "width": 652,
+      "height": 1280,
+      "format": "png",
+      "bytes": 174680,
+      "sha256": "d77a37e7a1e45d43ea14079b51a211643efac1b201360cd4d037855f62481c25"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "150",
+    "legacyId": 150,
+    "slug": "banco-regulavel-power-line",
+    "name": "BANCO REGULÁVEL POWER LINE",
+    "code": "20207",
+    "price": 3490,
+    "priceFormatted": "R$ 3.490,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 62,
+    "image": {
+      "stagingPath": "img-147.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image22.png",
+      "width": 962,
+      "height": 777,
+      "format": "png",
+      "bytes": 333751,
+      "sha256": "1ec1d56e64972f41b6f0e3ae8bc3838043469a58b8fc701ff7c062570cfedf25"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "151",
+    "legacyId": 151,
+    "slug": "suporte-de-anilhas-simples-4-pontas-mais-barras",
+    "name": "SUPORTE DE ANILHAS SIMPLES 4 PONTAS MAIS BARRAS",
+    "code": "SAB0404",
+    "price": 598,
+    "priceFormatted": "R$ 598,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 64,
+    "image": {
+      "stagingPath": "img-148.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image23.png",
+      "width": 1077,
+      "height": 1600,
+      "format": "png",
+      "bytes": 446330,
+      "sha256": "3b2ffdde9daef8485db0dfbf651329ccf49faedb5e173e5534b4537a216b31ad"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "152",
+    "legacyId": 152,
+    "slug": "suporte-p-9-barras",
+    "name": "SUPORTE P/ 9 BARRAS",
+    "code": "SB09",
+    "price": 490,
+    "priceFormatted": "R$ 490,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 66,
+    "image": {
+      "stagingPath": "img-149.jpg",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image24.jpeg",
+      "width": 1280,
+      "height": 1107,
+      "format": "jpeg",
+      "bytes": 70758,
+      "sha256": "aa797bdbc7ecc58e91ef355831330eff5ec4cd2acdce73d6c2259202f05379f3"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "153",
+    "legacyId": 153,
+    "slug": "suporte-funcional-de-parede-com-trava-de-seguranca",
+    "name": "SUPORTE FUNCIONAL DE PAREDE COM TRAVA DE SEGURANÇA",
+    "code": "SFCT",
+    "price": 2490,
+    "priceFormatted": "R$ 2.490,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 67,
+    "image": {
+      "stagingPath": "img-150.jpg",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image25.jpeg",
+      "width": 649,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 33123,
+      "sha256": "600c570bbd2faf9e11d295b8eea8449af1e94594689b6cc69aa4e3da7e15a9a5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "154",
+    "legacyId": 154,
+    "slug": "suporte-funcional-de-parede-sem-trava-de-seguranca",
+    "name": "SUPORTE FUNCIONAL DE PAREDE SEM TRAVA DE SEGURANÇA",
+    "code": "SFST",
+    "price": 2180,
+    "priceFormatted": "R$ 2.180,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 68,
+    "image": {
+      "stagingPath": "img-150.jpg",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image25.jpeg",
+      "width": 649,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 33123,
+      "sha256": "600c570bbd2faf9e11d295b8eea8449af1e94594689b6cc69aa4e3da7e15a9a5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "155",
+    "legacyId": 155,
+    "slug": "rack-de-parede-agachamento-e-barra-fixa",
+    "name": "RACK DE PAREDE - AGACHAMENTO E BARRA FIXA",
+    "code": "RPAB",
+    "price": 1930,
+    "priceFormatted": "R$ 1.930,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 69,
+    "image": {
+      "stagingPath": "img-014.jpg",
+      "container": "TABELA TB4PL MAR 2026.ods",
+      "entry": "Pictures/1000000000000472000005002E335729.jpg",
+      "width": 1138,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 33839,
+      "sha256": "67d40016b52edf074bea3874e662abacdbf0fec896e46a5c6e2f799b9f84d3e7"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "156",
+    "legacyId": 156,
+    "slug": "suporte-p-20-colchonetes",
+    "name": "SUPORTE P/ 20 COLCHONETES",
+    "code": "SC20",
+    "price": 1650,
+    "priceFormatted": "R$ 1.650,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 70,
+    "image": {
+      "stagingPath": "img-151.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image26.png",
+      "width": 1888,
+      "height": 3328,
+      "format": "png",
+      "bytes": 7812437,
+      "sha256": "36e969c256abfcf40669f9e48417bd1c21fb0a38d90d6ce8b0f99630057e46d6"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "157",
+    "legacyId": 157,
+    "slug": "suporte-de-barra-injetada-monobloco",
+    "name": "SUPORTE DE BARRA INJETADA MONOBLOCO",
+    "code": "SBIMB",
+    "price": 1200,
+    "priceFormatted": "R$ 1.200,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 71,
+    "image": {
+      "stagingPath": "img-152.jpg",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image28.jpeg",
+      "width": 689,
+      "height": 1024,
+      "format": "jpeg",
+      "bytes": 44415,
+      "sha256": "1bc1de9d5507992d6e604a4e9ba3e2df0deb052f9cc5772d5003dfec1d758610"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "158",
+    "legacyId": 158,
+    "slug": "suporte-de-anilhas-7-pinos",
+    "name": "SUPORTE DE ANILHAS 7 PINOS",
+    "code": "SA07",
+    "price": 1200,
+    "priceFormatted": "R$ 1.200,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 72,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "159",
+    "legacyId": 159,
+    "slug": "suporte-de-bola",
+    "name": "SUPORTE DE BOLA",
+    "code": "SB",
+    "price": 140,
+    "priceFormatted": "R$ 140,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 73,
+    "image": {
+      "stagingPath": "img-153.jpg",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image35.jpeg",
+      "width": 500,
+      "height": 243,
+      "format": "jpeg",
+      "bytes": 6469,
+      "sha256": "f2f44e6f9684c4be99731e714d95c7044e37527c398e08d4021d1dfdd34f74ad"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "160",
+    "legacyId": 160,
+    "slug": "suporte-p-ponta-de-barra-de-chao-parede",
+    "name": "SUPORTE P/ PONTA DE BARRA DE CHÃO/PAREDE",
+    "code": "SPB",
+    "price": 310,
+    "priceFormatted": "R$ 310,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 74,
+    "image": {
+      "stagingPath": "img-154.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image29.png",
+      "width": 1518,
+      "height": 1461,
+      "format": "png",
+      "bytes": 2724109,
+      "sha256": "574f8b285650cd3d3c0c13659adeccf52402eb66be9b693cf04a75f23ffc017c"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "161",
+    "legacyId": 161,
+    "slug": "suporte-multi-acessorios",
+    "name": "SUPORTE MULTI ACESSÓRIOS",
+    "code": "SMA",
+    "price": 1180,
+    "priceFormatted": "R$ 1.180,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 75,
+    "image": {
+      "stagingPath": "img-155.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image30.png",
+      "width": 2048,
+      "height": 2787,
+      "format": "png",
+      "bytes": 3869403,
+      "sha256": "7bda75b6b16792c10fdacb461aea38f0414eff054ca3467f1442b77dbf7b961d"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "162",
+    "legacyId": 162,
+    "slug": "suporte-de-elevacao",
+    "name": "SUPORTE DE ELEVAÇÃO",
+    "code": "SE",
+    "price": 4300,
+    "priceFormatted": "R$ 4.300,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 76,
+    "image": {
+      "stagingPath": "img-156.png",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image31.png",
+      "width": 2831,
+      "height": 1966,
+      "format": "png",
+      "bytes": 5763150,
+      "sha256": "c9bc41f198389df5abec10f71b2c082290556bc1f27bee16b22e975cf9434737"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "163",
+    "legacyId": 163,
+    "slug": "suporte-p-5-barras-olimpicas",
+    "name": "SUPORTE P/ 5 BARRAS OLÍMPICAS",
+    "code": "SBO05",
+    "price": 598,
+    "priceFormatted": "R$ 598,00",
+    "line": "Bancos e Suportes",
+    "lineKey": "bancos",
+    "categorySlug": "suportes-e-bancos",
+    "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "rowNumber": 77,
+    "image": {
+      "stagingPath": "img-157.jpg",
+      "container": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "entry": "xl/media/image33.jpeg",
+      "width": 1123,
+      "height": 836,
+      "format": "jpeg",
+      "bytes": 84723,
+      "sha256": "167c0d00ab24b54d3dac32cfdffced90f6fa311563108cc08d7f1ce491ddb1d3"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "164",
+    "legacyId": 164,
+    "slug": "barra-inox-olimpica-2-00-c-rolamentos",
+    "name": "BARRA INOX OLIMPICA 2.00 C/ ROLAMENTOS",
+    "code": "BOI0200",
+    "price": 2300,
+    "priceFormatted": "R$ 2.300,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 19,
+    "image": {
+      "stagingPath": "img-081.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000004B5000005006CD31CF6.png",
+      "width": 1205,
+      "height": 1280,
+      "format": "png",
+      "bytes": 1422859,
+      "sha256": "c69d1b0911be45dd8113c050f18e3bad851af956c0dd7060ccb038f9c3d6957a"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "165",
+    "legacyId": 165,
+    "slug": "barra-inox-olimpica-w-1-20-c-rolamentos",
+    "name": "BARRA INOX OLIMPICA W 1.20 C/ ROLAMENTOS",
+    "code": "BOIW0120",
+    "price": 1100,
+    "priceFormatted": "R$ 1.100,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 20,
+    "image": {
+      "stagingPath": "img-082.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000050000000500800E4E0E.png",
+      "width": 1280,
+      "height": 1280,
+      "format": "png",
+      "bytes": 261848,
+      "sha256": "997dc81aebeede59fcc74c5a5b90ae5ccfc437db0f274a49cb323aa60ebd7a16"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "166",
+    "legacyId": 166,
+    "slug": "barra-inox-puxador-curva-1-20-macica",
+    "name": "BARRA INOX PUXADOR CURVA 1,20 MACIÇA",
+    "code": "BIP0120",
+    "price": 798,
+    "priceFormatted": "R$ 798,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 21,
+    "image": {
+      "stagingPath": "img-083.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000005DC000005DC405F3143.png",
+      "width": 1500,
+      "height": 1500,
+      "format": "png",
+      "bytes": 255641,
+      "sha256": "32a3d184edb3b4588bed2c4813f01a4e379e000965e8ea5a61020b1e0ab21076"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "167",
+    "legacyId": 167,
+    "slug": "barra-w-macica-inox",
+    "name": "BARRA W MACIÇA INOX",
+    "code": "BWMI",
+    "price": 650,
+    "priceFormatted": "R$ 650,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 22,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "168",
+    "legacyId": 168,
+    "slug": "barra-1-50m-macica-inox",
+    "name": "BARRA 1,50M MACIÇA INOX",
+    "code": "BMI0150",
+    "price": 600,
+    "priceFormatted": "R$ 600,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 23,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "169",
+    "legacyId": 169,
+    "slug": "barra-1-80m-macica-inox",
+    "name": "BARRA 1,80M MACIÇA INOX",
+    "code": "BMI0180",
+    "price": 800,
+    "priceFormatted": "R$ 800,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 24,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "170",
+    "legacyId": 170,
+    "slug": "barra-2-00m-macica-inox",
+    "name": "BARRA 2,00M MACIÇA INOX",
+    "code": "BMI0200",
+    "price": 900,
+    "priceFormatted": "R$ 900,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 25,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "171",
+    "legacyId": 171,
+    "slug": "estribo-inox-giratorio",
+    "name": "ESTRIBO INOX GIRATORIO",
+    "code": "EIG",
+    "price": 195,
+    "priceFormatted": "R$ 195,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 26,
+    "image": {
+      "stagingPath": "img-084.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000003AB00000369776B2BDE.png",
+      "width": 939,
+      "height": 873,
+      "format": "png",
+      "bytes": 384226,
+      "sha256": "c189d5b2808e40e2ecbe496aff3423433d8cd4e2836446561e4eb73d7839baea"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "172",
+    "legacyId": 172,
+    "slug": "barra-inox-v-remada",
+    "name": "BARRA INOX V REMADA",
+    "code": "BIVR",
+    "price": 405,
+    "priceFormatted": "R$ 405,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 27,
+    "image": {
+      "stagingPath": "img-085.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000048D000004947FB35C6A.png",
+      "width": 1165,
+      "height": 1172,
+      "format": "png",
+      "bytes": 728995,
+      "sha256": "47166d6270fd9abceb9e00cfb65c07d662a6edabd3ecfc4d60c03a5444ba2204"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "173",
+    "legacyId": 173,
+    "slug": "barra-inox-triangulo-giratoria-triceps",
+    "name": "BARRA INOX TRIANGULO GIRATORIA TRICEPS",
+    "code": "BITGT",
+    "price": 425,
+    "priceFormatted": "R$ 425,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 28,
+    "image": {
+      "stagingPath": "img-086.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000002AC000001FD4AACD80F.png",
+      "width": 684,
+      "height": 509,
+      "format": "png",
+      "bytes": 144607,
+      "sha256": "375c2fe53b555076c52b1f258c2acb5da1fcabbbe127337a58da238bd34c64e5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "174",
+    "legacyId": 174,
+    "slug": "barra-v-triceps-macica",
+    "name": "BARRA V TRÍCEPS MACIÇA",
+    "code": "BVTM",
+    "price": 130,
+    "priceFormatted": "R$ 130,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 29,
+    "image": {
+      "stagingPath": "img-087.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000050000000312A16409C6.jpg",
+      "width": 1280,
+      "height": 786,
+      "format": "jpeg",
+      "bytes": 36747,
+      "sha256": "2a82bc888fb848c0b16bb3b59a091840849cbc6d4005b791e73101c737dbb12f"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "175",
+    "legacyId": 175,
+    "slug": "barra-inox-reta-giratoria-triceps",
+    "name": "BARRA INOX RETA GIRATORIA TRICEPS",
+    "code": "BIRGT",
+    "price": 390,
+    "priceFormatted": "R$ 390,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 30,
+    "image": {
+      "stagingPath": "img-088.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000051400000514647E9A75.png",
+      "width": 1300,
+      "height": 1300,
+      "format": "png",
+      "bytes": 315759,
+      "sha256": "938aa5e19cc5a4c76e7b1247607f56f5e8ea1c6ed5d7ceb3d762684f26cc5c97"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "176",
+    "legacyId": 176,
+    "slug": "barra-triceps-inox-50cm-giratoria",
+    "name": "BARRA TRÍCEPS INOX 50CM GIRATÓRIA",
+    "code": "BIRGT050",
+    "price": 250,
+    "priceFormatted": "R$ 250,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 31,
+    "image": {
+      "stagingPath": "img-089.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000000000269000002597EFF395A.jpg",
+      "width": 617,
+      "height": 601,
+      "format": "jpeg",
+      "bytes": 16726,
+      "sha256": "2c0b4a90d69e7992ee022a7af7ae7f2122efa8f4f53ff96e0aec4fbe99c10cb9"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "177",
+    "legacyId": 177,
+    "slug": "barra-oca-reta-giratoria-50cm-triceps",
+    "name": "BARRA OCA RETA GIRATORIA 50CM TRICEPS",
+    "code": "BORG0050",
+    "price": 150,
+    "priceFormatted": "R$ 150,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 32,
+    "image": {
+      "stagingPath": "img-090.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000004C7000005001A7764E1.jpg",
+      "width": 1223,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 45461,
+      "sha256": "c7257cbfe81d212d4ed20ad3b63edbf44dd9d3011672bf706057fec6399c3eba"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "178",
+    "legacyId": 178,
+    "slug": "estribo-inox-unilateral-giratorio",
+    "name": "ESTRIBO INOX UNILATERAL GIRATÓRIO",
+    "code": "EIUG",
+    "price": 240,
+    "priceFormatted": "R$ 240,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 33,
+    "image": {
+      "stagingPath": "img-091.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000050000000373FF228605.png",
+      "width": 1280,
+      "height": 883,
+      "format": "png",
+      "bytes": 337337,
+      "sha256": "f1668b3636835641fc16a42f3fc901f2096e6fba7a5fdd858d65738e9cba3bc6"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "179",
+    "legacyId": 179,
+    "slug": "barra-w-puxador-75cm-giratorio",
+    "name": "BARRA W PUXADOR 75CM GIRATÓRIO",
+    "code": "BWPG0075",
+    "price": 598,
+    "priceFormatted": "R$ 598,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 34,
+    "image": {
+      "stagingPath": "img-092.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000005000000050084B18733.png",
+      "width": 1280,
+      "height": 1280,
+      "format": "png",
+      "bytes": 199896,
+      "sha256": "ddb00764bfe96fd7912ba685f76ad61982ee155d0769db5303a9bbe3dc0d8689"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "180",
+    "legacyId": 180,
+    "slug": "barra-inox-h-1-10-p-rosca-c-rolamentos",
+    "name": "BARRA INOX H 1.10 P/ ROSCA C/ ROLAMENTOS",
+    "code": "BHI0110",
+    "price": 1100,
+    "priceFormatted": "R$ 1.100,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 35,
+    "image": {
+      "stagingPath": "img-093.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000000000640000000B524E7C77D.png",
+      "width": 1600,
+      "height": 181,
+      "format": "png",
+      "bytes": 188270,
+      "sha256": "5815792ddedece6a5cc986de779782ed113e1f96a217add1e31e964e9b8ccd3a"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "181",
+    "legacyId": 181,
+    "slug": "barra-h-standard-inox",
+    "name": "BARRA H STANDARD INOX",
+    "code": "BHSI",
+    "price": 798,
+    "priceFormatted": "R$ 798,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 36,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "182",
+    "legacyId": 182,
+    "slug": "barra-w-puxador-50cm-giratorio",
+    "name": "BARRA W PUXADOR 50CM GIRATÓRIO",
+    "code": "BWPG0050",
+    "price": 399,
+    "priceFormatted": "R$ 399,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 37,
+    "image": {
+      "stagingPath": "img-094.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000100000A0E0000070BDDA5169B.png",
+      "width": 2574,
+      "height": 1803,
+      "format": "png",
+      "bytes": 1812389,
+      "sha256": "7010639eade1a19b51f87e92539402b57241450b0e1c035af503f1656b749fb8"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "183",
+    "legacyId": 183,
+    "slug": "agachamento-sumo",
+    "name": "AGACHAMENTO SUMO",
+    "code": "AS",
+    "price": 320,
+    "priceFormatted": "R$ 320,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 38,
+    "image": {
+      "stagingPath": "img-095.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000100000A9F00000817146E7C77.png",
+      "width": 2719,
+      "height": 2071,
+      "format": "png",
+      "bytes": 4657062,
+      "sha256": "3572346234f5996598c02584142a89f88406dcf39fb4b9fd4e70e6bf9e175af5"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "184",
+    "legacyId": 184,
+    "slug": "barra-h-p-rosca-standard-zincada",
+    "name": "BARRA H P/ ROSCA STANDARD ZINCADA",
+    "code": "BHRSZ",
+    "price": 450,
+    "priceFormatted": "R$ 450,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 39,
+    "image": {
+      "stagingPath": "img-096.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000000000500000004E04748727F.jpg",
+      "width": 1280,
+      "height": 1248,
+      "format": "jpeg",
+      "bytes": 44295,
+      "sha256": "2b117ff4beb53d389213e7a5d16df36e3bc261c1e9a871b04035e6d1c5a57ad8"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "185",
+    "legacyId": 185,
+    "slug": "barra-h",
+    "name": "BARRA H",
+    "code": "BH001",
+    "price": 380,
+    "priceFormatted": "R$ 380,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 40,
+    "image": {
+      "stagingPath": "img-097.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000002CE000002CFE463B4EF.jpg",
+      "width": 718,
+      "height": 719,
+      "format": "jpeg",
+      "bytes": 31357,
+      "sha256": "a86b211cf986b52589ef262910c163e9440183540902a8f4ed57f235f6792d6b"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "186",
+    "legacyId": 186,
+    "slug": "barra-oca-reta-40cm",
+    "name": "BARRA OCA RETA 40CM",
+    "code": "BOR0040",
+    "price": 95,
+    "priceFormatted": "R$ 95,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 41,
+    "image": {
+      "stagingPath": "img-098.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000004C7000005006CE44848.jpg",
+      "width": 1223,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 43708,
+      "sha256": "4bf9d9bef7cb0e95d464f3a3e8b8201f80568e21876501735d3206160e9adb35"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "187",
+    "legacyId": 187,
+    "slug": "puxador-p-remada-oco",
+    "name": "PUXADOR P/ REMADA OCO",
+    "code": "PRO",
+    "price": 110,
+    "priceFormatted": "R$ 110,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 42,
+    "image": {
+      "stagingPath": "img-099.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000004A30000050050101B54.jpg",
+      "width": 1187,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 70088,
+      "sha256": "27f427be3e48a2bfac5cdd3a109958fa8835b6f867ccd9d1b3333d4d633b53d7"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "188",
+    "legacyId": 188,
+    "slug": "barra-p-puxador-oca",
+    "name": "BARRA P/ PUXADOR OCA",
+    "code": "BPO",
+    "price": 150,
+    "priceFormatted": "R$ 150,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 43,
+    "image": {
+      "stagingPath": "img-100.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000001D9000001AAA4BADA64.jpg",
+      "width": 473,
+      "height": 426,
+      "format": "jpeg",
+      "bytes": 6740,
+      "sha256": "6ec90efff259b6307a03100431f41a1abeb360ba74aef161f4cfca24caea47d8"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "189",
+    "legacyId": 189,
+    "slug": "barra-macica-cromada-1-80m",
+    "name": "BARRA MACIÇA CROMADA 1,80M",
+    "code": "BMC0180",
+    "price": 411.32,
+    "priceFormatted": "R$ 411,32",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 44,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "190",
+    "legacyId": 190,
+    "slug": "barramacica-cromada-2-00m",
+    "name": "BARRAMACIÇA CROMADA 2,00M",
+    "code": "BMC0200",
+    "price": 494.94,
+    "priceFormatted": "R$ 494,94",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 45,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "191",
+    "legacyId": 191,
+    "slug": "barra-macica-cromada-2-20m",
+    "name": "BARRA MACIÇA CROMADA 2,20M",
+    "code": "BMC0220",
+    "price": 553.7,
+    "priceFormatted": "R$ 553,70",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 46,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "192",
+    "legacyId": 192,
+    "slug": "barra-1-50m-macica-cromada",
+    "name": "BARRA 1,50M MACIÇA CROMADA",
+    "code": "BMC0150",
+    "price": 345.78,
+    "priceFormatted": "R$ 345,78",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 47,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "193",
+    "legacyId": 193,
+    "slug": "barra-1-20m-macica-cromada",
+    "name": "BARRA 1,20M MACIÇA CROMADA",
+    "code": "BMC0120",
+    "price": 298.32,
+    "priceFormatted": "R$ 298,32",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 48,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "194",
+    "legacyId": 194,
+    "slug": "barra-w-macica-cromada-1-20m",
+    "name": "BARRA W MACIÇA CROMADA 1,20M",
+    "code": "BWMC0120",
+    "price": 325.44,
+    "priceFormatted": "R$ 325,44",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 49,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "195",
+    "legacyId": 195,
+    "slug": "barra-w-zincada",
+    "name": "BARRA W ZINCADA",
+    "code": "BWZ0120",
+    "price": 330,
+    "priceFormatted": "R$ 330,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 50,
+    "image": {
+      "stagingPath": "img-101.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000097500000A28AC4C4404.jpg",
+      "width": 2421,
+      "height": 2600,
+      "format": "jpeg",
+      "bytes": 383433,
+      "sha256": "fcdd471f6dce1d9ebec7fcc366c6c3301d4c106a64b6a3fa8a83692f5f0db0ae"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "196",
+    "legacyId": 196,
+    "slug": "corda-unilateral-de-triceps",
+    "name": "CORDA UNILATERAL DE TRÍCEPS",
+    "code": "CUT",
+    "price": 89,
+    "priceFormatted": "R$ 89,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 51,
+    "image": {
+      "stagingPath": "img-102.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000100000BC500000BC5BE1BBBD7.png",
+      "width": 3013,
+      "height": 3013,
+      "format": "png",
+      "bytes": 1727173,
+      "sha256": "a1053aa36155f3745e061232140af832b2fca59d0a1145075b939efaf63bd93f"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "197",
+    "legacyId": 197,
+    "slug": "colchonete-emborrachado-90x50x3cm-d60",
+    "name": "COLCHONETE EMBORRACHADO 90X50X3CM D60",
+    "code": "CE0060",
+    "price": 198,
+    "priceFormatted": "R$ 198,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 52,
+    "image": {
+      "stagingPath": "img-103.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000100000398000005EE9FE4852A.png",
+      "width": 920,
+      "height": 1518,
+      "format": "png",
+      "bytes": 1658931,
+      "sha256": "bcca0a2e07f2358308161e30643d7b3dbcbee55df3a586ff2648fd6062d30174"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "198",
+    "legacyId": 198,
+    "slug": "colchonete",
+    "name": "COLCHONETE",
+    "code": "COL",
+    "price": 80,
+    "priceFormatted": "R$ 80,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 53,
+    "image": {
+      "stagingPath": "img-104.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000010000026C000004BE9F60B2D9.png",
+      "width": 620,
+      "height": 1214,
+      "format": "png",
+      "bytes": 569876,
+      "sha256": "b21b30611bbab760d13efc6603b2278115b97ccd8fd72ee0b8842590bf1ff570"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "199",
+    "legacyId": 199,
+    "slug": "presilha-de-barra",
+    "name": "PRESILHA DE BARRA",
+    "code": "PB",
+    "price": 10,
+    "priceFormatted": "R$ 10,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 54,
+    "image": {
+      "stagingPath": "img-105.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000001000005E00000069F5B921D17.png",
+      "width": 1504,
+      "height": 1695,
+      "format": "png",
+      "bytes": 2135158,
+      "sha256": "2b87e77c8e5e239d0248f72eed6ab13e59344ec8f5490a7c4d2724d30327a2cc"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "200",
+    "legacyId": 200,
+    "slug": "mosquetao-08x80-inox",
+    "name": "MOSQUETÃO 08x80 inox",
+    "code": "MI0880",
+    "price": 48,
+    "priceFormatted": "R$ 48,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 55,
+    "image": {
+      "stagingPath": "img-106.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000003E8000003E80BFBFBCB.jpg",
+      "width": 1000,
+      "height": 1000,
+      "format": "jpeg",
+      "bytes": 38154,
+      "sha256": "6de0f9234bc8fb96c6f7e8a28783a9bc296937fad4ab34ce6cf6f4b254b06a42"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "201",
+    "legacyId": 201,
+    "slug": "barra-hexagonal",
+    "name": "BARRA HEXAGONAL",
+    "code": "BHEX",
+    "price": 625,
+    "priceFormatted": "R$ 625,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 56,
+    "image": {
+      "stagingPath": "img-107.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000064000000214B227AD75.jpg",
+      "width": 1600,
+      "height": 532,
+      "format": "jpeg",
+      "bytes": 53272,
+      "sha256": "a7f52ffdbb0010bdf76a45144e8deee2bc9cb62fc2b932e5627e2b49c31cfe93"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "202",
+    "legacyId": 202,
+    "slug": "barra-hexagonal-pegada-emborrachada",
+    "name": "BARRA HEXAGONAL PEGADA EMBORRACHADA",
+    "code": "BHEXPE",
+    "price": 825,
+    "priceFormatted": "R$ 825,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 57,
+    "image": {
+      "stagingPath": "img-108.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000000000500000002232521DE7C.jpg",
+      "width": 1280,
+      "height": 547,
+      "format": "jpeg",
+      "bytes": 28568,
+      "sha256": "97095e76b37c53c0b2f1e52d082e8c4662c7e3898784d8acfff40731251610be"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "203",
+    "legacyId": 203,
+    "slug": "barra-h-p-puxador-simples-macica-zincada",
+    "name": "BARRA H P/ PUXADOR SIMPLES MACIÇA ZINCADA",
+    "code": "BHPSMZ",
+    "price": 385,
+    "priceFormatted": "R$ 385,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 58,
+    "image": {
+      "stagingPath": "img-109.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000004FD00000500D24A1B8E.jpg",
+      "width": 1277,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 44233,
+      "sha256": "a222ab5ed6f835385a57f613574de5fa820d7f99890554d926d70a1e210fbe88"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "204",
+    "legacyId": 204,
+    "slug": "kit-puxadores-anatomicos-revestido-com-suporte-de-parede",
+    "name": "KIT PUXADORES ANATÔMICOS REVESTIDO COM SUPORTE DE PAREDE",
+    "code": "KPA0001",
+    "price": 1650,
+    "priceFormatted": "R$ 1.650,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 59,
+    "image": {
+      "stagingPath": "img-110.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000010000092300000923F5410982.png",
+      "width": 2339,
+      "height": 2339,
+      "format": "png",
+      "bytes": 2166206,
+      "sha256": "4751a62021188696769234083283d9aa6e61e0090d32a76d48eab206d8090c99"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "205",
+    "legacyId": 205,
+    "slug": "par-de-barra-c-rosca",
+    "name": "PAR DE BARRA C/ ROSCA",
+    "code": "BCRP",
+    "price": 190,
+    "priceFormatted": "R$ 190,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 60,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "206",
+    "legacyId": 206,
+    "slug": "par-de-barra-c-rosca-inox",
+    "name": "PAR DE BARRA C/ ROSCA INOX",
+    "code": "BCRPI",
+    "price": 395,
+    "priceFormatted": "R$ 395,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 61,
+    "image": {
+      "stagingPath": "img-111.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000010000088F00000703BA6EEDF0.png",
+      "width": 2191,
+      "height": 1795,
+      "format": "png",
+      "bytes": 4638225,
+      "sha256": "22a5f57a96dde4f8e99a2e955c80fc2a158deae12623afc7049bb2c4f32e519c"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "207",
+    "legacyId": 207,
+    "slug": "barra-oca-40-cm-c-parafuso-par",
+    "name": "BARRA OCA 40 CM C/ PARAFUSO PAR",
+    "code": "BOPA40",
+    "price": 175,
+    "priceFormatted": "R$ 175,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 62,
+    "image": {
+      "stagingPath": "img-112.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000050000000500D6B9DA95.jpg",
+      "width": 1280,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 65395,
+      "sha256": "711a303c77a3c56d71075925d09c924b04f88e4ff588aa9f64b15b99f0880160"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "208",
+    "legacyId": 208,
+    "slug": "barra-oca-40-cm-c-presilhas-par",
+    "name": "BARRA OCA 40 CM C/ PRESILHAS PAR",
+    "code": "BOPR40",
+    "price": 150,
+    "priceFormatted": "R$ 150,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 63,
+    "image": {
+      "stagingPath": "img-113.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000002EF0000050014ED06F5.jpg",
+      "width": 751,
+      "height": 1280,
+      "format": "jpeg",
+      "bytes": 59019,
+      "sha256": "344404c4d09b0ae6e5ab6313fcfd6f940ba5a22ce39090067ecb87d84f792e74"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "209",
+    "legacyId": 209,
+    "slug": "step-eva-30x60x10cm",
+    "name": "STEP EVA 30x60x10cm",
+    "code": "SE306010",
+    "price": 198,
+    "priceFormatted": "R$ 198,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 64,
+    "image": {
+      "stagingPath": "img-114.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000001000009F80000050DD6D70B03.png",
+      "width": 2552,
+      "height": 1293,
+      "format": "png",
+      "bytes": 2956109,
+      "sha256": "f87fdf6c6a6355e58de60b0417d79be5f41d0f66c37d4477e9e4aaa39ca0e575"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "210",
+    "legacyId": 210,
+    "slug": "piso-de-borracha-100x100x1-6-cm",
+    "name": "PISO DE BORRACHA 100X100X1,6 CM",
+    "code": "PB1116",
+    "price": 220,
+    "priceFormatted": "R$ 220,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 65,
+    "image": {
+      "stagingPath": "img-115.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000100000331000002592D8C23AC.png",
+      "width": 817,
+      "height": 601,
+      "format": "png",
+      "bytes": 421900,
+      "sha256": "39305b5384962146731df65efefb9103e08505d89a4561f4f6065cf863ece174"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "211",
+    "legacyId": 211,
+    "slug": "puxador-corda",
+    "name": "PUXADOR CORDA",
+    "code": "PC001",
+    "price": 192.94,
+    "priceFormatted": "R$ 192,94",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 66,
+    "image": {
+      "stagingPath": "img-116.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000004B900000640C979AF7D.jpg",
+      "width": 1209,
+      "height": 1600,
+      "format": "jpeg",
+      "bytes": 50783,
+      "sha256": "8c1f6584791e18c30c3fd4a868b1bd967b73208f7b5ea91aae465e5c4e6b163e"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "212",
+    "legacyId": 212,
+    "slug": "barra-w",
+    "name": "BARRA W",
+    "code": "BW",
+    "price": 386,
+    "priceFormatted": "R$ 386,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 67,
+    "image": {
+      "stagingPath": "img-101.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000000000097500000A28AC4C4404.jpg",
+      "width": 2421,
+      "height": 2600,
+      "format": "jpeg",
+      "bytes": 383433,
+      "sha256": "fcdd471f6dce1d9ebec7fcc366c6c3301d4c106a64b6a3fa8a83692f5f0db0ae"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "213",
+    "legacyId": 213,
+    "slug": "protetor-de-barra-em-eva",
+    "name": "PROTETOR DE BARRA EM EVA",
+    "code": "PBE001",
+    "price": 105.72,
+    "priceFormatted": "R$ 105,72",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "barras-e-acessorios",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 68,
+    "image": {
+      "stagingPath": "img-117.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/1000000100000AC2000001F4E78C8BB3.png",
+      "width": 2754,
+      "height": 500,
+      "format": "png",
+      "bytes": 853797,
+      "sha256": "f79dacc99b2960d3b893c56768b8484c4c897f5e1e7e1dbbbcdc9b0118fad2ac"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "214",
+    "legacyId": 214,
+    "slug": "tornozeleira-crossover-com-alca-de-pe",
+    "name": "TORNOZELEIRA CROSSOVER COM ALÇA DE PÉ",
+    "code": "CCAP001",
+    "price": 80,
+    "priceFormatted": "R$ 80,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 69,
+    "image": {
+      "stagingPath": "img-118.jpg",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000002730000027A3209D9B1.jpg",
+      "width": 627,
+      "height": 634,
+      "format": "jpeg",
+      "bytes": 68409,
+      "sha256": "5f62f54afb29e7fbf79fa1481e1d18a113bdcd5091460f651f430babfee6a3c6"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "215",
+    "legacyId": 215,
+    "slug": "tornozeleira-crossover-profissional",
+    "name": "TORNOZELEIRA CROSSOVER PROFISSIONAL",
+    "code": "CRP",
+    "price": 70.36,
+    "priceFormatted": "R$ 70,36",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 70,
+    "image": {
+      "stagingPath": "img-119.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000001000006EE0000023ED6BDAEAC.png",
+      "width": 1774,
+      "height": 574,
+      "format": "png",
+      "bytes": 671906,
+      "sha256": "b4952f90c195cefcca124d5d9f3efdb04b690732c5bce381f5cfbfa355c349ef"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "216",
+    "legacyId": 216,
+    "slug": "tornozeleira-crossover-eva",
+    "name": "TORNOZELEIRA CROSSOVER EVA",
+    "code": "TCE",
+    "price": 90.08,
+    "priceFormatted": "R$ 90,08",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 71,
+    "image": {
+      "stagingPath": "img-120.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000010000080E00000590DF242EDC.png",
+      "width": 2062,
+      "height": 1424,
+      "format": "png",
+      "bytes": 1789651,
+      "sha256": "d627f24df1a295fd7b77f87253289aee47b45019b31e8334dd19d996252d0e37"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "217",
+    "legacyId": 217,
+    "slug": "crossover-de-mao-par",
+    "name": "CROSSOVER DE MÃO PAR",
+    "code": "CRM01",
+    "price": 80,
+    "priceFormatted": "R$ 80,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 72,
+    "image": {
+      "stagingPath": "img-121.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/100000010000077200000960110CDD7A.png",
+      "width": 1906,
+      "height": 2400,
+      "format": "png",
+      "bytes": 2830774,
+      "sha256": "11ee895a55e58d90e678839714e42c692bbc48e737a0009a905aeea72197df51"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "218",
+    "legacyId": 218,
+    "slug": "cabo-de-aco-1-8-6x19-revestimento-nylon-preto",
+    "name": "CABO DE AÇO 1/8 6X19 REVESTIMENTO NYLON PRETO",
+    "code": "CA18619",
+    "price": 23,
+    "priceFormatted": "R$ 23,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 73,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  },
+  {
+    "id": "219",
+    "legacyId": 219,
+    "slug": "bola-pilates-75cm",
+    "name": "BOLA PILATES 75CM",
+    "code": "BOP075",
+    "price": 123.8,
+    "priceFormatted": "R$ 123,80",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 74,
+    "image": {
+      "stagingPath": "img-122.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000001000003200000032257FBBDDE.png",
+      "width": 800,
+      "height": 802,
+      "format": "png",
+      "bytes": 190110,
+      "sha256": "7408a91a01f5496cac4a9acf839811d75959b4bc3c65ddf4c6c48e0cefbb2a6c"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "220",
+    "legacyId": 220,
+    "slug": "dumbell-de-ferro-pintado-kg",
+    "name": "DUMBELL DE FERRO PINTADO KG",
+    "code": "DFP001",
+    "price": 26,
+    "priceFormatted": "R$ 26,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 75,
+    "image": {
+      "stagingPath": "img-123.png",
+      "container": "tabela acessórios.ods",
+      "entry": "Pictures/10000000000005000000039677624978.png",
+      "width": 1280,
+      "height": 918,
+      "format": "png",
+      "bytes": 731529,
+      "sha256": "ee21d55d7c394154c608bdca9c02466399a2900351e2f005fc4c4d6b0a5dbdd0"
+    },
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": false
+    }
+  },
+  {
+    "id": "221",
+    "legacyId": 221,
+    "slug": "silicone-litro",
+    "name": "SILICONE LITRO",
+    "code": "SI001",
+    "price": 70,
+    "priceFormatted": "R$ 70,00",
+    "line": "Acessórios",
+    "lineKey": "acessorios",
+    "categorySlug": "funcional-e-crosfit",
+    "sourceFile": "tabela acessórios.ods",
+    "rowNumber": 76,
+    "image": null,
+    "mergedFrom": null,
+    "flags": {
+      "duplicateCode": false,
+      "noImage": true
+    }
+  }
+]

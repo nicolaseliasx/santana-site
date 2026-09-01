@@ -1,16 +1,16 @@
 ---
 {
-  "id": "6",
+  "id": "1",
   "slug": "linha-tubolar-4pl-power-line",
-  "name": "Linha Tubolar 4PL Power Line",
+  "name": "Tubolar 4PL Power Line",
   "legacyUrls": [
     "/gallery_entries/linha-tubolar-4pl-power-line/"
   ],
-  "productCount": 14,
+  "productCount": 108,
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/gallery_entries/linha-tubolar-4pl-power-line/",
+      "kind": "derived",
+      "identifier": "reports/import-sheets.dataset.json:linha-tubolar-4pl-power-line",
       "field": "name/productCount"
     }
   ]

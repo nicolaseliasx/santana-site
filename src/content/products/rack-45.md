@@ -1,67 +1,58 @@
 ---
 {
-  "id": "5068",
-  "legacyId": 5068,
+  "id": "68",
+  "legacyId": 68,
   "slug": "rack-45",
-  "name": "RACK 45 PL47060",
-  "categorySlugs": [],
+  "name": "RACK 45°",
+  "code": "PL47060",
+  "price": 11370.24,
+  "priceFormatted": "R$ 11.370,24",
+  "categorySlugs": [
+    "linha-tubolar-4pl-power-line"
+  ],
+  "summary": "Equipamento RACK 45° da linha Tubular 4\" (TB4PL).",
+  "description": "Produto listado na tabela TABELA TB4PL MAR 2026.ods, linha 85.",
   "features": [],
   "specifications": [],
   "images": [
     {
-      "originalSrc": "https://santanafitness.com.br/wp-content/uploads/2017/10/RACK-45-PL47060.png",
+      "originalSrc": "sheet://LINHA POWER LINE MAR 26.ods#Pictures/1000000100000F2200000DBD22B61949.png",
       "localOriginal": "/products/rack-45.png",
       "variants": {
         "fallback": [
           {
             "src": "/products/rack-45.png",
-            "width": 800,
-            "height": 800,
-            "bytes": 388624,
+            "width": 3874,
+            "height": 3517,
+            "bytes": 4683703,
             "mime": "image/png"
-          }
-        ],
-        "webp": [
-          {
-            "src": "/products/variants/rack-45-640-ccd31ce7e6.webp",
-            "width": 640,
-            "height": 640,
-            "bytes": 24682,
-            "mime": "image/webp"
-          }
-        ],
-        "avif": [
-          {
-            "src": "/products/variants/rack-45-640-ccd31ce7e6.avif",
-            "width": 640,
-            "height": 640,
-            "bytes": 24201,
-            "mime": "image/avif"
           }
         ]
       },
-      "alt": "Equipamento RACK 45 PL47060 — vista principal",
-      "width": 800,
-      "height": 800,
-      "hash": "ccd31ce7e69d9a5110dcba2ef7c2aad8383a255f4bb98906793e5df1ae08df07",
+      "alt": "Equipamento RACK 45° — vista principal",
+      "width": 3874,
+      "height": 3517,
+      "hash": "0807685666616b0e0b6416e45cd1a1bf746dc7f8853de9ab679f78be115c74e2",
       "isPrimary": true,
       "src": "/products/rack-45.png"
     }
   ],
-  "legacyUrls": [
-    "/dt_galleries/rack-45/"
-  ],
+  "legacyUrls": [],
   "sourceTrace": [
     {
-      "kind": "public-page",
-      "url": "https://santanafitness.com.br/dt_galleries/rack-45/",
-      "identifier": "dt_galleries:5068",
-      "field": "name/category"
+      "kind": "derived",
+      "identifier": "TABELA TB4PL MAR 2026.ods:85",
+      "field": "name/code/price/category"
     },
     {
-      "kind": "public-media",
-      "url": "https://santanafitness.com.br/wp-content/uploads/2017/10/RACK-45-PL47060.png",
-      "field": "images"
+      "kind": "derived",
+      "identifier": "LINHA POWER LINE MAR 26.ods:56",
+      "field": "deduplicated merge"
+    },
+    {
+      "kind": "derived",
+      "identifier": "LINHA POWER LINE MAR 26.ods#Pictures/1000000100000F2200000DBD22B61949.png",
+      "field": "image"
     }
   ],
   "featured": false

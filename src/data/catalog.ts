@@ -5,18 +5,6 @@ import { imageSource } from '@/domain/product';
 import generatedCatalog from './catalog.generated.json';
 import { catalogGroupDefinitions, catalogGroupForProduct, type CatalogGroup } from '@/domain/catalog-group';
 
-const fallbackImage = (name: string, src: string): ProductImage => ({
-  originalSrc: src,
-  localOriginal: src,
-  variants: { fallback: [{ src, width: 800, height: 800, mime: 'image/png' }] },
-  alt: `Equipamento ${name} — vista principal`,
-  width: 800,
-  height: 800,
-  hash: '0'.repeat(64),
-  isPrimary: true,
-  src,
-});
-
 type LegacyGenerated = Partial<Product> & { image?: string; legacyUrl?: string; sourceImage?: string; images?: Array<Partial<ProductImage> & { src?: string }> };
 const generated = generatedCatalog as unknown as LegacyGenerated[];
 
@@ -25,10 +13,14 @@ export const products: Product[] = generated.map((raw, index) => {
   const source = raw.images?.map((item, imageIndex) => {
     const local = item.localOriginal || item.src || raw.image || '';
     return {
-      ...fallbackImage(raw.name || raw.slug || 'equipamento', local),
       ...item,
       originalSrc: item.originalSrc || raw.sourceImage || local,
       localOriginal: local,
+      variants: item.variants || { fallback: [] },
+      alt: item.alt || `Equipamento ${raw.name || raw.slug || 'equipamento'} — vista principal`,
+      width: item.width || 1,
+      height: item.height || 1,
+      hash: item.hash || '0'.repeat(64),
       src: local,
       isPrimary: item.isPrimary ?? imageIndex === 0,
     } as ProductImage;
@@ -40,13 +32,15 @@ export const products: Product[] = generated.map((raw, index) => {
     slug: raw.slug || `produto-${index + 1}`,
     name: raw.name || raw.slug || `Produto ${index + 1}`,
     code: raw.code,
+    price: raw.price || 0,
+    priceFormatted: raw.priceFormatted || '',
     categorySlugs: raw.categorySlugs || [],
     catalogGroupSlug,
     summary: raw.summary,
     description: raw.description,
     features: raw.features || [],
     specifications: raw.specifications || [],
-    images: source.length ? source : [fallbackImage(raw.name || raw.slug || 'equipamento', raw.image || '')],
+    images: source,
     legacyUrls: raw.legacyUrls || (raw.legacyUrl ? [new URL(raw.legacyUrl).pathname] : []),
     seo: raw.seo,
     sourceTrace: raw.sourceTrace || [{ kind: 'public-page', url: raw.legacyUrl || `https://santanafitness.com.br/dt_galleries/${raw.slug}/` }],
@@ -55,11 +49,13 @@ export const products: Product[] = generated.map((raw, index) => {
 });
 
 export const catalogGroupMap: Record<string, CatalogGroup['slug']> = Object.fromEntries(products.map((product) => [product.slug, product.catalogGroupSlug]));
-if (products.length !== 363 || Object.keys(catalogGroupMap).length !== products.length || products.some((product) => !catalogGroupDefinitions.some((group) => group.slug === product.catalogGroupSlug))) {
-  throw new Error('Catalog group map must assign exactly one valid presentation group to every product');
+const productIds = new Set(products.map((product) => product.id));
+const legacyIds = new Set(products.map((product) => product.legacyId));
+if (products.length !== 221 || Object.keys(catalogGroupMap).length !== products.length || productIds.size !== products.length || legacyIds.size !== products.length || products.some((product) => product.price <= 0 || !product.priceFormatted || !catalogGroupDefinitions.some((group) => group.slug === product.catalogGroupSlug))) {
+  throw new Error('Imported catalogue must contain 221 unique products with valid prices and groups');
 }
 
-export const allCategories: Category[] = categories;
+export const allCategories: Category[] = categories.map((category) => ({ ...category, productCount: products.filter((product) => product.categorySlugs.includes(category.slug)).length }));
 export const categoryBySlug = (slug: string) => allCategories.find((category) => category.slug === slug);
 export const productsByCategory = (slug: string) => products.filter((product) => product.categorySlugs.includes(slug));
 export const catalogGroups: CatalogGroup[] = catalogGroupDefinitions.map((definition) => {

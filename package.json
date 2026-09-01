@@ -16,7 +16,10 @@
     "images:remove-background": "node scripts/images/remove-background.mjs",
     "validate:catalog": "node scripts/validate-catalog.mjs",
     "validate:images": "node scripts/validate-images.mjs",
-    "validate:redirects": "node scripts/validate-redirects.mjs"
+    "validate:redirects": "node scripts/validate-redirects.mjs",
+    "import:sheets": "node scripts/import-sheets/index.mjs",
+    "import:images": "node scripts/import-images.mjs",
+    "import:catalog": "node scripts/generate-imported-catalog.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
@@ -27,9 +30,13 @@
     "@astrojs/check": "^0.9.4",
     "@playwright/test": "^1.55.0",
     "@tailwindcss/vite": "^4.1.13",
+    "adm-zip": "^0.6.0",
     "axe-playwright": "^2.1.0",
+    "fast-xml-parser": "^5.11.1",
+    "fflate": "^0.8.3",
     "tailwindcss": "^4.1.13",
     "typescript": "^5.8.3",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.4",
+    "xlsx": "^0.18.5"
   }
 }

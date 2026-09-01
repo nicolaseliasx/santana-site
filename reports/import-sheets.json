@@ -1,0 +1,749 @@
+{
+  "generatedAt": "2026-09-01T12:24:52.694Z",
+  "sourceFiles": {
+    "tb4pl": "TABELA TB4PL MAR 2026.ods",
+    "powerline": "LINHA POWER LINE MAR 26.ods",
+    "acessorios": "tabela acessórios.ods",
+    "bancos": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+    "articulada": "LINHA ARTICULADA MAR 2026.xls",
+    "pdf": "catalago atual com bordas.pdf"
+  },
+  "counts": {
+    "perFile": {
+      "TABELA TB4PL MAR 2026.ods": {
+        "products": 75,
+        "skippedRows": 11
+      },
+      "LINHA POWER LINE MAR 26.ods": {
+        "products": 42,
+        "skippedRows": 11
+      },
+      "tabela acessórios.ods": {
+        "products": 58,
+        "skippedRows": 12
+      },
+      "TABELA SANTANA DE BANCOS SUPORTES.xlsx": {
+        "products": 37,
+        "skippedRows": 1
+      },
+      "LINHA ARTICULADA MAR 2026.xls": {
+        "products": 18,
+        "skippedRows": 0
+      }
+    },
+    "totalRaw": 230,
+    "mergesTb4plPowerLine": 9,
+    "finalProducts": 221,
+    "withImage": 179,
+    "withoutImage": 42,
+    "duplicateCodes": 4
+  },
+  "merges": [
+    {
+      "name": "BANCO SUPINO DECLINADO",
+      "kept": {
+        "code": "BC2713",
+        "price": 5812.35,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20204",
+        "price": 5812.35,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "BANCO SUPINO INCLINADO",
+      "kept": {
+        "code": "BC2714",
+        "price": 4892.16,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20205",
+        "price": 4892.16,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "BANCO SUPINO REGULÁVEL",
+      "kept": {
+        "code": "BC2715",
+        "price": 5229.95,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20206",
+        "price": 5229.95,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "BANCO SUPINO RETO",
+      "kept": {
+        "code": "BC2716",
+        "price": 5806.08,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20208",
+        "price": 4892.16,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "LINHA POWER LINE MAR 26.ods"
+    },
+    {
+      "name": "GRAVITON",
+      "kept": {
+        "code": "PL47049",
+        "price": 11975.04,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20218",
+        "price": 15130.75,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "HIPER EXTENSOR",
+      "kept": {
+        "code": "BC2724",
+        "price": 2800,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20219",
+        "price": 4596.48,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "LEG PRESS 45º ARTICULADO",
+      "kept": {
+        "code": "PL47043",
+        "price": 11249.28,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20222",
+        "price": 12880,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "PANTURRILHA EM PE",
+      "kept": {
+        "code": "BC2730",
+        "price": 11975.04,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20231",
+        "price": 14676.48,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "name": "RACK 45°",
+      "kept": {
+        "code": "PL47060",
+        "price": 11370.24,
+        "file": "TABELA TB4PL MAR 2026.ods"
+      },
+      "dropped": {
+        "code": "20238",
+        "price": 13395.2,
+        "file": "LINHA POWER LINE MAR 26.ods"
+      },
+      "imageFrom": "LINHA POWER LINE MAR 26.ods"
+    }
+  ],
+  "withoutImage": [
+    {
+      "slug": "banco-para-desenvolvimento",
+      "name": "BANCO PARA DESENVOLVIMENTO",
+      "code": "BC2728",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 30
+    },
+    {
+      "slug": "crosmulti-angular-2x80kg",
+      "name": "CROSMULTI ANGULAR 2X80KG",
+      "code": "PL47067",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 41
+    },
+    {
+      "slug": "flexor-vertical-70kg",
+      "name": "FLEXOR VERTICAL 70KG",
+      "code": "PL47057",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 51
+    },
+    {
+      "slug": "graviton",
+      "name": "GRAVITON",
+      "code": "PL47049",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 57
+    },
+    {
+      "slug": "leg-press-45-carrinho",
+      "name": "LEG PRESS 45º CARRINHO",
+      "code": "PL47065",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 58
+    },
+    {
+      "slug": "leg-press-90-deitado",
+      "name": "LEG PRESS 90 DEITADO",
+      "code": "PL47066",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 59
+    },
+    {
+      "slug": "leg-horizontal-100kg",
+      "name": "LEG HORIZONTAL 100KG",
+      "code": "PL47053",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 63
+    },
+    {
+      "slug": "maquina-abdominal-80kg",
+      "name": "MAQUINA ABDOMINAL 80KG",
+      "code": "PL47050",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 64
+    },
+    {
+      "slug": "maquina-de-gluteos-4-apoios-70kg",
+      "name": "MÁQUINA DE GLÚTEOS 4 APOIOS 70KG",
+      "code": "PL47054",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 65
+    },
+    {
+      "slug": "maquina-gluteos-em-pe-70kg",
+      "name": "MAQUINA GLÚTEOS EM PÉ 70KG",
+      "code": "PL47055",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 66
+    },
+    {
+      "slug": "maquina-de-biceps-70kg",
+      "name": "MÁQUINA DE BICEPS 70KG",
+      "code": "PL47039",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 67
+    },
+    {
+      "slug": "polia-de-parede-dupla-2x70kg",
+      "name": "POLIA DE PAREDE DUPLA 2X70KG",
+      "code": "PLD",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 72
+    },
+    {
+      "slug": "puxada-alta-80kg",
+      "name": "PUXADA ALTA 80KG",
+      "code": "PL47056",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 84
+    },
+    {
+      "slug": "remada-cavalinho",
+      "name": "REMADA CAVALINHO",
+      "code": "BC2722",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 88
+    },
+    {
+      "slug": "kettlebell-emborrachado-kg",
+      "name": "KETTLEBELL EMBORRACHADO KG",
+      "code": "K001",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods",
+      "rowNumber": 92
+    },
+    {
+      "slug": "gaiola-multifuncional",
+      "name": "GAIOLA MULTIFUNCIONAL",
+      "code": "20217",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 35
+    },
+    {
+      "slug": "leg-45-carrinho-350kg",
+      "name": "LEG 45 CARRINHO 350KG",
+      "code": "20220",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 38
+    },
+    {
+      "slug": "maquina-abdominal-90kg",
+      "name": "MAQUINA ABDOMINAL 90KG",
+      "code": "20224",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 42
+    },
+    {
+      "slug": "maquina-de-gluteos-4-apoios-80kg",
+      "name": "MÁQUINA DE GLÚTEOS 4 APOIOS 80KG",
+      "code": "20225",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 43
+    },
+    {
+      "slug": "maquina-gluteos-em-pe-80kg",
+      "name": "MAQUINA GLÚTEOS EM PÉ 80KG",
+      "code": "20226",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 44
+    },
+    {
+      "slug": "puxada-alta-90kg",
+      "name": "PUXADA ALTA 90KG",
+      "code": "20237",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 55
+    },
+    {
+      "slug": "supino-vertical-tubolar",
+      "name": "SUPINO VERTICAL TUBOLAR",
+      "code": "20239",
+      "sourceFile": "LINHA POWER LINE MAR 26.ods",
+      "rowNumber": 57
+    },
+    {
+      "slug": "supino-declinado-articulado",
+      "name": "SUPINO DECLINADO ARTICULADO",
+      "code": "AT41",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 17
+    },
+    {
+      "slug": "supino-reto-articulado",
+      "name": "SUPINO RETO ARTICULADO",
+      "code": "AT 46",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 19
+    },
+    {
+      "slug": "triceps-articulado",
+      "name": "TRÍCEPS ARTICULADO",
+      "code": "AT 58",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 23
+    },
+    {
+      "slug": "leg-90",
+      "name": "LEG 90",
+      "code": "AT60",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 26
+    },
+    {
+      "slug": "remada-ponta-de-barra",
+      "name": "REMADA PONTA DE BARRA",
+      "code": "AT34",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls",
+      "rowNumber": 28
+    },
+    {
+      "slug": "suporte-de-anilhas-7-pinos",
+      "name": "SUPORTE DE ANILHAS 7 PINOS",
+      "code": "SA07",
+      "sourceFile": "TABELA SANTANA DE BANCOS SUPORTES.xlsx",
+      "rowNumber": 72
+    },
+    {
+      "slug": "barra-w-macica-inox",
+      "name": "BARRA W MACIÇA INOX",
+      "code": "BWMI",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 22
+    },
+    {
+      "slug": "barra-1-50m-macica-inox",
+      "name": "BARRA 1,50M MACIÇA INOX",
+      "code": "BMI0150",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 23
+    },
+    {
+      "slug": "barra-1-80m-macica-inox",
+      "name": "BARRA 1,80M MACIÇA INOX",
+      "code": "BMI0180",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 24
+    },
+    {
+      "slug": "barra-2-00m-macica-inox",
+      "name": "BARRA 2,00M MACIÇA INOX",
+      "code": "BMI0200",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 25
+    },
+    {
+      "slug": "barra-h-standard-inox",
+      "name": "BARRA H STANDARD INOX",
+      "code": "BHSI",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 36
+    },
+    {
+      "slug": "barra-macica-cromada-1-80m",
+      "name": "BARRA MACIÇA CROMADA 1,80M",
+      "code": "BMC0180",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 44
+    },
+    {
+      "slug": "barramacica-cromada-2-00m",
+      "name": "BARRAMACIÇA CROMADA 2,00M",
+      "code": "BMC0200",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 45
+    },
+    {
+      "slug": "barra-macica-cromada-2-20m",
+      "name": "BARRA MACIÇA CROMADA 2,20M",
+      "code": "BMC0220",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 46
+    },
+    {
+      "slug": "barra-1-50m-macica-cromada",
+      "name": "BARRA 1,50M MACIÇA CROMADA",
+      "code": "BMC0150",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 47
+    },
+    {
+      "slug": "barra-1-20m-macica-cromada",
+      "name": "BARRA 1,20M MACIÇA CROMADA",
+      "code": "BMC0120",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 48
+    },
+    {
+      "slug": "barra-w-macica-cromada-1-20m",
+      "name": "BARRA W MACIÇA CROMADA 1,20M",
+      "code": "BWMC0120",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 49
+    },
+    {
+      "slug": "par-de-barra-c-rosca",
+      "name": "PAR DE BARRA C/ ROSCA",
+      "code": "BCRP",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 60
+    },
+    {
+      "slug": "cabo-de-aco-1-8-6x19-revestimento-nylon-preto",
+      "name": "CABO DE AÇO 1/8 6X19 REVESTIMENTO NYLON PRETO",
+      "code": "CA18619",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 73
+    },
+    {
+      "slug": "silicone-litro",
+      "name": "SILICONE LITRO",
+      "code": "SI001",
+      "sourceFile": "tabela acessórios.ods",
+      "rowNumber": 76
+    }
+  ],
+  "duplicateCodes": [
+    {
+      "slug": "agachamento-squat",
+      "name": "AGACHAMENTO SQUAT",
+      "code": "PL3232",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "slug": "agachamento-sissy",
+      "name": "AGACHAMENTO Sissy",
+      "code": "PL3232",
+      "sourceFile": "TABELA TB4PL MAR 2026.ods"
+    },
+    {
+      "slug": "leg-90",
+      "name": "LEG 90",
+      "code": "AT60",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls"
+    },
+    {
+      "slug": "leg-45-articulado",
+      "name": "LEG 45 ARTICULADO",
+      "code": "AT60",
+      "sourceFile": "LINHA ARTICULADA MAR 2026.xls"
+    }
+  ],
+  "skippedRows": {
+    "TABELA TB4PL MAR 2026.ods": [
+      {
+        "rowNumber": 7,
+        "reason": "incomplete",
+        "code": "Equipamentos para ginástica e musculação.",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 8,
+        "reason": "incomplete",
+        "code": "RUA TERTULIANO DE ANDRADE 150 – Ponte do Imaruim – Palhoça/SC",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 9,
+        "reason": "incomplete",
+        "code": "CEP: 88130-728 – cel 48 99926-3333",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 10,
+        "reason": "incomplete",
+        "code": "CNPJ 00102999/0001-80 INSC.EST. 254064949",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 11,
+        "reason": "incomplete",
+        "code": "VISITE SITE WWW.SANTANAFITNESS.COM.BR",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 13,
+        "reason": "incomplete",
+        "code": "LINHA TUBOLAR 4 POLEGADAS",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 16,
+        "reason": "incomplete",
+        "code": "CÓDIGO",
+        "name": "EQUIPAMENTO",
+        "price": null
+      },
+      {
+        "rowNumber": 95,
+        "reason": "incomplete",
+        "code": "PALHOÇA, 24 DE MARÇO DE 2026",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 96,
+        "reason": "incomplete",
+        "code": "PRAZO DE ENTREGA 40 DIAS APÓS CONFIRMAÇÃO",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 97,
+        "reason": "incomplete",
+        "code": "VALIDADE 7 DIAS",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 98,
+        "reason": "incomplete",
+        "code": "EDSON (48) 99926-3333 WHATSAPP",
+        "name": null,
+        "price": null
+      }
+    ],
+    "LINHA POWER LINE MAR 26.ods": [
+      {
+        "rowNumber": 7,
+        "reason": "incomplete",
+        "code": "Equipamentos para ginástica e musculação.",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 8,
+        "reason": "incomplete",
+        "code": "RUA TERTULIANO DE ANDRADE 150 – Ponte do Imaruim – Palhoça/SC",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 9,
+        "reason": "incomplete",
+        "code": "CEP: 88130-728 – cel 48 99926-3333",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 10,
+        "reason": "incomplete",
+        "code": "CNPJ 00102999/0001-80 INSC.EST. 254064949",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 11,
+        "reason": "incomplete",
+        "code": "VISITE SITE WWW.SANTANAFITNESS.COM.BR",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 13,
+        "reason": "incomplete",
+        "code": "LINHA TUBOLAR 4 POLEGADAS",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 16,
+        "reason": "incomplete",
+        "code": "CÓDIGO",
+        "name": "EQUIPAMENTO",
+        "price": null
+      },
+      {
+        "rowNumber": 62,
+        "reason": "incomplete",
+        "code": "PALHOÇA, 24 DE MARÇO DE 2026",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 63,
+        "reason": "incomplete",
+        "code": "PRAZO DE ENTREGA 40 DIAS APÓS CONFIRMAÇÃO",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 64,
+        "reason": "incomplete",
+        "code": "VALIDADE 7 DIAS",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 65,
+        "reason": "incomplete",
+        "code": "EDSON (48) 99926-3333 WHATSAPP",
+        "name": null,
+        "price": null
+      }
+    ],
+    "tabela acessórios.ods": [
+      {
+        "rowNumber": 7,
+        "reason": "incomplete",
+        "code": "Equipamentos para ginástica e musculação.",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 8,
+        "reason": "incomplete",
+        "code": "RUA TERTULIANO DE ANDRADE 150 – Ponte do Imaruim – Palhoça/SC",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 9,
+        "reason": "incomplete",
+        "code": "CEP: 88130-728 – fone fax 48 33487879",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 10,
+        "reason": "incomplete",
+        "code": "CNPJ 00102999/0001-80 INSC.EST. 254064949",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 11,
+        "reason": "incomplete",
+        "code": "VISITE SITE WWW.SANTANAFITNESS.COM.BR",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 13,
+        "reason": "incomplete",
+        "code": "TABELA ACESSÓRIOS",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 17,
+        "reason": "incomplete",
+        "code": "CÓDIGO",
+        "name": "EQUIPAMENTO",
+        "price": null
+      },
+      {
+        "rowNumber": 77,
+        "reason": "incomplete",
+        "code": "total:",
+        "name": null,
+        "price": 22978.4
+      },
+      {
+        "rowNumber": 79,
+        "reason": "incomplete",
+        "code": "PALHOÇA, 09 DE DEZEMBRO DE 2025",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 80,
+        "reason": "incomplete",
+        "code": "PRAZO DE ENTREGA 40 DIAS APÓS CONFIRMAÇÃO",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 81,
+        "reason": "incomplete",
+        "code": "VALIDADE 7 DIAS",
+        "name": null,
+        "price": null
+      },
+      {
+        "rowNumber": 82,
+        "reason": "incomplete",
+        "code": "EDSON (48) 99926-3333 WHATSAPP",
+        "name": null,
+        "price": null
+      }
+    ],
+    "TABELA SANTANA DE BANCOS SUPORTES.xlsx": [
+      {
+        "rowNumber": 18,
+        "reason": "incomplete",
+        "code": "CÓD.",
+        "name": "EQUIPAMENTO",
+        "price": null
+      }
+    ],
+    "LINHA ARTICULADA MAR 2026.xls": []
+  },
+  "pdfImagesExtracted": 28,
+  "stagingImages": 168
+}

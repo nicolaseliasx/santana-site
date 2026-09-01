@@ -21,6 +21,8 @@ export type Product = {
   slug: string;
   name: string;
   code?: string;
+  price: number;
+  priceFormatted: string;
   categorySlugs: string[];
   catalogGroupSlug: import('./catalog-group').CatalogGroupSlug;
   summary?: string;
