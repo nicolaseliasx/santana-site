@@ -22,16 +22,16 @@
           {
             "src": "/products/polia-de-parede-70kg.png",
             "width": 534,
-            "height": 1566,
-            "bytes": 1262004,
+            "height": 1054,
+            "bytes": 434562,
             "mime": "image/png"
           }
         ]
       },
       "alt": "Equipamento POLIA DE PAREDE 70KG — vista principal",
       "width": 534,
-      "height": 1566,
-      "hash": "fcf1809f23d46e6fdb970ae92a880c6513412556746eaab6f2c00ad897c29ea9",
+      "height": 1054,
+      "hash": "04314fdd1b96eecc0c31421fb53b22ed689fe1d59cb7216970b95a12eb6a9cc3",
       "isPrimary": true,
       "src": "/products/polia-de-parede-70kg.png"
     }

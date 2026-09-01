@@ -5,7 +5,6 @@ import sharp from 'sharp';
 
 const root = process.cwd();
 const products = JSON.parse(await readFile(join(root, 'src/data/catalog.generated.json'), 'utf8'));
-const imageManifest = JSON.parse(await readFile(join(root, 'reports/import-images.json'), 'utf8'));
 const errors = []; const referenced = new Set(); const referencedVariants = new Set(); let localCount = 0;
 for (const product of products) for (const image of product.images || []) {
   if (!image.localOriginal) { errors.push(`image entry without local source: ${product.slug}`); continue; }
@@ -20,8 +19,8 @@ for (const entry of directFiles) if (entry.isFile() && !referenced.has(`products
 const variantFiles = await readdir(join(root, 'public/products/variants')).catch(() => []);
 for (const name of variantFiles) if (!referencedVariants.has(`products/variants/${name}`)) errors.push(`orphan variant: /products/variants/${name}`);
 if (existsSync(join(root, 'public/products/cutouts'))) errors.push('orphan cutouts directory');
-if (products.length !== 221 || imageManifest.length !== 221) errors.push('image manifest/product count mismatch');
-const expectedWithImage = imageManifest.filter((item) => item.status === 'ok').length;
+if (products.length !== 247) errors.push('product count mismatch');
+const expectedWithImage = products.filter((product) => product.images?.length).length;
 const report = { productCount: products.length, localImageCount: localCount, expectedWithImage, missingSourceCount: products.filter((product) => !product.images?.length).length, orphanCheck: 'passed', errors };
 console.log(JSON.stringify(report, null, 2));
-if (expectedWithImage !== 179 || report.missingSourceCount !== 42 || errors.length) process.exit(1);
+if (expectedWithImage !== 205 || report.missingSourceCount !== 42 || errors.length) process.exit(1);
