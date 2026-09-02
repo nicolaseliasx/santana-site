@@ -1,6 +1,6 @@
 ---
 import type { Product } from '@/domain/product';
-import { imageSource } from '@/domain/product';
+import { imageSource, imageCardFit } from '@/domain/product';
 import { catalogGroupBySlug } from '@/data/catalog';
 const { product } = Astro.props as { product: Product };
 const category = catalogGroupBySlug(product.catalogGroupSlug);
@@ -11,10 +11,11 @@ const avif = image?.cutout ? image.cutout.variants?.avif?.map((item) => `${item.
 const accessibleName = product.name.toLocaleLowerCase('pt-BR').replace(/(^|\s)(\p{L})/gu, (_, space, letter) => `${space}${letter.toLocaleUpperCase('pt-BR')}`);
 const priceText = product.priceFormatted || 'Sob consulta';
 const priceAriaLabel = product.priceFormatted ? `Preço: ${product.priceFormatted}` : 'Preço: sob consulta';
-const tall = image ? image.height >= image.width * 1.8 : false;
+const fit = imageCardFit(image);
+const imageClass = `product-image${fit ? ` product-image--${fit}` : ''}`;
 ---
 <article class="product-card" data-product data-name={`${product.name} ${product.summary || ''} ${product.description || ''}`.toLowerCase()} data-code={product.code?.toLowerCase()} data-category={product.categorySlugs.join(' ')} data-catalog-group={product.catalogGroupSlug}>
-  <a class={`product-image${tall ? ' product-image--tall' : ''}`} href={`/produtos/${product.slug}/`} aria-label={`Ver ${accessibleName}`}>
+  <a class={imageClass} href={`/produtos/${product.slug}/`} aria-label={`Ver ${accessibleName}`}>
     {src ? <picture>{avif && <source type="image/avif" srcset={avif} />}{webp && <source type="image/webp" srcset={webp} />}<img src={src} alt={image?.alt} loading="lazy" width={image?.width || 800} height={image?.height || 800} /></picture> : <span class="placeholder"><span>Imagem indisponível</span></span>}
   </a>
   <div class="product-card__body">{category && <span class="eyebrow">{category.name}</span>}<h3 class="display"><a href={`/produtos/${product.slug}/`}>{product.name}</a></h3><p class="price" aria-label={priceAriaLabel}>{priceText}</p>{product.code && <span class="muted">Ref. {product.code}</span>}{product.summary && <p class="card-summary muted">{product.summary}</p>}<a class="button button-secondary" href={`/produtos/${product.slug}/`}>Ver produto</a></div>

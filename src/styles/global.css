@@ -28,6 +28,7 @@ button { color: inherit; font: inherit; }
 .product-image { aspect-ratio: 1.2; display: grid; place-items: center; padding: 1rem; background: var(--surface-2); }
 .product-image picture { display:block; width:100%; height:100%; }.product-image img { width: 100%; height: 100%; object-fit: contain; }
 .product-image--tall { padding: 0; }.product-image--tall img { object-fit: cover; object-position: top center; }
+.product-image--wide { padding: 0; }.product-image--wide img { object-fit: cover; object-position: center; }
 .product-card__body { display: flex; flex: 1; flex-direction: column; gap: .45rem; padding: 1rem; }
 .product-card h3 { margin: 0; font-size: 1.25rem; line-height: 1.05; }
 .price { margin: 0; color: var(--text); font-weight: 800; font-size: 1.15rem; }

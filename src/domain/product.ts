@@ -40,3 +40,16 @@ export type Product = {
 export const imageSource = (image?: ProductImage, preferCutout = true) => preferCutout
   ? image?.cutout?.src || image?.localOriginal || image?.src || ''
   : image?.localOriginal || image?.src || '';
+
+/**
+ * Card preview fit derived from image dimensions: strongly vertical images
+ * crop anchored at the top, strongly horizontal ones crop at the center.
+ * Moderately proportioned images keep the default letterboxed contain.
+ */
+export type ImageCardFit = 'tall' | 'wide' | null;
+export const imageCardFit = (image?: Pick<ProductImage, 'width' | 'height'>): ImageCardFit => {
+  if (!image?.width || !image?.height) return null;
+  if (image.height >= image.width * 1.6) return 'tall';
+  if (image.width >= image.height * 1.6) return 'wide';
+  return null;
+};
